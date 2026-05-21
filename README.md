@@ -1,6 +1,6 @@
 # GeneKnow Benchmark Evaluation
 
-Supporting material for the GeneKnow benchmark.
+Supporting material for GeneKnow.
 This repository contains workflows, scripts, test cases, and evaluation results for benchmarking GeneKnow against other methods on biomedical literature retrieval and claim verification tasks.
 
 ## Repository Structure
