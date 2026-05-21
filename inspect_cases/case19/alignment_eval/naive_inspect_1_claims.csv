@@ -1,0 +1,12 @@
+id,claim,question,claim_answer,evidence_answer,answer_note
+1,CNS neuroblastoma with FOXR2 activation (CNS NB-FOXR2) is a novel molecular entity within CNS‑PNETs.,Is CNS NB-FOXR2 a novel molecular entity within CNS-PNETs?,Yes,Yes,
+2,CNS NB-FOXR2 is enriched for tumors with neuroblastoma or ganglioneuroblastoma histology.,Is CNS NB-FOXR2 enriched for tumors with neuroblastoma or ganglioneuroblastoma histology?,Yes,Yes,
+3,"Genome-wide sequencing revealed recurrent, complex inter- and intrachromosomal rearrangements converging on FOXR2.",Did genome-wide sequencing reveal recurrent complex inter- and intrachromosomal rearrangements converging on FOXR2?,Yes,Yes,
+4,The rearrangements included fusion transcripts that retain the full FOXR2 coding sequence.,Did the rearrangements include fusion transcripts retaining the full FOXR2 coding sequence?,Yes,Yes,
+5,The rearrangements included tandem duplications.,Did the rearrangements include tandem duplications?,Yes,Yes,
+6,The rearrangements included upstream deletions.,Did the rearrangements include upstream deletions?,Yes,Yes,
+7,The rearrangements included a mitochondrial DNA insertion that created a novel promoter.,Did the rearrangements include a mitochondrial DNA insertion that created a novel promoter?,Yes,Yes,
+8,The FOXR2-converging rearrangements led to markedly increased FOXR2 expression compared with other CNS tumor types and normal brain.,Did the FOXR2-converging rearrangements lead to markedly increased FOXR2 expression versus other CNS tumors and normal brain?,Yes,Yes,
+9,The promoter-relocating and fusion events suggest FOXR2 activation facilitated by promoters of active genes.,Do promoter-relocating and fusion events suggest FOXR2 activation by promoters of active genes?,Yes,Yes,
+10,The authors implicate FOXR2 activation in instigating oncogenic activity in CNS NB-FOXR2.,Do the authors implicate FOXR2 activation in instigating oncogenic activity in CNS NB-FOXR2?,Yes,Yes,
+11,Gain of chromosome arm 1q was characteristic of CNS NB-FOXR2.,Was gain of chromosome arm 1q characteristic of CNS NB-FOXR2?,Yes,Yes,

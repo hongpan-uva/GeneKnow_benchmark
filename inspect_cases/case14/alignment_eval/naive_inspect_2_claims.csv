@@ -1,0 +1,25 @@
+id,claim,question,claim_answer,evidence_answer,answer_note
+1,KLF4 functions as a tumor suppressor in human colorectal cancer.,Does KLF4 function as a tumor suppressor in human colorectal cancer?,Yes,Yes,
+2,KLF4 is downregulated in CRC tissues compared with normal mucosa.,Is KLF4 downregulated in CRC tissues compared with normal mucosa?,Yes,Yes,
+3,KLF4 inhibits colorectal cancer growth in mice.,Does KLF4 inhibit colorectal cancer growth in mice?,Yes,Yes,
+4,KLF4 inhibits CRC cell proliferation by upregulating p21.,Does KLF4 inhibit CRC cell proliferation by upregulating p21?,Yes,Yes,
+5,KLF4 inhibits CRC cell proliferation by upregulating NDRG2.,Does KLF4 inhibit CRC cell proliferation by upregulating NDRG2?,Yes,Yes,
+6,KLF4 inhibits CRC cell proliferation by downregulating cyclinD1.,Does KLF4 inhibit CRC cell proliferation by downregulating cyclin D1?,Yes,Yes,
+7,KLF4 inhibits CRC cell proliferation by downregulating GINS4.,Does KLF4 inhibit CRC cell proliferation by downregulating GINS4?,Yes,Yes,
+8,KLF4 inhibits CRC cell proliferation by downregulating IFITM3.,Does KLF4 inhibit CRC cell proliferation by downregulating IFITM3?,Yes,Yes,
+9,KLF4 deficiency accelerates colitis.,Does KLF4 deficiency accelerate colitis?,Yes,Yes,
+10,KLF4 deficiency accelerates colon cancer.,Does KLF4 deficiency accelerate colon cancer?,Yes,Yes,
+11,KLF4 deficiency is associated with tumor development via epithelial–mesenchymal transition.,Is KLF4 deficiency associated with tumor development via epithelial–mesenchymal transition?,Yes,Yes,
+12,MicroRNA‑92a and microRNA‑10b promote colorectal cancer growth by downregulating KLF4.,Do microRNA-192a and microRNA-10b promote colorectal cancer growth by downregulating KLF4?,Yes,Idk,"Passage cites miR-92a and miR-10b, not miR-192a."
+13,MicroRNA‑92a and microRNA‑10b promote colorectal cancer migration by downregulating KLF4.,Do microRNA-192a and microRNA-10b promote colorectal cancer migration by downregulating KLF4?,Yes,Idk,"Passage cites miR-92a and miR-10b, not miR-192a."
+14,MicroRNA‑92a and microRNA‑10b promote colorectal cancer proliferation by downregulating KLF4.,Do microRNA-192a and microRNA-10b promote colorectal cancer proliferation by downregulating KLF4?,Yes,Idk,"Passage cites miR-92a and miR-10b, not miR-192a."
+15,MicroRNA‑92a and microRNA‑10b promote colorectal cancer metastasis by downregulating KLF4.,Do microRNA-192a and microRNA-10b promote colorectal cancer metastasis by downregulating KLF4?,Yes,Idk,"Passage cites miR-92a and miR-10b, not miR-192a."
+16,The literature reports that the transcription factor CDX2 negatively regulates KLF4.,Does the literature report that CDX2 negatively regulates KLF4?,Yes,Yes,
+17,The literature reports that in colon cells CDX2 upregulates KLF4 by binding the KLF4 promoter and reducing association of H3K4 trimethylation with the KDM5B demethylase.,Does the literature report CDX2 upregulates KLF4 in colon cells by binding its promoter and reducing H3K4 trimethylation association with KDM5B?,Yes,Yes,
+18,In a clinical trial metformin increased KLF4 expression.,Did metformin increase KLF4 expression in a clinical trial?,Yes,Yes,
+19,In a clinical trial metformin positively affected colorectal cancer.,Did metformin positively affect colorectal cancer in a clinical trial?,Yes,Yes,
+20,APTO‑253 is a KLF4 inducer.,Is APTO-253 a KLF4 inducer?,Yes,Yes,
+21,APTO‑253 halted some advanced tumors in a trial.,Did APTO-253 halt some advanced tumors in a trial?,Yes,Yes,
+22,Development of APTO‑253 stopped after reported MYC inhibition.,Did development of APTO-253 stop after reported MYC inhibition?,Yes,Yes,
+23,Transcription factors are considered undruggable.,Are transcription factors considered undruggable?,Yes,Yes,
+24,It is premature to treat KLF4 as a general cancer therapy target.,Is it premature to treat KLF4 as a general cancer therapy target?,Yes,Yes,

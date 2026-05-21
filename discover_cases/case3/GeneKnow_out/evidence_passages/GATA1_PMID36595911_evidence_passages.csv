@@ -1,0 +1,4 @@
+text,jr_score,summary
+This step describes the procedures used for zebrafish erythrocytes isolation by FACS ( Figure 1 ). The circulating erythrocytes which are labelled by gata1 :dsRed can be sorted based on the fluorescent protein expression. 1,0.48814258,no function revealed
+The erythrocytes ( gata1 :dsRed + ) were sorted using MoFlo XDP (Beckman Coulter) and collected into 1% FBS in DPBS in a new 200 μL microcentrifuge tube.,0.40924755,no function revealed
+Collect the Tg ( gata1 :dsRed) zebrafish embryos which have the specific fluorescence expression in the circulating RBCs under the fluorescence microscope. 75% of embryos were expected to be fluorescent.,0.3688223,Tg(gata1:dsRed) zebrafish embryos show specific dsRed fluorescence in circulating red blood cells; 75% of embryos were expected to be fluorescent.

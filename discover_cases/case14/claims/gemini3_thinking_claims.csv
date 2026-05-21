@@ -1,0 +1,12 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,Krüppel-like factor 4 (KLF4) predominantly functions as a tumor suppressor in colorectal cancer (CRC).,"(Zhao et al., 2004);(Wei et al., 2005)",Does KLF4 predominantly function as a tumor suppressor in colorectal cancer?,Yes,Yes,
+2,KLF4 expression is significantly downregulated in human CRC tissues and cell lines compared to healthy colonic mucosa.,"(Zhao et al., 2004);(Wei et al., 2005)",Is KLF4 expression significantly downregulated in human CRC tissues and cell lines versus healthy colonic mucosa?,Yes,Yes,
+3,KLF4 exerts antiproliferative effects by inducing the expression of the cyclin-dependent kinase inhibitor p21^WAF1/CIP1^.,"(Zhao et al., 2004)",Does KLF4 exert antiproliferative effects by inducing p21WAF1/CIP1 expression?,Yes,Yes,
+4,KLF4 interacts directly with β-catenin and the T-cell factor 4 (TCF4) complex to block the recruitment of the coactivator p300/CBP.,"(Evans et al., 2010)",Does KLF4 interact directly with β-catenin and TCF4 to block p300/CBP recruitment?,Yes,Yes,
+5,KLF4 inhibits the pro-tumorigenic Wnt/β-catenin signaling pathway.,"(Evans et al., 2010)",Does KLF4 inhibit the pro-tumorigenic Wnt/β-catenin signaling pathway?,Yes,Yes,
+6,In vivo studies using mouse models confirm that KLF4 suppresses the development of colonic neoplasia.,"(Ghaleb et al., 2016)",Do in vivo mouse studies confirm KLF4 suppresses colonic neoplasia development?,Yes,Yes,
+7,The function of KLF4 is context-dependent.,,Is the function of KLF4 context-dependent?,Yes,,
+8,"Following γ-radiation-induced DNA damage, KLF4 exhibits anti-apoptotic activity in colorectal cancer (CRC) cells.","(Ghaleb et al., 2006)","After γ-radiation-induced DNA damage, does KLF4 exhibit anti-apoptotic activity in CRC cells?",Yes,Yes,
+9,"Following γ-radiation-induced DNA damage, KLF4 activates p21^WAF1/CIP1^ in CRC cells.","(Ghaleb et al., 2006)","After γ-radiation-induced DNA damage, does KLF4 activate p21 in CRC cells?",Yes,Yes,
+10,"Following γ-radiation-induced DNA damage, KLF4 represses p53-mediated transactivation of the pro-apoptotic gene BAX in CRC cells.","(Ghaleb et al., 2006)","After γ-radiation-induced DNA damage, does KLF4 repress p53-mediated transactivation of BAX in CRC cells?",Yes,Yes,
+11,No direct evidence currently supports a primary oncogenic role for wild-type KLF4 in the development or progression of colorectal epithelial tumors.,,Is there currently no direct evidence supporting a primary oncogenic role for wild-type KLF4 in colorectal epithelial tumors?,Yes,,

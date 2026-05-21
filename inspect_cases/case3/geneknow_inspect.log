@@ -1,0 +1,13 @@
+inspect mode: Namespace(command='inspect', genes=['PAX5'], genes_file=None, context=['B cell'], outdir=PosixPath('.'), name='GeneKnow_inspect', species='human', max_passages=3, auto_alias=False, pmid='39424985', pmcid=None, suffix_allowed=True, func=<function run_inspect_mode at 0x75381caec9a0>)
+Tokenize texts:   0%|          | 0/16 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/16 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/16 [00:00<?, ?it/s]                                                            [PMID 39424985] Generating passage summaries for PAX5...
+[PMID 39424985] Generating the article summary for PAX5...
+[PMID 39424985] Verifying the article summary for PAX5...
+Extracting claims from summary
+Verifying valid passage: Conditional deletion of PCAF a...
+Verifying valid passage: Expression of the constitutive...
+Verifying valid passage: In a PCA of RNA-seq data, Pax5...
+2 revision(s) were applied
+
+real	3m53.855s
+user	0m4.264s
+sys	0m1.852s

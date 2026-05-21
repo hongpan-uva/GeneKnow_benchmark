@@ -1,0 +1,18 @@
+id,claim,question,claim_answer,evidence_answer,answer_note
+1,NEUROD1 is a proneural bHLH transcription factor.,Is NEUROD1 a proneural bHLH transcription factor?,Yes,Yes,
+2,NEUROD1 is required for neuronal fate specification and differentiation across species and contexts.,Is NEUROD1 required for neuronal fate specification and differentiation across species and contexts?,Yes,Yes,
+3,"Examples of species and contexts where NEUROD1 is required for neuronal fate specification and differentiation include Xenopus, mouse embryonic CNS, cerebellar granule cells, dentate gyrus, adult hippocampal and olfactory neurogenesis, inner ear sensory neurons, and retina.","Is NEUROD1 required for neuronal fate in Xenopus, mouse CNS, cerebellum, dentate gyrus, hippocampus, olfactory system, inner ear, and retina?",Yes,No,Olfactory initial differentiation unaffected by NEUROD1 elimination
+4,NEUROD1 binds promoters and enhancers in closed heterochromatin.,Does NEUROD1 bind promoters and enhancers in closed heterochromatin?,Yes,Yes,
+5,NEUROD1 acts as a pioneer factor.,Does NEUROD1 act as a pioneer factor?,Yes,Yes,
+6,NEUROD1 recruits and remodels chromatin.,Does NEUROD1 recruit and remodel chromatin?,Yes,Yes,
+7,NEUROD1's recruitment/remodeling of chromatin includes loss of H3K27me3.,Does NEUROD1's recruitment or remodeling of chromatin include loss of H3K27me3?,Yes,Yes,
+8,NEUROD1's recruitment/remodeling of chromatin includes gain of H3K27ac.,Does NEUROD1's recruitment or remodeling of chromatin include gain of H3K27ac?,Yes,Yes,
+9,NEUROD1's recruitment/remodeling of chromatin includes gain of H3K4me3.,Does NEUROD1's recruitment or remodeling of chromatin include gain of H3K4me3?,Yes,Yes,
+10,"NEUROD1 displaces factors maintaining pluripotency (UTF1, TBX3).","Does NEUROD1 displace factors that maintain pluripotency, such as UTF1 and TBX3?",Yes,Yes,
+11,NEUROD1 interacts with cofactors TCF12 and FOXG1.,Does NEUROD1 interact with cofactors TCF12 and FOXG1?,Yes,Yes,
+12,NEUROD1 preferentially binds unmethylated CpG and bivalent domains.,Does NEUROD1 preferentially bind unmethylated CpG sites and bivalent domains?,Yes,Yes,
+13,NEUROD1 induces effectors such as JMJD3.,Does NEUROD1 induce effectors such as JMJD3?,Yes,Yes,
+14,"NEUROD1's actions activate neuronal developmental genes including Pou3f2, Insm1, Nhlh1, Atoh1, Neurod4, and Nhlh2.","Does NEUROD1 activate neuronal developmental genes like Pou3f2, Insm1, Nhlh1, Atoh1, Neurod4, and Nhlh2?",Yes,Yes,
+15,NEUROD1's actions override pluripotency.,Do NEUROD1's actions override pluripotency?,Yes,Yes,
+16,NEUROD1's actions promote neurogenesis and maturation.,Do NEUROD1's actions promote neurogenesis and maturation?,Yes,Yes,
+17,NEUROD1's actions enable NEUROD1-driven neuronal reprogramming with persistent epigenetic memory.,Do NEUROD1's actions enable NEUROD1-driven neuronal reprogramming with persistent epigenetic memory?,Yes,Yes,

@@ -1,0 +1,10 @@
+id,claim,question,claim_answer,evidence_answer,answer_note,category,source_ids
+1,"In human isogenic iPSC-derived neurons, APOE4 increases neuronal differentiation.",Does APOE4 increase neuronal differentiation in human isogenic iPSC-derived neurons?,Yes,,,direct_function,2
+2,"In human isogenic iPSC-derived neurons, APOE4 increases synapse number relative to isogenic APOE3 neurons.",Does APOE4 increase synapse number compared to isogenic APOE3 neurons?,Yes,,,direct_function,5;9;10
+3,"In human isogenic iPSC-derived neurons, APOE4 increases mEPSC frequency.",Does APOE4 increase mEPSC frequency in human isogenic iPSC-derived neurons?,Yes,,,direct_function,8
+4,"In human isogenic iPSC-derived neurons, APOE4 elevates Aβ42 secretion relative to isogenic APOE3 neurons.",Does APOE4 elevate Aβ42 secretion compared to isogenic APOE3 neurons?,Yes,,,direct_function,11;12;13
+5,"In human isogenic iPSC-derived astrocytes, APOE4 reduces APOE mRNA, APOE protein, and APOE secretion.",Does APOE4 reduce APOE expression and secretion in human isogenic iPSC-derived astrocytes?,Yes,,,direct_function,14;17;20
+6,APOE4 astrocytes display impaired Aβ uptake.,Do APOE4 astrocytes display impaired Aβ uptake?,Yes,,,direct_function,15;16
+7,APOE4 astrocytes display cholesterol accumulation.,Do APOE4 astrocytes display cholesterol accumulation?,Yes,,,direct_function,18;19
+8,APOE4 is the single greatest genetic risk factor for sporadic Alzheimer's disease.,Is APOE4 the single greatest genetic risk factor for sporadic Alzheimer's disease?,Yes,,,impact,1;3
+9,APOE4 affects major brain cell types in CRISPR/Cas9-edited human iPSC models and in isogenic lines derived from APOE3 parental cells.,Does APOE4 affect major brain cell types in CRISPR/Cas9-edited human iPSC models and isogenic APOE3-derived lines?,Yes,,,impact,4;7

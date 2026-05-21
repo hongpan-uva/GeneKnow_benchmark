@@ -1,0 +1,15 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,PU.1 is encoded by the SPI1 gene.,,Is PU.1 encoded by the SPI1 gene?,Yes,,
+2,PU.1 is a member of the ETS family of transcription factors.,,Is PU.1 a member of the ETS family of transcription factors?,Yes,,
+3,PU.1 serves as a master regulator of myeloid cell development.,,Does PU.1 serve as a master regulator of myeloid cell development?,Yes,,
+4,PU.1 is necessary for macrophage differentiation.,,Is PU.1 necessary for macrophage differentiation?,Yes,,
+5,PU.1 is sufficient for macrophage differentiation.,,Is PU.1 sufficient for macrophage differentiation?,Yes,,
+6,PU.1-knockout mice lack macrophages entirely.,"(McKercher et al., 1996)",Do PU.1-knockout mice lack macrophages entirely?,Yes,No,A few F4/80+ macrophage-like cells appear in older PU.1 null mice.
+7,PU.1 is essential for macrophage generation from hematopoietic progenitors.,"(McKercher et al., 1996)",Is PU.1 essential for macrophage generation from hematopoietic progenitors?,Yes,Yes,
+8,"PU.1 directly activates the promoters of macrophage-specific genes, including the CSF1 receptor (Csf1r).","(Aikawa et al., 2010)","Does PU.1 directly activate macrophage gene promoters, including Csf1r?",Yes,Yes,
+9,The CSF1 receptor (Csf1r) is critical for macrophage survival and proliferation.,"(Aikawa et al., 2010)",Is the CSF1 receptor (Csf1r) critical for macrophage survival and proliferation?,Yes,Idk,Passage does not explicitly state CSF1R role in macrophage survival or proliferation
+10,High levels of PU.1 within progenitor cells favor macrophage fate.,"(DeKoter & Singh, 2000)",Do high PU.1 levels in progenitor cells favor macrophage fate?,Yes,Yes,
+11,Low levels of PU.1 within progenitor cells promote B-lymphocyte development.,"(DeKoter & Singh, 2000)",Do low PU.1 levels in progenitor cells promote B-lymphocyte development?,Yes,Yes,
+12,The concentration-dependent effects of PU.1 indicate a dose-dependent lineage commitment mechanism.,"(DeKoter & Singh, 2000)",Do PU.1 concentration-dependent effects indicate dose-dependent lineage commitment?,Yes,Yes,
+13,"PU.1 cooperates with other transcription factors such as C/EBPα in mature macrophages to establish the enhancer landscape that governs macrophage-specific gene expression programs, including those activated during inflammatory responses.","(Ghisletti et al., 2010)",Does PU.1 cooperate with transcription factors like C/EBPα to establish macrophage enhancer landscapes?,Yes,Yes,
+14,PU.1 directly regulates genes involved in macrophage effector functions such as phagocytosis and cytokine production.,"(Celada et al., 1996)",Does PU.1 directly regulate genes for macrophage effector functions like phagocytosis and cytokine production?,Yes,Yes,

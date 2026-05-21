@@ -1,0 +1,13 @@
+inspect mode: Namespace(command='inspect', genes=['TCF7L2'], genes_file=None, context=['diabetes mellitus', 'diabetes', 'T2D', 'T2DM'], outdir=PosixPath('.'), name='GeneKnow_inspect', species='human', max_passages=3, auto_alias=False, pmid='34016596', pmcid=None, suffix_allowed=True, func=<function run_inspect_mode at 0x7bc21b1c1c60>)
+Tokenize texts:   0%|          | 0/28 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/28 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/28 [00:00<?, ?it/s]                                                            [PMID 34016596] Generating passage summaries for TCF7L2...
+[PMID 34016596] Generating the article summary for TCF7L2...
+[PMID 34016596] Verifying the article summary for TCF7L2...
+Extracting claims from summary
+Verifying valid passage: Additional studies in differen...
+Verifying valid passage: Resequencing of the TCF7L2 gen...
+Verifying valid passage: TCF7L2 association with T2D ha...
+1 revision(s) were applied
+
+real	1m59.997s
+user	0m3.254s
+sys	0m1.622s

@@ -1,0 +1,23 @@
+MYOD1 is a master transcription factor that serves as a primary determinant of skeletal muscle lineage specification and differentiation (Hernández-Hernández et al., 2017). As a basic helix-loop-helix (bHLH) protein, it heterodimerizes with E-proteins to recognize and bind E-box motifs ($CANNTG$) within the regulatory regions of muscle-specific genes (Battistelli et al., 2022). This binding capacity allows MYOD1 to reprogram diverse non-muscle somatic cells, such as fibroblasts, directly into the myogenic lineage (Battistelli et al., 2022). Beyond early specification, MYOD1 facilitates the assembly of active muscle enhancers by recruiting chromatin-remodeling enzymes and histone-modifying proteins, establishing the epigenetic landscape necessary for myogenesis (Blum & Dynlacht, 2013). It acts hierarchically with other myogenic regulatory factors, such as myogenin, which is required for the subsequent assembly of the transcriptional machinery on differentiation-specific genes (Adhikari et al., 2021). Additionally, MYOD1 functions as a clock amplifier in skeletal muscle, synergistically interacting with core circadian factors like BMAL1 and CLOCK to regulate the amplitude of clock-controlled genes (Hodge et al., 2019). Recent research further demonstrates that MYOD1 orchestrates systemic energy homeostasis by mediating muscle-fat crosstalk through the secretion of the lipokine DLPC (Hu et al., 2023).
+
+### References
+
+Adhikari, A., Kim, W., & Davie, J. (2021). Myogenin is required for assembly of the transcription machinery on muscle genes during skeletal muscle differentiation. *PLOS ONE*, *16*(1), e0245618. [https://doi.org/10.1371/journal.pone.0245618](https://www.google.com/search?q=https://doi.org/10.1371/journal.pone.0245618)
+Cited by: 78
+
+Battistelli, C., Garbo, S., & Maione, R. (2022). MyoD-Induced Trans-Differentiation: A Paradigm for Dissecting the Molecular Mechanisms of Cell Commitment, Differentiation and Reprogramming. *Cells*, *11*(21), 3435. [https://doi.org/10.3390/cells11213435](https://doi.org/10.3390/cells11213435)
+Cited by: 29
+
+Blum, R., & Dynlacht, B. D. (2013). The role of MyoD1 and histone modifications in the activation of muscle enhancers. *Epigenetics*, *8*(8), 778–784. [https://doi.org/10.4161/epi.25441](https://www.google.com/search?q=https://doi.org/10.4161/epi.25441)
+Cited by: 89
+
+Hernández-Hernández, J. M., García-González, E. G., Brun, C. E., & Rudnicki, M. A. (2017). The myogenic regulatory factors, determinants of muscle development, cell identity and regeneration. *Seminars in Cell & Developmental Biology*, *72*, 10–18. [https://doi.org/10.1016/j.semcdb.2017.11.010](https://doi.org/10.1016/j.semcdb.2017.11.010)
+Cited by: 749
+
+Hodge, B. A., Zhang, X., Gutierrez-Monreal, M. A., Cao, Y., Hammers, D. W., Yao, Z., Wolff, C. A., Du, P., Kemler, D., Judge, A. R., & Esser, K. A. (2019). MYOD1 functions as a clock amplifier as well as a critical co-factor for downstream circadian gene expression in muscle. *eLife*, *8*. [https://doi.org/10.7554/elife.43017](https://doi.org/10.7554/elife.43017)
+Cited by: 81
+
+Hu, X., Sun, M., Chen, Q., Zhao, Y., Liang, N., Wang, S., Yin, P., Yang, Y., Lam, S. M., Zhang, Q., Tudiyusufu, A., Gu, Y., Wan, X., Chen, M., Li, H., Zhang, X., Shui, G., Fu, S., Zhang, L., ... Zhu, D. (2023). Skeletal muscle-secreted DLPC orchestrates systemic energy homeostasis by enhancing adipose browning. [https://doi.org/10.21203/rs.3.rs-2924448/v1](https://www.google.com/search?q=https://doi.org/10.21203/rs.3.rs-2924448/v1)
+Cited by: 21
+
+

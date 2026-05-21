@@ -1,0 +1,8 @@
+naive_inspect_2 mode: Namespace(genes=['PD-1'], genes_file=None, context=['melanoma'], outdir=PosixPath('.'), name='naive_inspect_2', species='human', max_passages=3, auto_alias=False, pmid='30089911', pmcid=None, suffix_allowed=True)
+Tokenize texts:   0%|          | 0/13 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/13 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/13 [00:00<?, ?it/s]                                                            [PMID 30089911] Generating passage summaries for PD-1...
+[PMID 30089911] Generating the article summary for PD-1...
+[PMID 30089911] Skipping verification for PD-1 (naive_inspect_2 mode)...
+
+real	0m51.812s
+user	0m3.493s
+sys	0m1.690s

@@ -1,0 +1,11 @@
+id,claim,question,claim_answer,evidence_answer,answer_note,category,source_ids
+1,"In colorectal cancer cells, KLF4 upregulates p21.",Does KLF4 upregulate p21 in colorectal cancer cells?,Yes,,,direct_function,10
+2,"In colorectal cancer cells, KLF4 upregulates NDRG2.",Does KLF4 upregulate NDRG2 in colorectal cancer cells?,Yes,,,direct_function,13
+3,"In colorectal cancer cells, KLF4 downregulates cyclin D1.",Does KLF4 downregulate cyclin D1 in colorectal cancer cells?,Yes,,,direct_function,16
+4,"In colorectal cancer cells, KLF4 downregulates GINS4.",Does KLF4 downregulate GINS4 in colorectal cancer cells?,Yes,,,direct_function,19
+5,"In human colorectal cancer tissues and in mouse models of colorectal cancer, KLF4 functions as a tumor suppressor.",Does KLF4 function as a tumor suppressor in human colorectal cancer tissues and mouse models?,Yes,,,impact,1;2;3
+6,KLF4 inhibits colorectal cancer tumor growth in mice.,Does KLF4 inhibit colorectal cancer tumor growth in mice?,Yes,,,impact,7;8;9
+7,KLF4 restrains colorectal cancer cell proliferation by upregulating p21.,Does KLF4 restrain colorectal cancer cell proliferation by upregulating p21?,Yes,,,impact,11;12
+8,KLF4 restrains colorectal cancer cell proliferation by upregulating NDRG2.,Does KLF4 restrain colorectal cancer cell proliferation by upregulating NDRG2?,Yes,,,impact,14;15
+9,KLF4 restrains colorectal cancer cell proliferation by downregulating cyclin D1.,Does KLF4 restrain colorectal cancer cell proliferation by downregulating cyclin D1?,Yes,,,impact,17;18
+10,KLF4 restrains colorectal cancer cell proliferation by downregulating GINS4.,Does KLF4 restrain colorectal cancer cell proliferation by downregulating GINS4?,Yes,,,impact,20

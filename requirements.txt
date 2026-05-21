@@ -1,0 +1,5 @@
+pandas
+openai
+jsonschema
+beautifulsoup4
+pymupdf4llm

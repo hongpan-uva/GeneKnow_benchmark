@@ -1,0 +1,17 @@
+id,claim,question,claim_answer,evidence_answer,answer_note
+1,NOTCH1 dimeric signaling is required for the leukemogenesis of human cord blood HSPCs.,Is NOTCH1 dimeric signaling required for leukemogenesis of human cord blood HSPCs?,Yes,Yes,
+2,NOTCH1 dimeric signaling is required for the maintenance of human T-ALL.,Is NOTCH1 dimeric signaling required for maintenance of human T-ALL?,Yes,Yes,
+3,Disruption of dimerization (ICN1-R1984A) prevents leukemic transformation.,Does disruption of dimerization (ICN1-R1984A) prevent leukemic transformation?,Yes,Yes,
+4,NOTCH1 dimers induce a dimerization-dependent transcriptional signature.,Do NOTCH1 dimers induce a dimerization-dependent transcriptional signature?,Yes,Yes,
+5,The dimerization-dependent transcriptional signature induced by NOTCH1 dimers includes the transcription factor HES4.,Does the dimerization-dependent NOTCH1 transcriptional signature include the transcription factor HES4?,Yes,Yes,
+6,"HES4 enforces an isoform switch at the TP53 locus by promoting the Δ133p53 (P1-driven) transcript while reducing full-length p53 (P2-driven), via increased RNA polymerase II and H3K27Ac at P1.",Does HES4 enforce a TP53 isoform switch favoring Δ133p53?,Yes,Yes,
+7,Induction of BCL2L1/Bcl-xL is downstream of Δ133p53.,Is induction of BCL2L1/Bcl-xL downstream of Δ133p53?,Yes,Idk,Passage doesn't state BCL2L1 is induced downstream of Δ133p53.
+8,Δ133p53 blocks proapoptotic p53 target genes.,Does Δ133p53 block proapoptotic p53 target genes?,Yes,Yes,
+9,Induction of BCL2L1/Bcl-xL blocks proapoptotic p53 target genes.,Does induction of BCL2L1/Bcl-xL block proapoptotic p53 target genes?,Yes,Idk,No explicit statement that Bcl-xL blocks proapoptotic gene expression.
+10,Δ133p53 reduces apoptosis.,Does Δ133p53 reduce apoptosis?,Yes,Yes,
+11,Induction of BCL2L1/Bcl-xL reduces apoptosis.,Does induction of BCL2L1/Bcl-xL reduce apoptosis?,Yes,Yes,
+12,HES4/Δ133p53 signaling promotes proliferation.,Does HES4/Δ133p53 signaling promote proliferation?,Yes,Yes,
+13,HES4/Δ133p53 signaling rescues NOTCH inhibition.,Does HES4/Δ133p53 signaling rescue NOTCH inhibition?,Yes,Yes,
+14,HES4/Δ133p53 signaling supports PDX expansion.,Does HES4/Δ133p53 signaling support PDX expansion?,Yes,Yes,
+15,HES4/Δ133p53 signaling supports cell-line expansion.,Does HES4/Δ133p53 signaling support cell-line expansion?,Yes,Yes,
+16,HES4/Δ133p53 signaling defines a patient NDIM-high T-ALL subtype with poor event-free survival and high HES4/BCL2L1 expression.,Does HES4/Δ133p53 signaling define an NDIM-high T-ALL subtype?,Yes,Yes,

@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['KLF4'], genes_file=None, context=['colorectal cancer', 'CRC'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='37031197', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 37 paragraphs, total text length: 34337 characters
+[PMID 37031197] Generating direct summary for KLF4 from full text...
+[PMID 37031197] Skipping verification for KLF4 (naive_inspect_1 mode)...
+
+real	0m47.879s
+user	0m3.739s
+sys	0m1.919s

@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeneKnow Discover Report - GeneKnow_out</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      margin: 2rem;
+      color: #111;
+      background: #fafafa;
+    }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin: 0 0 1rem 0;
+    }
+    .hint {
+      color: #555;
+      margin: 0 0 1.5rem 0;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e6e6e6;
+      border-radius: 14px;
+      padding: 1.25rem 1.25rem 0.9rem 1.25rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+    }
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .gene {
+      font-size: 1.25rem;
+      margin: 0;
+      letter-spacing: 0.2px;
+    }
+    .summary {
+      margin: 0.5rem 0 0.9rem 0;
+      line-height: 1.45;
+      color: #222;
+      white-space: pre-wrap; /* keeps newlines if summary includes them */
+    }
+    .note-box {
+      margin: 1rem 0;
+      padding: 0.8rem 1rem;
+      background: #fff3cd;
+      border-left: 3px solid #ffc107;
+      border-radius: 0 6px 6px 0;
+      color: #856404;
+    }
+    .note-box strong {
+      color: #856404;
+    }
+    details.refs {
+      border-top: 1px dashed #e5e5e5;
+      padding-top: 0.75rem;
+      margin-top: 0.25rem;
+    }
+    details.refs > summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #1f2937;
+      list-style: none;
+    }
+    details.refs > summary::-webkit-details-marker {
+      display: none;
+    }
+    details.refs > summary::before {
+      content: "▸";
+      display: inline-block;
+      margin-right: 0.5rem;
+      transform: translateY(-1px);
+    }
+    details.refs[open] > summary::before {
+      content: "▾";
+    }
+    details.refs ul {
+      margin: 0.6rem 0 0.4rem 1.2rem;
+      padding: 0;
+      color: #333;
+    }
+    details.refs li {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+      padding: 0.3rem 0;
+      border-bottom: 1px dashed #e5e5e5;
+    }
+    details.refs li:last-child {
+      border-bottom: none;
+    }
+    /* Style for PMID in reference list */
+    details.refs li {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    /* Link styling in references */
+    details.refs li a {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    details.refs li a:hover {
+      color: #1d4ed8;
+    }
+    .details-link {
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e5e5e5;
+      color: #666;
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    code {
+      background: #f1f5f9;
+      padding: 0.1rem 0.3rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GeneKnow Discover Report - GeneKnow_out</h1>
+    <p class="hint">Click <b>References</b> to expand/collapse references and more details.</p>
+
+    
+        <section class="card">
+          <div class="card-header">
+            <h2 class="gene">ESR1</h2>
+          </div>
+
+          <p class="summary">ESR1 mediates estrogen-independent ER transcriptional activity [1,2]. ESR1 mediates endocrine therapy resistance [2,3]. Specifically, ESR1 in-frame fusions in ER+ breast cancer exclude the ligand-binding domain and drive estrogen-independent ER transcription [1]. ESR1 Y537S mutations drive estrogen-independent metabolic rewiring with elevated TCA activity [1]. PROTAC ARV-471 degrades Y537S/D538G mutants and inhibits tumor growth [1]. In long-term estrogen-deprived ER-positive breast cancer models, ESR1 acquired Y537C or Y537S mutations [2]. The mutations had enriched chromatin binding and enhanced estrogen-independent transcriptional activity [2]. The mutations arise during estrogen withdrawal and mediate the most common mechanism of endocrine therapy resistance [2]. Baseline ESR1 Y537S predicted poor outcomes and Y537C predicted good outcomes in fulvestrant-treated breast cancer [4]. ESR1 F404 contributed to fulvestrant binding via pi-stacking [4]. F404 mutations in cis with activating ESR1 mutations disrupted the pi-stacking bond and conferred fulvestrant resistance [4]. In ER+ breast cancer, activating ESR1 mutations arise in metastatic tumours after aromatase inhibitor exposure [3]. The mutations persist and drive acquired resistance to endocrine therapy [3]. The mutations specify tumours retaining ER dependence [3]. Elacestrant improved PFS in ESR1-mutant advanced disease [3]. In HR-positive HER2-negative metastatic breast cancer, patients whose tumors harbor ESR1 mutations are being treated with novel selective estrogen receptor degraders (SERDs) as the evolving standard of care [5].</p>
+          
+          
+
+          <details class="refs">
+            <summary>References</summary>
+            <ul>
+              <li>[1] Hanker, A. B., Sudhan, D. R., &amp; Arteaga, C. L. (2020). Overcoming Endocrine Resistance in Breast Cancer. <i>Cancer Cell</i>, 37(4), 496-513. <a href="https://doi.org/10.1016/j.ccell.2020.03.009" target="_blank">https://doi.org/10.1016/j.ccell.2020.03.009</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32289273/" target="_blank">32289273</a>  <a href="html/ESR1_PMID32289273.html" target="_blank" class="details-link">Details →</a></li>
+<li>[2] Dustin, D., Gu, G., &amp; Fuqua, S. A. W. (2019). ESR1 mutations in breast cancer. <i>Cancer</i>, 125(21), 3714-3728. <a href="https://doi.org/10.1002/cncr.32345" target="_blank">https://doi.org/10.1002/cncr.32345</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/31318440/" target="_blank">31318440</a>  <a href="html/ESR1_PMID31318440.html" target="_blank" class="details-link">Details →</a></li>
+<li>[3] Will, M., Liang, J., Metcalfe, C., &amp; Chandarlapaty, S. (2023). Therapeutic resistance to anti-oestrogen therapy in breast cancer. <i>Nat Rev Cancer</i>, 23(10), 673-685. <a href="https://doi.org/10.1038/s41568-023-00604-3" target="_blank">https://doi.org/10.1038/s41568-023-00604-3</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/37500767/" target="_blank">37500767</a>  <a href="html/ESR1_PMID37500767.html" target="_blank" class="details-link">Details →</a></li>
+<li>[4] Kingston, B., Pearson, A., Herrera-Abreu, M. T., Sim, L. X., Cutts, R. J., Shah, H., Moretti, L., Kilburn, L. S., Johnson, H., Macpherson, I. R., Ring, A., Bliss, J. M., Hou, Y., Toy, W., Katzenellenbogen, J. A., Chandarlapaty, S., &amp; Turner, N. C. (2024). ESR1 F404 Mutations and Acquired Resistance to Fulvestrant in ESR1-Mutant Breast Cancer. <i>Cancer Discov</i>, 14(2), 274-289. <a href="https://doi.org/10.1158/2159-8290.cd-22-1387" target="_blank">https://doi.org/10.1158/2159-8290.cd-22-1387</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/37982575/" target="_blank">37982575</a>  <a href="html/ESR1_PMID37982575.html" target="_blank" class="details-link">Details →</a></li>
+<li>[5] Bhave, M. A., Quintanilha, J. C. F., Tukachinsky, H., Li, G., Scott, T., Ross, J. S., Pasquina, L., Huang, R. S. P., McArthur, H., Levy, M. A., Graf, R. P., &amp; Kalinsky, K. (2024). Comprehensive genomic profiling of ESR1, PIK3CA, AKT1, and PTEN in HR(+)HER2(-) metastatic breast cancer: prevalence along treatment course and predictive value for endocrine therapy resistance in real-world practice. <i>Breast Cancer Res Treat</i>, 207(3), 599-609. <a href="https://doi.org/10.1007/s10549-024-07376-w" target="_blank">https://doi.org/10.1007/s10549-024-07376-w</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/38872062/" target="_blank">38872062</a>  <a href="html/ESR1_PMID38872062.html" target="_blank" class="details-link">Details →</a></li>
+            </ul>
+          </details>
+        </section>
+        
+
+    <div class="footer">
+      Generated by <code>GeneKnow</code>
+    </div>
+  </div>
+</body>
+</html>

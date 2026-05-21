@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['PU.1'], genes_file=None, context=['macrophage'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='40673490', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 20 paragraphs, total text length: 35738 characters
+[PMID 40673490] Generating direct summary for PU.1 from full text...
+[PMID 40673490] Skipping verification for PU.1 (naive_inspect_1 mode)...
+
+real	0m33.176s
+user	0m2.904s
+sys	0m1.340s

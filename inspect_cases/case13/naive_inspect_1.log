@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['PD-L1'], genes_file=None, context=['non-small cell lung cancer', 'NSCLC'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='35159131', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 89 paragraphs, total text length: 69132 characters
+[PMID 35159131] Generating direct summary for PD-L1 from full text...
+[PMID 35159131] Skipping verification for PD-L1 (naive_inspect_1 mode)...
+
+real	0m43.139s
+user	0m3.195s
+sys	0m1.330s

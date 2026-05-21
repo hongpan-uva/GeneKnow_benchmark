@@ -1,0 +1,2 @@
+Write a concise single-paragraph synopsis (~200 words) describing the functional relationship between {gene} and {cell_type}, including only claims directly supported by peer-reviewed research articles; do not infer, speculate, or generalize beyond what is explicitly reported. For each claim, cite a real publication that directly supports that specific statement, and present the references after the paragraph in APA 7th format with DOI links. If no direct evidence exists, explicitly state that instead of extrapolating.
+

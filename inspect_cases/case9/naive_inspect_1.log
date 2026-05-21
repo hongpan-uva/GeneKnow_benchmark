@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['OLIG2'], genes_file=None, context=['oligodendrocyte', 'oligodendroglia', 'OPC', 'oligodendro'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='34172044', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 30 paragraphs, total text length: 35116 characters
+[PMID 34172044] Generating direct summary for OLIG2 from full text...
+[PMID 34172044] Skipping verification for OLIG2 (naive_inspect_1 mode)...
+
+real	0m42.102s
+user	0m3.357s
+sys	0m1.908s

@@ -1,0 +1,15 @@
+SOX9 is a transcription factor essential for the specification, maturation, and functional modulation of astrocytes. During development, SOX9 is required for the gliogenic switch and the initiation of astrogenesis; its absence prevents the formation of astrocyte lineages, while its overexpression is sufficient to generate functional astrocytes from human pluripotent stem cells (Neyrinck et al., 2021). In the adult central nervous system, SOX9 serves as a definitive nuclear marker for astrocytes, maintaining stable expression levels that do not diminish with age (Sun et al., 2017). Functionally, SOX9 directly regulates homeostatic activities in mature astrocytes, including the promotion of glutamate uptake and the enhancement of migratory potential (Balint et al., 2024). Under pathological conditions, SOX9 is significantly upregulated in reactive astrocytes following injury or in neurodegenerative models (Sun et al., 2017). Specifically, in Alzheimer’s disease, astrocytic SOX9 promotes the clearance of amyloid-beta plaques by transcriptionally regulating the phagocytic receptor MEGF10 (Choi et al., 2026). Furthermore, nerve injury-induced SOX9 activity has been identified as a driver of neuroinflammatory astrocyte subtypes through the regulation of metabolic genes like Hexokinase 1 (Sox9 regulation..., 2025).
+References
+
+Balint, V., Peric, M., Dacic, S., Stanisavljevic Ninkovic, D., Marjanovic, J., Popovic, J., Stevanovic, M., & Lazic, A. (2024). The role of SOX2 and SOX9 transcription factors in the reactivation-related functional properties of NT2/D1-derived astrocytes. Biomedicines, 12(4), 796. https://doi.org/10.3390/biomedicines12040796
+Cited by: 6
+
+Choi, D. J., Murali, S., Kwon, W., et al. (2026). Astrocytic Sox9 overexpression in Alzheimer's disease mouse models promotes A$\beta$ plaque phagocytosis and preserves cognitive function. Nature Neuroscience, 29(1), 88–99. https://doi.org/10.1038/s41593-025-02115-w
+
+Neyrinck, K., Van Den Daele, J., Vervliet, T., De Smedt, J., Wierda, K., Nijs, M., Vanbokhoven, T., D’hondt, A., Planque, M., Fendt, S. M., Shih, P. Y., Seibt, F., Almenar, J. P., Kreir, M., Kumar, D., Broccoli, V., Bultynck, G., Ebneth, A., Cabrera-Socorro, A., & Verfaillie, C. (2021). SOX9-induced generation of functional astrocytes supporting neuronal maturation in an all-human system. Stem Cell Reviews and Reports, 17(5), 1855–1873. https://doi.org/10.1007/s12015-021-10179-x
+Cited by: 56
+
+Sox9 regulation of hexokinase 1 controls neuroinflammatory astrocyte subtypes in a rat model of neuropathic pain. (2025). PMC, PMC12639169. [Publication date: November 21, 2025]
+
+Sun, W., Cornwell, A., Li, J., Peng, S., Osorio, M. J., Aalling, N., Wang, S., Benraiss, A., Lou, N., Goldman, S. A., & Nedergaard, M. (2017). SOX9 is an astrocyte-specific nuclear marker in the adult brain outside the neurogenic regions. The Journal of Neuroscience, 37(17), 4493–4507. https://doi.org/10.1523/jneurosci.3199-16.2017
+Cited by: 407

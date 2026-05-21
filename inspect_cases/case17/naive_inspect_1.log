@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['APOE4'], genes_file=None, context=['Alzheimer’s disease', 'Alzheimer disease', 'AD'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='29861287', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 72 paragraphs, total text length: 65878 characters
+[PMID 29861287] Generating direct summary for APOE4 from full text...
+[PMID 29861287] Skipping verification for APOE4 (naive_inspect_1 mode)...
+
+real	0m44.161s
+user	0m3.465s
+sys	0m1.671s

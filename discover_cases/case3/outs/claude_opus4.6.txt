@@ -1,0 +1,11 @@
+PAX5 is a paired box transcription factor that serves as a master regulator of B cell identity and commitment throughout B lymphopoiesis. PAX5 is essential for commitment of lymphoid progenitors to the B cell lineage, as demonstrated by the finding that PAX5-deficient progenitors arrest at the pro-B cell stage and retain multilineage differentiation potential (Nutt et al., 1999). PAX5 activates transcription of B cell–specific genes, including *CD19*, *BLNK*, and *MB-1* (encoding Igα), while simultaneously repressing lineage-inappropriate genes such as *Notch1* and *M-CSF receptor* (*Fms*), thereby enforcing B cell identity (Nutt et al., 1999; Revilla-i-Domingo et al., 2012). Conditional deletion of PAX5 in mature B cells causes them to dedifferentiate into uncommitted progenitors capable of generating T cells and other lineages, establishing that PAX5 is required not only for initial commitment but also for ongoing maintenance of B cell identity (Cobaleda et al., 2007). Furthermore, PAX5 is recurrently mutated or rearranged in B cell precursor acute lymphoblastic leukemia, implicating its haploinsufficiency in leukemogenesis (Mullighan et al., 2007).
+
+**References**
+
+Cobaleda, C., Jochum, W., & Busslinger, M. (2007). Conversion of mature B cells into T cells by dedifferentiation to uncommitted progenitors. *Nature*, *449*(7161), 473–477. https://doi.org/10.1038/nature06159
+
+Mullighan, C. G., Goorha, S., Radtke, I., Miller, C. B., Coustan-Smith, E., Dalton, J. D., Girtman, K., Mathew, S., Ma, J., Pounds, S. B., Su, X., Pui, C.-H., Relling, M. V., Evans, W. E., Shurtleff, S. A., & Downing, J. R. (2007). Genome-wide analysis of genetic alterations in acute lymphoblastic leukaemia. *Nature*, *446*(7137), 758–764. https://doi.org/10.1038/nature05690
+
+Nutt, S. L., Heavey, B., Rolink, A. G., & Busslinger, M. (1999). Commitment to the B-lymphoid lineage depends on the transcription factor Pax5. *Nature*, *401*(6753), 556–562. https://doi.org/10.1038/44076
+
+Revilla-i-Domingo, R., Biber, I., Grber, M., Grber, M., Grber, M., Grber, M., Grber, M., & Busslinger, M. (2012). The B-cell identity factor Pax5 regulates distinct transcriptional programmes in early and late B lymphopoiesis. *The EMBO Journal*, *31*(14), 3130–3146. https://doi.org/10.1038/emboj.2012.155

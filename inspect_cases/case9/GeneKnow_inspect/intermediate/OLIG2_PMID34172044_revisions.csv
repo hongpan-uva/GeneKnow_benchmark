@@ -1,0 +1,6 @@
+id,old,new
+2,"OLIG2 is a master regulator of oligodendrocyte development in mouse NSCs, OPCs, and immature oligodendrocytes.","OLIG2 regulates oligodendrocyte development in mouse NSCs, OPCs, and newly formed oligodendrocytes (NFOs)."
+13,OLIG2 binding coincides with H3K27m3/H3K4m3 bivalent marks.,Some genes marked by both H3K27m3 and H3K4m3 bivalent marks were bound by OLIG2.
+16,OLIG2 binds AU-rich elements in the Olig2 3′ UTR.,"OLIG2 is involved in regulation of Olig2 after transcription via the Olig2 3' UTR, which contains AU-rich elements."
+25,OLIG2 repressed one OLIG2-bound lncRNA set in NSCs.,"OLIG2 may act as a repressor of a set of OLIG2-bound lncRNAs in NSCs (group 1, 39 lncRNAs)."
+26,OLIG2 activated another OLIG2-bound lncRNA set in OPCs and NFOs.,"OLIG2 may act as an activator of a set of OLIG2-bound lncRNAs in OPCs and NFOs (group 2, nine lncRNAs)."

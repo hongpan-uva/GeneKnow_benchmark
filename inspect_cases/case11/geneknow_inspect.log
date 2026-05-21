@@ -1,0 +1,13 @@
+inspect mode: Namespace(command='inspect', genes=['NOTCH1'], genes_file=None, context=['leukemia', 'AML', 'ALL', 'CML', 'CLL'], outdir=PosixPath('.'), name='GeneKnow_inspect', species='human', max_passages=3, auto_alias=False, pmid='40009499', pmcid=None, suffix_allowed=True, func=<function run_inspect_mode at 0x7f1ab48e1d00>)
+Tokenize texts:   0%|          | 0/15 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/15 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/15 [00:00<?, ?it/s]                                                            [PMID 40009499] Generating passage summaries for NOTCH1...
+[PMID 40009499] Generating the article summary for NOTCH1...
+[PMID 40009499] Verifying the article summary for NOTCH1...
+Extracting claims from summary
+Verifying valid passage: T-cell acute lymphoblastic leu...
+Verifying valid passage: To evaluate the role of NOTCH1...
+Verifying valid passage: T-cell acute lymphoblastic leu...
+No revisions to apply
+
+real	1m45.465s
+user	0m3.555s
+sys	0m1.535s

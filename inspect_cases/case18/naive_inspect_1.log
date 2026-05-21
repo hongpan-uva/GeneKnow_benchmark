@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['TCF7L2'], genes_file=None, context=['diabetes mellitus', 'diabetes', 'T2D', 'T2DM'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='34016596', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 28 paragraphs, total text length: 26528 characters
+[PMID 34016596] Generating direct summary for TCF7L2 from full text...
+[PMID 34016596] Skipping verification for TCF7L2 (naive_inspect_1 mode)...
+
+real	0m41.988s
+user	0m3.423s
+sys	0m1.499s

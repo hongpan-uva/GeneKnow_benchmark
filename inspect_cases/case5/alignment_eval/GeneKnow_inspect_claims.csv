@@ -1,0 +1,10 @@
+id,claim,question,claim_answer,evidence_answer,answer_note
+1,MyoD1 is an important transcription factor and co-activator of genes responsible for myocyte differentiation.,Is MyoD1 an important transcription factor and co-activator for myocyte differentiation genes?,Yes,Yes,
+2,"In TAFAZZIN-knockout (TAZ-KO) myoblasts, decreased Wnt signaling is likely responsible for upregulation of Mohawk (MKX).","In TAZ-KO myoblasts, is decreased Wnt signaling likely responsible for upregulating MKX?",Yes,Yes,
+3,Mohawk (MKX) directly represses MyoD1 transcription.,Does Mohawk (MKX) directly repress MyoD1 transcription?,Yes,Yes,
+4,"In TAFAZZIN-deficient cells, noncanonical Wnt signaling is implicated in dysfunctional MKX–MyoD1 regulation.","In TAFAZZIN-deficient cells, is noncanonical Wnt signaling implicated in dysfunctional MKX–MyoD1 regulation?",Yes,Yes,
+5,MyoD1 expression is reported to depend on noncanonical rather than canonical Wnt signaling.,Is MyoD1 expression reported to depend on noncanonical rather than canonical Wnt signaling?,Yes,Yes,
+6,Decreased MyoD1 in TAZ-KO myoblasts is associated with reduced myoblast differentiation.,Is decreased MyoD1 in TAZ-KO myoblasts associated with reduced myoblast differentiation?,Yes,Yes,
+7,Decreased MyoD1 in TAZ-KO myoblasts is associated with myogenesis defects in response to myogenic stimuli.,Is decreased MyoD1 in TAZ-KO myoblasts associated with myogenesis defects after myogenic stimuli?,Yes,Yes,
+8,Decreased MyoD1 in TAFAZZIN-deficient myoblasts is proposed to underlie skeletal myopathy in Barth syndrome.,Is decreased MyoD1 in TAFAZZIN-deficient myoblasts proposed to underlie skeletal myopathy in Barth syndrome?,Yes,Yes,
+9,Loss of MyoD1 results in muscle regeneration defects in a Duchenne muscular dystrophy mouse model.,Does loss of MyoD1 result in muscle regeneration defects in a Duchenne muscular dystrophy mouse model?,Yes,Yes,

@@ -1,0 +1,13 @@
+id,claim,question,claim_answer,evidence_answer,answer_note
+1,In mice Runx2 is the first transcription factor directing multipotent mesenchymal cells to the osteoblast lineage.,Is Runx2 the first transcription factor directing multipotent mesenchymal cells to the osteoblast lineage in mice?,Yes,Yes,
+2,During endochondral ossification Ihh from prehypertrophic chondrocytes is required for Runx2 expression in perichondrial mesenchyme.,"During endochondral ossification, is Ihh from prehypertrophic chondrocytes required for Runx2 expression in perichondrial mesenchyme?",Yes,Yes,
+3,Runx2 induces Sp7 to generate Runx2+ Sp7+ preosteoblasts.,Does Runx2 induce Sp7 to generate Runx2+ Sp7+ preosteoblasts?,Yes,Yes,
+4,Canonical Wnt is required for these Runx2+ Sp7+ preosteoblasts to become immature osteoblasts expressing Col1a1 and Spp1.,Is canonical Wnt required for Runx2+ Sp7+ preosteoblasts to become immature osteoblasts expressing Col1a1 and Spp1?,Yes,Yes,
+5,Runx2 and Sp7 are required for immature osteoblasts to mature.,Are Runx2 and Sp7 required for immature osteoblasts to mature?,Yes,Yes,
+6,Mature osteoblasts are marked by Bglap/Bglap2 and high Col1a1.,Are mature osteoblasts marked by Bglap/Bglap2 and high Col1a1?,Yes,Yes,
+7,Runx2 is expressed across the osteoblast lineage from osteoprogenitors to osteocytes.,Is Runx2 expressed across the osteoblast lineage from osteoprogenitors to osteocytes?,Yes,Yes,
+8,"In calvarial and suture mesenchyme Runx2 induces Hedgehog, Fgf, Wnt, Pthlh genes and Dlx5 to drive osteoblast differentiation.","In calvarial and suture mesenchyme, does Runx2 induce Hedgehog, Fgf, Wnt, Pthlh genes and Dlx5 to drive osteoblast differentiation?",Yes,Yes,
+9,More than half normal Runx2 dosage was required for induction in suture mesenchymal cells.,Was more than half normal Runx2 dosage required for induction in suture mesenchymal cells?,Yes,Yes,
+10,Half normal Runx2 dosage sufficed in committed osteoblasts.,Did half normal Runx2 dosage suffice in committed osteoblasts?,Yes,Yes,
+11,Fgf stabilizes Runx2 via Mapk1/3 phosphorylation.,Does Fgf stabilize Runx2 via Mapk1/3 phosphorylation?,Yes,Yes,
+12,Germline deletion of Runx2 results in complete absence of intramembranous and endochondral bone.,Does germline deletion of Runx2 result in complete absence of intramembranous and endochondral bone?,Yes,Yes,

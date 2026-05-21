@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeneKnow Discover Report - GeneKnow_out</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      margin: 2rem;
+      color: #111;
+      background: #fafafa;
+    }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin: 0 0 1rem 0;
+    }
+    .hint {
+      color: #555;
+      margin: 0 0 1.5rem 0;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e6e6e6;
+      border-radius: 14px;
+      padding: 1.25rem 1.25rem 0.9rem 1.25rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+    }
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .gene {
+      font-size: 1.25rem;
+      margin: 0;
+      letter-spacing: 0.2px;
+    }
+    .summary {
+      margin: 0.5rem 0 0.9rem 0;
+      line-height: 1.45;
+      color: #222;
+      white-space: pre-wrap; /* keeps newlines if summary includes them */
+    }
+    .note-box {
+      margin: 1rem 0;
+      padding: 0.8rem 1rem;
+      background: #fff3cd;
+      border-left: 3px solid #ffc107;
+      border-radius: 0 6px 6px 0;
+      color: #856404;
+    }
+    .note-box strong {
+      color: #856404;
+    }
+    details.refs {
+      border-top: 1px dashed #e5e5e5;
+      padding-top: 0.75rem;
+      margin-top: 0.25rem;
+    }
+    details.refs > summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #1f2937;
+      list-style: none;
+    }
+    details.refs > summary::-webkit-details-marker {
+      display: none;
+    }
+    details.refs > summary::before {
+      content: "▸";
+      display: inline-block;
+      margin-right: 0.5rem;
+      transform: translateY(-1px);
+    }
+    details.refs[open] > summary::before {
+      content: "▾";
+    }
+    details.refs ul {
+      margin: 0.6rem 0 0.4rem 1.2rem;
+      padding: 0;
+      color: #333;
+    }
+    details.refs li {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+      padding: 0.3rem 0;
+      border-bottom: 1px dashed #e5e5e5;
+    }
+    details.refs li:last-child {
+      border-bottom: none;
+    }
+    /* Style for PMID in reference list */
+    details.refs li {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    /* Link styling in references */
+    details.refs li a {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    details.refs li a:hover {
+      color: #1d4ed8;
+    }
+    .details-link {
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e5e5e5;
+      color: #666;
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    code {
+      background: #f1f5f9;
+      padding: 0.1rem 0.3rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GeneKnow Discover Report - GeneKnow_out</h1>
+    <p class="hint">Click <b>References</b> to expand/collapse references and more details.</p>
+
+    
+        <section class="card">
+          <div class="card-header">
+            <h2 class="gene">PU.1</h2>
+          </div>
+
+          <p class="summary">PU.1 acts as a master regulator of macrophage and microglia development [1,2]. PU.1 directs monocytic and macrophage lineage fate [1,2]. In macrophages, PU.1 determines LXRβ recruitment within 100 bp of PU.1, and this recruitment was accompanied by a PU.1-dependent gain in H3K4me1 [3]. PU.1 promotes C/EBPβ binding [3]. PU.1 loss reduced C/EBPβ genome-wide binding and eliminated PU.1-corresponding sites [3]. In rheumatoid arthritis, PU.1 promotes disease by directly targeting FLT3 in macrophages and fibroblast-like synoviocytes [4]. The direct targeting forms a proinflammatory PU.1–FLT3 axis that promotes inflammatory macrophage features [4]. PU.1 directs monocytic fate and maintains macrophage-specific gene accessibility [2]. PU.1 is a direct target of Zbtb14 [2]. Loss of Zbtb14 increases PU.1 in macrophage-lineage cells and causes macrophage expansion that is rescued by dominant-negative PU.1 [2]. In the context of PU.1, CX3CR1– perivascular macrophages express CX3CR1 during their ontogeny and subsequently lose that expression [5]. In the context of PU.1, the CX3CR1– perivascular macrophages derive from the same yolk-sac-derived progenitor lineage as the broader perivascular macrophage population [5]. PU.1 acts as a master regulator of macrophage and microglia development by controlling expression of required genes [1]. Genetic disruption of PU.1 causes absence of macrophages including microglia in mouse and zebrafish [1].</p>
+          
+          
+
+          <details class="refs">
+            <summary>References</summary>
+            <ul>
+              <li>[1] Wu, Y., Guo, W., Kuang, H., Wu, X., Trinh, T. H., Wang, Y., Zhao, S., Wen, Z., &amp; Yu, T. (2025). Pu.1/Spi1 dosage controls the turnover and maintenance of microglia in zebrafish and mammals. <i>Elife</i>, 14, RP105788. <a href="https://doi.org/10.7554/elife.105788" target="_blank">https://doi.org/10.7554/elife.105788</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/40673490/" target="_blank">40673490</a>  <a href="html/PU.1_PMID40673490.html" target="_blank" class="details-link">Details →</a></li>
+<li>[2] Deng, Y., Wang, H., Liu, X., Yuan, H., Xu, J., de Thé, H., Zhou, J., &amp; Zhu, J. (2022). Zbtb14 regulates monocyte and macrophage development through inhibiting <i>pu.1</i> expression in zebrafish. <i>Elife</i>, 11, e80760. <a href="https://doi.org/10.7554/elife.80760" target="_blank">https://doi.org/10.7554/elife.80760</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/36205309/" target="_blank">36205309</a>  <a href="html/PU.1_PMID36205309.html" target="_blank" class="details-link">Details →</a></li>
+<li>[3] Heinz, S., Benner, C., Spann, N., Bertolino, E., Lin, Y. C., Laslo, P., Cheng, J. X., Murre, C., Singh, H., &amp; Glass, C. K. (2010). Simple combinations of lineage-determining transcription factors prime cis-regulatory elements required for macrophage and B cell identities. <i>Mol Cell</i>, 38(4), 576-589. <a href="https://doi.org/10.1016/j.molcel.2010.05.004" target="_blank">https://doi.org/10.1016/j.molcel.2010.05.004</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/20513432/" target="_blank">20513432</a>  <a href="html/PU.1_PMID20513432.html" target="_blank" class="details-link">Details →</a></li>
+<li>[4] Tu, J., Chen, W., Fang, Y., Han, D., Chen, Y., Jiang, H., Tan, X., Xu, Z., Wu, X., Wang, H., Zhu, X., Hong, W., Li, Z., Zhu, C., Wang, X., &amp; Wei, W. (2023). PU.1 promotes development of rheumatoid arthritis via repressing FLT3 in macrophages and fibroblast-like synoviocytes. <i>Ann Rheum Dis</i>, 82(2), 198-211. <a href="https://doi.org/10.1136/ard-2022-222708" target="_blank">https://doi.org/10.1136/ard-2022-222708</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/36198439/" target="_blank">36198439</a>  <a href="html/PU.1_PMID36198439.html" target="_blank" class="details-link">Details →</a></li>
+<li>[5] Siret, C., van Lessen, M., Bavais, J., Jeong, H. W., Reddy, S. a. m. a. w. a. r. S. K., Kapupara, K., Wang, S., Simic, M., de Fabritus, L., Tchoghandjian, A., Fallet, M., Huang, H., Sarrazin, S., Sieweke, M. H., Stumm, R., Sorokin, L., Adams, R. H., Schulte-Merker, S., Kiefer, F., &amp; van de Pavert, S. A. (2022). Deciphering the heterogeneity of the Lyve1<sup>+</sup> perivascular macrophages in the mouse brain. <i>Nat Commun</i>, 13(1), 7366. <a href="https://doi.org/10.1038/s41467-022-35166-9" target="_blank">https://doi.org/10.1038/s41467-022-35166-9</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/36450771/" target="_blank">36450771</a>  <a href="html/PU.1_PMID36450771.html" target="_blank" class="details-link">Details →</a></li>
+            </ul>
+          </details>
+        </section>
+        
+
+    <div class="footer">
+      Generated by <code>GeneKnow</code>
+    </div>
+  </div>
+</body>
+</html>

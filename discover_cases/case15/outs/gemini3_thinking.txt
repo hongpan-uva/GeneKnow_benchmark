@@ -1,0 +1,15 @@
+FOXA1 functions as a pioneer transcription factor in prostate cancer by binding to condensed chromatin and facilitating the recruitment of the androgen receptor (AR) to enhancer regions (Gao et al., 2003). This interaction is essential for the AR-driven transcriptional program that promotes tumor growth and survival (Sahu et al., 2011). Genomic analyses have identified three distinct classes of FOXA1 alterations that diverge by disease stage and functional impact (Adams et al., 2019). Class 1 mutations, located in the Wing2 region of the DNA-binding domain, increase pioneer activity and hyper-activate the luminal AR program (Adams et al., 2019). In contrast, Class 2 C-terminal truncations, which are enriched in metastatic castration-resistant prostate cancer (mCRPC), promote lineage plasticity and neuroendocrine differentiation through neomorphic chromatin binding (Parolia et al., 2019). Class 3 structural variants lead to FOXA1 overexpression via the repositioning of regulatory elements (Adams et al., 2019). While high FOXA1 expression typically correlates with biochemical recurrence and poor prognosis (Sahu et al., 2011), the factor also exerts AR-independent effects by suppressing epithelial-to-mesenchymal transition and cell motility, indicating a complex, context-dependent role in metastatic progression (Zhang et al., 2016).
+
+---
+
+### References
+
+Adams, E. J., Karthaus, W. R., Hoover, E., de Stanchina, E., Kulick, A., Abida, W., ... & Sawyers, C. L. (2019). FOXA1 mutations alter pioneering activity, differentiation and prostate cancer phenotypes. *Nature*, *571*(7765), 408-412. [https://doi.org/10.1038/s41586-019-1318-9](https://doi.org/10.1038/s41586-019-1318-9)
+
+Gao, N., Zhang, J., Rao, M. A., Case, T. C., Mirosevich, J., Wang, Y., ... & Matusik, R. J. (2003). The role of hepatocyte nuclear factor-3 alpha (Forkhead Box A1) and androgen receptor in postnatal prostate development. *Molecular Endocrinology*, *17*(10), 1890-1907. [https://doi.org/10.1210/me.2002-0439](https://doi.org/10.1210/me.2002-0439)
+
+Parolia, A., Cieslik, M., Chu, A. K., Xiao, L., Ouchi, T., Vats, P., ... & Chinnaiyan, A. M. (2019). Distinct classes of FOXA1 alterations in liver-stage and metastatic prostate cancer. *Nature*, *571*(7765), 413-418. [https://doi.org/10.1038/s41586-019-1347-4](https://doi.org/10.1038/s41586-019-1347-4)
+
+Sahu, B., Laakso, M., Ovaska, K., Haapaniemi, T., Jansén, E., Rodriguez-Martinez, N., ... & Jänne, O. A. (2011). Dual role of FoxA1 in androgen receptor binding to chromatin, androgen-signaling and prostate-cancer proliferation. *The EMBO Journal*, *30*(6), 1134-1143. [https://doi.org/10.1038/emboj.2011.18](https://doi.org/10.1038/emboj.2011.18)
+
+Zhang, C., Chen, S., Murphy, A., Zamani, M., Sui, H., Huang, P., ... & Wang, Q. (2016). Androgen receptor-independent function of FoxA1 in prostate cancer metastasis. *Nature Communications*, *7*(1), 11612. [https://doi.org/10.1038/ncomms11612](https://doi.org/10.1038/ncomms11612)

@@ -1,0 +1,8 @@
+naive_inspect_2 mode: Namespace(genes=['PAX3-FOXO1'], genes_file=None, context=['rhabdomyosarcoma'], outdir=PosixPath('.'), name='naive_inspect_2', species='human', max_passages=3, auto_alias=False, pmid='37968277', pmcid=None, suffix_allowed=True)
+Tokenize texts:   0%|          | 0/25 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/25 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/25 [00:00<?, ?it/s]                                                            [PMID 37968277] Generating passage summaries for PAX3-FOXO1...
+[PMID 37968277] Generating the article summary for PAX3-FOXO1...
+[PMID 37968277] Skipping verification for PAX3-FOXO1 (naive_inspect_2 mode)...
+
+real	1m20.061s
+user	0m3.268s
+sys	0m1.465s

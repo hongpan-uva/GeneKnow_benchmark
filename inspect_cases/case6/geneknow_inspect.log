@@ -1,0 +1,13 @@
+inspect mode: Namespace(command='inspect', genes=['NEUROD1'], genes_file=None, context=['neuron', 'nerve cell'], outdir=PosixPath('.'), name='GeneKnow_inspect', species='human', max_passages=3, auto_alias=False, pmid='39105169', pmcid=None, suffix_allowed=True, func=<function run_inspect_mode at 0x7145c9751c60>)
+Tokenize texts:   0%|          | 0/27 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/27 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/27 [00:00<?, ?it/s]                                                            [PMID 39105169] Generating passage summaries for NEUROD1...
+[PMID 39105169] Generating the article summary for NEUROD1...
+[PMID 39105169] Verifying the article summary for NEUROD1...
+Extracting claims from summary
+Verifying valid passage: Although NEUROD1 is an essenti...
+Verifying valid passage: Despite the widespread express...
+Verifying valid passage: NEUROD1 (Neurogenic differenti...
+No revisions to apply
+
+real	1m44.087s
+user	0m3.583s
+sys	0m1.508s

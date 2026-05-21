@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['NEUROD1'], genes_file=None, context=['neuron', 'nerve cell'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='39105169', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 28 paragraphs, total text length: 39572 characters
+[PMID 39105169] Generating direct summary for NEUROD1 from full text...
+[PMID 39105169] Skipping verification for NEUROD1 (naive_inspect_1 mode)...
+
+real	0m32.088s
+user	0m2.901s
+sys	0m1.517s

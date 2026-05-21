@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeneKnow Discover Report - GeneKnow_out</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      margin: 2rem;
+      color: #111;
+      background: #fafafa;
+    }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin: 0 0 1rem 0;
+    }
+    .hint {
+      color: #555;
+      margin: 0 0 1.5rem 0;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e6e6e6;
+      border-radius: 14px;
+      padding: 1.25rem 1.25rem 0.9rem 1.25rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+    }
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .gene {
+      font-size: 1.25rem;
+      margin: 0;
+      letter-spacing: 0.2px;
+    }
+    .summary {
+      margin: 0.5rem 0 0.9rem 0;
+      line-height: 1.45;
+      color: #222;
+      white-space: pre-wrap; /* keeps newlines if summary includes them */
+    }
+    .note-box {
+      margin: 1rem 0;
+      padding: 0.8rem 1rem;
+      background: #fff3cd;
+      border-left: 3px solid #ffc107;
+      border-radius: 0 6px 6px 0;
+      color: #856404;
+    }
+    .note-box strong {
+      color: #856404;
+    }
+    details.refs {
+      border-top: 1px dashed #e5e5e5;
+      padding-top: 0.75rem;
+      margin-top: 0.25rem;
+    }
+    details.refs > summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #1f2937;
+      list-style: none;
+    }
+    details.refs > summary::-webkit-details-marker {
+      display: none;
+    }
+    details.refs > summary::before {
+      content: "▸";
+      display: inline-block;
+      margin-right: 0.5rem;
+      transform: translateY(-1px);
+    }
+    details.refs[open] > summary::before {
+      content: "▾";
+    }
+    details.refs ul {
+      margin: 0.6rem 0 0.4rem 1.2rem;
+      padding: 0;
+      color: #333;
+    }
+    details.refs li {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+      padding: 0.3rem 0;
+      border-bottom: 1px dashed #e5e5e5;
+    }
+    details.refs li:last-child {
+      border-bottom: none;
+    }
+    /* Style for PMID in reference list */
+    details.refs li {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    /* Link styling in references */
+    details.refs li a {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    details.refs li a:hover {
+      color: #1d4ed8;
+    }
+    .details-link {
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e5e5e5;
+      color: #666;
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    code {
+      background: #f1f5f9;
+      padding: 0.1rem 0.3rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GeneKnow Discover Report - GeneKnow_out</h1>
+    <p class="hint">Click <b>References</b> to expand/collapse references and more details.</p>
+
+    
+        <section class="card">
+          <div class="card-header">
+            <h2 class="gene">TCF7L2</h2>
+          </div>
+
+          <p class="summary">TCF7L2 functions as a genetic susceptibility factor for type 2 diabetes mellitus [1-3]. TCF7L2 acts as a regulator of pancreatic islet beta-cell biology and is primarily expressed in islet beta cells [2,4]. TCF7L2 gene variants contribute to type 2 diabetes by impairing insulin secretion and pancreatic β-cell function [4]. Variant rs290487 contributed to insulin resistance and implicated Wnt signaling [4]. The rs7903146T allele in TCF7L2 is a replicated T2DM susceptibility variant and a top GWAS signal [1]. rs7903146T influences impaired insulin secretion [1]. In a Kuwaiti sample the TT genotype associated with increased T2DM risk and the variant associated with peripheral neuropathy and myocardial infarction [1]. In gestational diabetes, TCF7L2 may affect pancreatic β-cells, reducing insulin and glucagon-like peptide secretion and increasing endogenous glucose [5]. In type 2 diabetes, TCF7L2 may interfere with GLP1, reduce GLP1R and GIP-R expression and activate Wnt signaling [5]. TCF7L2 is the strongest susceptibility gene for T2DM and is mainly expressed in islet beta cells [2]. TCF7L2 variation is linked to decreased insulin secretion due to reduced pancreatic β‑cell function [2]. Variants including rs7901695 correlate with T2DM risk [2]. Common variants in TCF7L2 were linked to susceptibility to type 2 diabetes mellitus [3]. rs7903146 in TCF7L2 carries allele T as the reported T2DM risk allele [3]. TCF7L2 association with T2DM replicated across many populations but not in Chinese [3].</p>
+          
+          
+
+          <details class="refs">
+            <summary>References</summary>
+            <ul>
+              <li>[1] Chaudhary, N., Alawadhi, F., Al-Serri, A., &amp; Al-Temaimi, R. (2024). TCF7L2 and FTO Polymorphisms Are Associated with Type 2 Diabetes Mellitus Risk in Kuwait. <i>Med Princ Pract</i>, 33(2), 157-163. <a href="https://doi.org/10.1159/000536229" target="_blank">https://doi.org/10.1159/000536229</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/38228106/" target="_blank">38228106</a>  <a href="html/TCF7L2_PMID38228106.html" target="_blank" class="details-link">Details →</a></li>
+<li>[2] Su, Y., Shang, B., Hu, X., Zhang, Z., Wang, L., Luo, K., Yao, H., Liu, X., Lu, Y., &amp; Jiang, S. (2025). Association Between ABCG1/TCF7L2 and Type 2 Diabetes Mellitus: An Intervention Trial Based on a Case-Control Study. <i>J Diabetes Res</i>, 2025, 9356676. <a href="https://doi.org/10.1155/jdr/9356676" target="_blank">https://doi.org/10.1155/jdr/9356676</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/40225014/" target="_blank">40225014</a>  <a href="html/TCF7L2_PMID40225014.html" target="_blank" class="details-link">Details →</a></li>
+<li>[3] Ding, W., Xu, L., Zhang, L., Han, Z., Jiang, Q., Wang, Z., &amp; Jin, S. (2018). Meta-analysis of association between TCF7L2 polymorphism rs7903146 and type 2 diabetes mellitus. <i>BMC Med Genet</i>, 19(1), 38. <a href="https://doi.org/10.1186/s12881-018-0553-5" target="_blank">https://doi.org/10.1186/s12881-018-0553-5</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/29514658/" target="_blank">29514658</a>  <a href="html/TCF7L2_PMID29514658.html" target="_blank" class="details-link">Details →</a></li>
+<li>[4] Del Bosque-Plata, L., Martínez-Martínez, E., Espinoza-Camacho, M. Á., &amp; Gragnoli, C. (2021). The Role of <i>TCF7L2</i> in Type 2 Diabetes. <i>Diabetes</i>, 70(6), 1220-1228. <a href="https://doi.org/10.2337/db20-0573" target="_blank">https://doi.org/10.2337/db20-0573</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/34016596/" target="_blank">34016596</a>  <a href="html/TCF7L2_PMID34016596.html" target="_blank" class="details-link">Details →</a></li>
+<li>[5] He, J., Zhang, M., Ren, J., &amp; Jiang, X. (2024). Correlation between TCF7L2 and CAPN10 gene polymorphisms and gestational diabetes mellitus in different geographical regions: a meta-analysis. <i>BMC Pregnancy Childbirth</i>, 24(1), 15. <a href="https://doi.org/10.1186/s12884-023-06177-1" target="_blank">https://doi.org/10.1186/s12884-023-06177-1</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/38166877/" target="_blank">38166877</a>  <a href="html/TCF7L2_PMID38166877.html" target="_blank" class="details-link">Details →</a></li>
+            </ul>
+          </details>
+        </section>
+        
+
+    <div class="footer">
+      Generated by <code>GeneKnow</code>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['NKX2-1'], genes_file=None, context=['AT2 cell', 'alveolar type II cell', 'alveolar type 2 cell'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='39284798', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 26 paragraphs, total text length: 38286 characters
+[PMID 39284798] Generating direct summary for NKX2-1 from full text...
+[PMID 39284798] Skipping verification for NKX2-1 (naive_inspect_1 mode)...
+
+real	0m55.364s
+user	0m3.107s
+sys	0m1.635s

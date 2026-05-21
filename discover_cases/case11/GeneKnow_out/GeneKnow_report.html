@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeneKnow Discover Report - GeneKnow_out</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      margin: 2rem;
+      color: #111;
+      background: #fafafa;
+    }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin: 0 0 1rem 0;
+    }
+    .hint {
+      color: #555;
+      margin: 0 0 1.5rem 0;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e6e6e6;
+      border-radius: 14px;
+      padding: 1.25rem 1.25rem 0.9rem 1.25rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+    }
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .gene {
+      font-size: 1.25rem;
+      margin: 0;
+      letter-spacing: 0.2px;
+    }
+    .summary {
+      margin: 0.5rem 0 0.9rem 0;
+      line-height: 1.45;
+      color: #222;
+      white-space: pre-wrap; /* keeps newlines if summary includes them */
+    }
+    .note-box {
+      margin: 1rem 0;
+      padding: 0.8rem 1rem;
+      background: #fff3cd;
+      border-left: 3px solid #ffc107;
+      border-radius: 0 6px 6px 0;
+      color: #856404;
+    }
+    .note-box strong {
+      color: #856404;
+    }
+    details.refs {
+      border-top: 1px dashed #e5e5e5;
+      padding-top: 0.75rem;
+      margin-top: 0.25rem;
+    }
+    details.refs > summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #1f2937;
+      list-style: none;
+    }
+    details.refs > summary::-webkit-details-marker {
+      display: none;
+    }
+    details.refs > summary::before {
+      content: "▸";
+      display: inline-block;
+      margin-right: 0.5rem;
+      transform: translateY(-1px);
+    }
+    details.refs[open] > summary::before {
+      content: "▾";
+    }
+    details.refs ul {
+      margin: 0.6rem 0 0.4rem 1.2rem;
+      padding: 0;
+      color: #333;
+    }
+    details.refs li {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+      padding: 0.3rem 0;
+      border-bottom: 1px dashed #e5e5e5;
+    }
+    details.refs li:last-child {
+      border-bottom: none;
+    }
+    /* Style for PMID in reference list */
+    details.refs li {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    /* Link styling in references */
+    details.refs li a {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    details.refs li a:hover {
+      color: #1d4ed8;
+    }
+    .details-link {
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e5e5e5;
+      color: #666;
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    code {
+      background: #f1f5f9;
+      padding: 0.1rem 0.3rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GeneKnow Discover Report - GeneKnow_out</h1>
+    <p class="hint">Click <b>References</b> to expand/collapse references and more details.</p>
+
+    
+        <section class="card">
+          <div class="card-header">
+            <h2 class="gene">NOTCH1</h2>
+          </div>
+
+          <p class="summary">NOTCH1 functions as an oncogenic transcriptional regulator that drives T-cell leukemogenesis [1-3]. NOTCH1 is a recurrent target of mutation across leukemias including T-ALL and CLL [1,4,5]. In chronic lymphocytic leukemia, NOTCH1 mutations promote cell proliferation [5]. NOTCH1 mutations are associated with trisomy 12, unmutated IGHV, inferior responses to chemoimmunotherapy, venetoclax, and ibrutinib, and with higher risk of transformation [5]. In T-ALL, NOTCH1 acts as an oncogene that upregulates Hes1 [1]. Upregulated Hes1 sustains AKT and NF-κB signaling and inhibits apoptosis [1]. In B-CLL, NOTCH1 PEST-domain mutations associate with poor prognosis [1]. ICN1 expression drives a NOTCH1 transcriptional program and γ-secretase inhibitor sensitivity [1]. NOTCH1 reads thymic signals to commit lymphoid progenitors to T-cell fate [2]. Activating NOTCH1 mutations cause constitutive activation requiring gamma-secretase cleavage [2]. Constitutively active NOTCH1 activates MYC [2]. NOTCH1 inhibition increases leukemia reliance on glutaminolysis and synergizes with glutaminase inhibition [2]. NOTCH1 is frequently activated in T-ALL [3]. NOTCH1 dimerization–dependent signaling drives a gene signature including HES4 [3]. HES4 enforces ∆133p53 expression and induces BCL2L1 [3]. NOTCH1 dimerization is crucial for T-ALL leukemogenesis and a dimerization-defective NOTCH1-ΔE-R1984A failed to generate leukemia [3]. NOTCH1 is a known target of mutation in T-ALL and is altered at greater frequency than previously recognized [4].</p>
+          
+          
+
+          <details class="refs">
+            <summary>References</summary>
+            <ul>
+              <li>[1] Piovan, E., Tosello, V., Amadori, A., &amp; Zanovello, P. (2018). Chemotactic Cues for NOTCH1-Dependent Leukemia. <i>Front Immunol</i>, 9, 633. <a href="https://doi.org/10.3389/fimmu.2018.00633" target="_blank">https://doi.org/10.3389/fimmu.2018.00633</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/29666622/" target="_blank">29666622</a>  <a href="html/NOTCH1_PMID29666622.html" target="_blank" class="details-link">Details →</a></li>
+<li>[2] Ferrando, A. (2018). Can one target T-cell ALL?. <i>Best Pract Res Clin Haematol</i>, 31(4), 361-366. <a href="https://doi.org/10.1016/j.beha.2018.10.001" target="_blank">https://doi.org/10.1016/j.beha.2018.10.001</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/30466748/" target="_blank">30466748</a>  <a href="html/NOTCH1_PMID30466748.html" target="_blank" class="details-link">Details →</a></li>
+<li>[3] Tamiro, F., Padovano, C., De Santis, E., Di Iasio, S., Sansico, D. F., Canistro, V., Colucci, M., Di Nunzio, C., Bruno, G., Doshi, K., Totaro, A., Gu, E., Santodirocco, M., Weng, A. P., &amp; Giambra, V. (2025). NOTCH1 dimeric signaling is essential for T-cell leukemogenesis and leukemia maintenance. <i>Blood</i>, 145(24), 2887-2902. <a href="https://doi.org/10.1182/blood.2024027020" target="_blank">https://doi.org/10.1182/blood.2024027020</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/40009499/" target="_blank">40009499</a>  <a href="html/NOTCH1_PMID40009499.html" target="_blank" class="details-link">Details →</a></li>
+<li>[4] Liu, Y., Easton, J., Shao, Y., Maciaszek, J., Wang, Z., Wilkinson, M. R., McCastlain, K., Edmonson, M., Pounds, S. B., Shi, L., Zhou, X., Ma, X., Sioson, E., Li, Y., Rusch, M., Gupta, P., Pei, D., Cheng, C., Smith, M. A., Guidry, A. u. v. i. l. J. M., Gerhard, D. S., Relling, M. V., Winick, N. J., Carroll, A. J., Heerema, N. A., Raetz, E., Devidas, M., Willman, C. L., Harvey, R. C., Carroll, W. L., Dunsmore, K. P., Winter, S. S., Wood, B. L., Sorrentino, B. P., Downing, J. R., Loh, M. L., Hunger, S. P., Zhang, J., &amp; Mullighan, C. G. (2017). The genomic landscape of pediatric and young adult T-lineage acute lymphoblastic leukemia. <i>Nat Genet</i>, 49(8), 1211-1218. <a href="https://doi.org/10.1038/ng.3909" target="_blank">https://doi.org/10.1038/ng.3909</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/28671688/" target="_blank">28671688</a>  <a href="html/NOTCH1_PMID28671688.html" target="_blank" class="details-link">Details →</a></li>
+<li>[5] Kater, A. P., Wu, J. Q., Kipps, T., Eichhorst, B., Hillmen, P., D&#x27;Rozario, J., Assouline, S., Owen, C., Robak, T., de la Serna, J., Jaeger, U., Cartron, G., Montillo, M., Dubois, J., Eldering, E., Mellink, C., Van Der Kevie-Kersemaekers, A. M., Kim, S. Y., Chyla, B., Punnoose, E., Bolen, C. R., Assaf, Z. J., Jiang, Y., Wang, J., Lefebure, M., Boyer, M., Humphrey, K., &amp; Seymour, J. F. (2020). Venetoclax Plus Rituximab in Relapsed Chronic Lymphocytic Leukemia: 4-Year Results and Evaluation of Impact of Genomic Complexity and Gene Mutations From the MURANO Phase III Study. <i>J Clin Oncol</i>, 38(34), 4042-4054. <a href="https://doi.org/10.1200/jco.20.00948" target="_blank">https://doi.org/10.1200/jco.20.00948</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32986498/" target="_blank">32986498</a>  <a href="html/NOTCH1_PMID32986498.html" target="_blank" class="details-link">Details →</a></li>
+            </ul>
+          </details>
+        </section>
+        
+
+    <div class="footer">
+      Generated by <code>GeneKnow</code>
+    </div>
+  </div>
+</body>
+</html>

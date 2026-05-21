@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['FOXR2'], genes_file=None, context=['neuroblastoma', 'NB-FOXR2'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='26919435', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 25 paragraphs, total text length: 27543 characters
+[PMID 26919435] Generating direct summary for FOXR2 from full text...
+[PMID 26919435] Skipping verification for FOXR2 (naive_inspect_1 mode)...
+
+real	0m32.698s
+user	0m2.770s
+sys	0m1.146s

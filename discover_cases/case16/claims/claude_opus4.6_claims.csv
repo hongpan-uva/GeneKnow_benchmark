@@ -1,0 +1,18 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,ESR1 (Estrogen Receptor Alpha) encodes the estrogen receptor α (ERα).,,Does ESR1 encode the estrogen receptor alpha (ERα)?,Yes,,
+2,Estrogen receptor α (ERα) is a ligand-activated transcription factor.,,Is ERα a ligand-activated transcription factor?,Yes,,
+3,Estrogen receptor α (ERα) mediates estrogen signaling.,,Does ERα mediate estrogen signaling?,Yes,,
+4,Estrogen receptor α (ERα) plays a central role in the development and progression of breast cancer.,,Does ERα play a central role in breast cancer development and progression?,Yes,,
+5,Approximately 70–80% of breast cancers express ERα.,"(Hayashi & Kimura, 2015)",Do approximately 70–80% of breast cancers express ERα?,Yes,Yes,
+6,ERα expression status is a primary determinant of endocrine therapy eligibility.,"(Hayashi & Kimura, 2015)",Is ERα expression status a primary determinant of endocrine therapy eligibility?,Yes,Yes,
+7,Endocrine therapy eligibility includes treatment with tamoxifen and aromatase inhibitors.,"(Hayashi & Kimura, 2015)",Does endocrine therapy eligibility include treatment with tamoxifen and aromatase inhibitors?,Yes,Yes,
+8,"Activating mutations in ESR1 have been identified in metastatic, endocrine-resistant breast cancers.","(Jeselsohn et al., 2015)","Have activating ESR1 mutations been identified in metastatic, endocrine-resistant breast cancers?",Yes,Yes,
+9,Activating mutations in ESR1 particularly include Y537S and D538G in the ligand-binding domain.,"(Jeselsohn et al., 2015)",Do activating ESR1 mutations particularly include Y537S and D538G in the ligand-binding domain?,Yes,Yes,
+10,"Activating mutations in ESR1 confer constitutive, ligand-independent receptor activity.","(Jeselsohn et al., 2015)","Do activating ESR1 mutations confer constitutive, ligand-independent receptor activity?",Yes,Yes,
+11,ESR1 gene amplification has been reported in a subset of breast tumors.,"(Holst et al., 2007)",Has ESR1 gene amplification been reported in a subset of breast tumors?,Yes,Yes,
+12,ESR1 gene amplification is associated with increased ERα protein expression.,"(Holst et al., 2007)",Is ESR1 gene amplification associated with increased ERα protein expression?,Yes,Yes,
+13,ESR1 gene amplification is associated with endocrine therapy sensitivity.,"(Holst et al., 2007)",Is ESR1 gene amplification associated with endocrine therapy sensitivity?,Yes,Yes,
+14,The frequency and clinical significance of ESR1 gene amplification remain debated.,"(Holst et al., 2007)",Do the frequency and clinical significance of ESR1 gene amplification remain debated?,Yes,Idk,Passage does not state frequency/significance are debated
+15,ESR1 promoter methylation has been linked to loss of ERα expression in ER-negative breast cancers.,"(Lapidus et al., 1996)",Has ESR1 promoter methylation been linked to loss of ERα expression in ER-negative breast cancers?,Yes,Yes,
+16,The linkage between ESR1 promoter methylation and loss of ERα expression suggests epigenetic silencing as one mechanism underlying receptor-negative status.,"(Lapidus et al., 1996)",Does the linkage between ESR1 promoter methylation and ERα loss suggest epigenetic silencing as a mechanism?,Yes,Yes,
+17,Detection of ESR1 mutations in circulating tumor DNA has emerged as a clinically relevant biomarker for monitoring resistance to aromatase inhibitors in advanced breast cancer.,"(Schiavon et al., 2015)",Has detection of ESR1 mutations in circulating tumor DNA emerged as a biomarker for monitoring aromatase inhibitor resistance?,Yes,Yes,

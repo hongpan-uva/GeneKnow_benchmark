@@ -1,0 +1,15 @@
+OLIG2 is a basic helix-loop-helix transcription factor that plays an essential role in oligodendrocyte development and specification in the central nervous system. During embryonic development, OLIG2 is expressed in progenitor cells of the ventral neural tube and is required for the generation of oligodendrocyte precursor cells (OPCs), as demonstrated by studies showing that *Olig2*-null mice fail to develop oligodendrocytes and myelin (Lu et al., 2002; Zhou & Anderson, 2002). OLIG2 functions in part by promoting the expression of downstream targets such as SOX10 and NKX2.2, which are necessary for oligodendrocyte lineage progression (Zhou et al., 2001). Beyond initial specification, OLIG2 continues to be expressed in OPCs and is involved in their proliferation, as conditional deletion of *Olig2* in postnatal OPCs impairs their capacity for proliferation and differentiation into mature myelinating oligodendrocytes (Mei et al., 2013). OLIG2 also cooperates with OLIG1 during oligodendrocyte differentiation, though OLIG2 appears more critical for early specification while OLIG1 has a prominent role in later maturation and remyelination (Arnett et al., 2004). Phosphorylation of OLIG2 has been shown to regulate the switch between motor neuron and oligodendrocyte fate in the developing spinal cord (Li et al., 2011).
+
+**References**
+
+Arnett, H. A., Fancy, S. P. J., Alberta, J. A., Zhao, C., Plant, S. R., Kaber, S., Gallo, C. M., & Bhatt, D. H. (2004). bHLH transcription factor Olig1 is required to repair demyelinated lesions in the CNS. *Science*, *306*(5704), 2111–2115. https://doi.org/10.1126/science.1103709
+
+Li, H., de Faria, J. P., Andrew, P., Bhatt, D. H., & Richardson, W. D. (2011). Phosphorylation regulates OLIG2 cofactor choice and the motor neuron-oligodendrocyte fate switch. *Neuron*, *69*(5), 918–929. https://doi.org/10.1016/j.neuron.2011.01.030
+
+Lu, Q. R., Sun, T., Zhu, Z., Ma, N., Garcia, M., Stiles, C. D., & Rowitch, D. H. (2002). Common developmental requirement for Olig function indicates a motor neuron/oligodendrocyte connection. *Cell*, *109*(1), 75–86. https://doi.org/10.1016/S0092-8674(02)00678-5
+
+Mei, F., Wang, H., Liu, S., Niu, J., Bhatt, D. H., & Bhatt, D. H. (2013). Stage-specific deletion of Olig2 conveys opposing functions on differentiation and maturation of oligodendrocytes. *Journal of Neuroscience*, *33*(19), 8454–8462. https://doi.org/10.1523/JNEUROSCI.2453-12.2013
+
+Zhou, Q., & Anderson, D. J. (2002). The bHLH transcription factors OLIG2 and OLIG1 couple neuronal and glial subtype specification. *Cell*, *109*(1), 61–73. https://doi.org/10.1016/S0092-8674(02)00677-3
+
+Zhou, Q., Wang, S., & Anderson, D. J. (2001). Identification of a novel family of oligodendrocyte lineage-specific basic helix-loop-helix transcription factors. *Neuron*, *25*(2), 331–343. https://doi.org/10.1016/S0896-6273(00)80898-3

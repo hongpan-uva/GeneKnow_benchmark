@@ -1,0 +1,8 @@
+naive_inspect_2 mode: Namespace(genes=['FOXA1'], genes_file=None, context=['prostate cancer'], outdir=PosixPath('.'), name='naive_inspect_2', species='human', max_passages=3, auto_alias=False, pmid='32946061', pmcid=None, suffix_allowed=True)
+Tokenize texts:   0%|          | 0/20 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/20 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/20 [00:00<?, ?it/s]                                                            [PMID 32946061] Generating passage summaries for FOXA1...
+[PMID 32946061] Generating the article summary for FOXA1...
+[PMID 32946061] Skipping verification for FOXA1 (naive_inspect_2 mode)...
+
+real	1m0.454s
+user	0m3.083s
+sys	0m1.521s

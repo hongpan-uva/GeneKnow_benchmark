@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['NOTCH1'], genes_file=None, context=['leukemia', 'AML', 'ALL', 'CML', 'CLL'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='40009499', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 15 paragraphs, total text length: 16989 characters
+[PMID 40009499] Generating direct summary for NOTCH1 from full text...
+[PMID 40009499] Skipping verification for NOTCH1 (naive_inspect_1 mode)...
+
+real	0m35.212s
+user	0m3.191s
+sys	0m1.640s

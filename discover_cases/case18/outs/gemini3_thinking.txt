@@ -1,0 +1,14 @@
+The *Transcription Factor 7-Like 2 (TCF7L2)* gene is the most robust genetic risk locus identified for Type 2 Diabetes Mellitus (T2DM) to date (Jin & Liu, 2008; Madhu et al., 2022). Functionally, *TCF7L2* operates as a critical effector within the canonical Wnt signaling pathway, where it regulates gene expression essential for pancreatic beta-cell function and systemic glucose homeostasis (Jin & Liu, 2008). In the pancreas, the downregulation of *TCF7L2* protein leads to impaired glucose-stimulated insulin secretion and the direct suppression of receptors for the incretin hormones, specifically the glucagon-like peptide-1 receptor (*GLP1R*) and the gastric inhibitory polypeptide receptor (*GIPR*) (Shu et al., 2009). This downregulation diminishes the incretin-induced potentiation of insulin release; notably, while circulating GLP-1 levels may remain within normal physiological ranges in risk-allele carriers, the cellular response to GLP-1 is significantly impaired (Shu et al., 2009). Furthermore, *TCF7L2* modulates hepatic glucose metabolism by regulating gluconeogenesis and the expression of the *proglucagon* gene in intestinal endocrine cells (Jin & Liu, 2008). Emerging evidence also implicates *TCF7L2* in systemic lipid metabolism, as risk-allele carriers exhibit significant postprandial triglyceride dysmetabolism and upregulated gene expression in visceral adipose tissue (Madhu et al., 2022). These findings establish *TCF7L2* as a pleiotropic regulator coordinating glucose and lipid homeostasis across the pancreas, liver, intestine, and adipose tissue.
+
+-----
+
+### **References**
+
+Jin, T., & Liu, L. (2008). Minireview: The Wnt Signaling Pathway Effector TCF7L2 and Type 2 Diabetes Mellitus. *Molecular Endocrinology*, *22*(11), 2383–2392. [https://doi.org/10.1210/me.2008-0135](https://www.google.com/search?q=https://doi.org/10.1210/me.2008-0135)
+Cited by: 307
+
+Madhu, S. V., Mishra, B. K., Mannar, V., et al. (2022). TCF7L2 gene associated postprandial triglyceride dysmetabolism- a novel mechanism for diabetes risk among Asian Indians. *Frontiers in Endocrinology*, *13*. [https://doi.org/10.3389/fendo.2022.973718](https://doi.org/10.3389/fendo.2022.973718)
+Cited by: 14
+
+Shu, L., Matveyenko, A. V., Kerr-Conte, J., et al. (2009). Decreased TCF7L2 protein levels in type 2 diabetes mellitus correlate with downregulation of GIP- and GLP-1 receptors and impaired beta-cell function. *Human Molecular Genetics*, *18*(13), 2388–2399. [https://doi.org/10.1093/hmg/ddp178](https://www.google.com/search?q=https://doi.org/10.1093/hmg/ddp178)
+Cited by: 391

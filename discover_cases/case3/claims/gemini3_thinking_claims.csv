@@ -1,0 +1,19 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,PAX5 is the master regulator of B-cell identity.,,Is PAX5 the master regulator of B-cell identity?,Yes,,
+2,PAX5 functions as a transcription factor that activates B-cell-specific programs.,,Does PAX5 activate B-cell-specific programs as a transcription factor?,Yes,,
+3,PAX5 functions as a transcription factor that represses alternative hematopoietic fates.,,"Does PAX5, as a transcription factor, repress alternative hematopoietic fates?",Yes,,
+4,PAX5 is indispensable for B-cell commitment.,"(Urbanek et al., 1994)",Is PAX5 indispensable for B-cell commitment?,Yes,Yes,
+5,Loss of PAX5 results in a complete developmental block at the early pro-B cell stage.,"(Urbanek et al., 1994)",Does loss of PAX5 cause a complete developmental block at the early pro-B cell stage?,Yes,Idk,"Passage cites arrest at an early precursor stage, not specifically early pro-B stage"
+6,PAX5 directly promotes B-cell signaling.,"(Nutt et al., 1999)",Does PAX5 directly promote B-cell signaling?,Yes,Idk,Passage doesn't state Pax5 promotes B-cell signaling.
+7,PAX5 directly promotes B-cell development.,"(Nutt et al., 1999)",Does PAX5 directly promote B-cell development?,Yes,Yes,
+8,PAX5 activates the gene Cd19.,"(Nutt et al., 1999)",Does PAX5 activate Cd19 expression?,Yes,Yes,
+9,PAX5 activates the gene Blnk.,"(Nutt et al., 1999)",Does PAX5 activate Blnk expression?,Yes,Idk,Blnk is not mentioned in the passage.
+10,PAX5 silences the gene Csf1r.,"(Nutt et al., 1999)",Does PAX5 silence Csf1r expression?,Yes,Yes,
+11,PAX5 silences the gene Notch1.,"(Nutt et al., 1999)",Does PAX5 silence Notch1 expression?,Yes,Idk,Notch1 is not mentioned in the passage.
+12,PAX5 is critical for immunoglobulin heavy-chain (Igh) gene rearrangement.,"(Fuxa et al., 2004)",Is PAX5 critical for immunoglobulin heavy-chain (Igh) gene rearrangement?,Yes,Idk,Passage states Pax5 is essential for distal but not proximal V_H rearrangements.
+13,PAX5 facilitates the physical contraction of the Igh locus.,"(Fuxa et al., 2004)",Does PAX5 facilitate physical contraction of the Igh locus?,Yes,Yes,
+14,Physical contraction of the Igh locus enables distal V_H-to-DJ_H recombination.,"(Fuxa et al., 2004)",Does physical contraction of the Igh locus enable distal V_H-to-DJ_H recombination?,Yes,Yes,
+15,The functional presence of PAX5 is required to maintain lineage fidelity beyond initial differentiation.,"(Cobaleda et al., 2007)",Is PAX5 function required to maintain lineage fidelity beyond initial differentiation?,Yes,,
+16,Conditional deletion of PAX5 in mature B cells causes mature B cells to dedifferentiate into multipotent progenitor-like cells.,"(Cobaleda et al., 2007)",Does conditional deletion of PAX5 in mature B cells cause dedifferentiation into multipotent progenitor-like cells?,Yes,,
+17,The multipotent progenitor-like cells that arise after conditional deletion of PAX5 in mature B cells can subsequently adopt T-cell identities.,"(Cobaleda et al., 2007)",Can multipotent progenitor-like cells from PAX5-deleted mature B cells adopt T-cell identities?,Yes,,
+18,The multipotent progenitor-like cells that arise after conditional deletion of PAX5 in mature B cells can subsequently adopt myeloid identities.,"(Cobaleda et al., 2007)",Can multipotent progenitor-like cells from PAX5-deleted mature B cells adopt myeloid identities?,Yes,,

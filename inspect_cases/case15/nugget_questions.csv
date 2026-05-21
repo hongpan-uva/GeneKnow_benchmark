@@ -1,0 +1,12 @@
+id,claim,question,claim_answer,evidence_answer,answer_note,category,source_ids
+1,FOXA1 is a transcriptional pioneer factor.,Is FOXA1 a transcriptional pioneer factor?,Yes,,,core_role,2
+2,FOXA1 encodes a pioneer factor in the prostate.,Does FOXA1 encode a pioneer factor in the prostate?,Yes,,,core_role,3
+3,The FOXA1-encoded pioneer factor induces open chromatin to allow transcription factor binding.,Does the FOXA1-encoded pioneer factor induce open chromatin to allow transcription factor binding?,Yes,,,direct_function,6
+4,"In prostate cancer, FOXA1 acts as a pioneer factor that induces open chromatin to enable binding by other transcription factors.","In prostate cancer, does FOXA1 act as a pioneer factor that opens chromatin for other transcription factors?",Yes,,,direct_function,1
+5,FOXA1 directly interacts with the Androgen Receptor.,Does FOXA1 directly interact with the Androgen Receptor?,Yes,,,direct_function,4;9
+6,FOXA1 helps shape Androgen Receptor (AR) signaling.,Does FOXA1 help shape Androgen Receptor signaling?,Yes,,,direct_function,12
+7,FOXA1 regulates epithelial-to-mesenchymal transition independently of the Androgen Receptor.,Does FOXA1 regulate epithelial-to-mesenchymal transition independently of the Androgen Receptor?,Yes,,,direct_function,10;15
+8,"FOXA1 is recurrently mutated across stages and subtypes of human prostate cancer, including primary prostate cancer, metastatic castration-resistant prostate cancer (mCRPC), and neuroendocrine prostate cancer (NEPC).","Is FOXA1 recurrently mutated across stages and subtypes of human prostate cancer, including primary, mCRPC, and NEPC?",Yes,,,impact,5;8;11;16
+9,FOXA1 mutants alter chromatin accessibility and cistromes.,Do FOXA1 mutants alter chromatin accessibility and cistromes?,Yes,,,impact,17;20
+10,FOXA1 helps shape Androgen Receptor signaling that drives growth and survival of normal prostate cells and prostate cancer cells.,Does FOXA1 shape AR signaling that drives growth and survival of normal and prostate cancer cells?,Yes,,,impact,7
+11,FOXA1 mutations are detectable in cell-free DNA from bodily fluids.,Are FOXA1 mutations detectable in cell-free DNA from bodily fluids?,Yes,,,impact,19

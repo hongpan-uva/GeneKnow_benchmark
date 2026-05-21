@@ -1,0 +1,13 @@
+inspect mode: Namespace(command='inspect', genes=['PD-L1'], genes_file=None, context=['non-small cell lung cancer', 'NSCLC'], outdir=PosixPath('.'), name='GeneKnow_inspect', species='human', max_passages=3, auto_alias=False, pmid='35159131', pmcid=None, suffix_allowed=True, func=<function run_inspect_mode at 0x716e9e72dc60>)
+Tokenize texts:   0%|          | 0/89 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/89 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/89 [00:00<?, ?it/s]                                                            [PMID 35159131] Generating passage summaries for PD-L1...
+[PMID 35159131] Generating the article summary for PD-L1...
+[PMID 35159131] Verifying the article summary for PD-L1...
+Extracting claims from summary
+Verifying valid passage: In recent years, despite the i...
+Verifying valid passage: PD-L1 expression is the prefer...
+Verifying valid passage: Since then, the results of the...
+No revisions to apply
+
+real	1m16.161s
+user	0m3.718s
+sys	0m1.729s

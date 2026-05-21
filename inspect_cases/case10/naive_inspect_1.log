@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['CEBPA'], genes_file=None, context=['neutrophil', 'granulocyte'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='24584857', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 12 paragraphs, total text length: 13003 characters
+[PMID 24584857] Generating direct summary for CEBPA from full text...
+[PMID 24584857] Skipping verification for CEBPA (naive_inspect_1 mode)...
+
+real	0m35.897s
+user	0m2.474s
+sys	0m1.174s

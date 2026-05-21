@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeneKnow Discover Report - GeneKnow_out</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      margin: 2rem;
+      color: #111;
+      background: #fafafa;
+    }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin: 0 0 1rem 0;
+    }
+    .hint {
+      color: #555;
+      margin: 0 0 1.5rem 0;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e6e6e6;
+      border-radius: 14px;
+      padding: 1.25rem 1.25rem 0.9rem 1.25rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+    }
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .gene {
+      font-size: 1.25rem;
+      margin: 0;
+      letter-spacing: 0.2px;
+    }
+    .summary {
+      margin: 0.5rem 0 0.9rem 0;
+      line-height: 1.45;
+      color: #222;
+      white-space: pre-wrap; /* keeps newlines if summary includes them */
+    }
+    .note-box {
+      margin: 1rem 0;
+      padding: 0.8rem 1rem;
+      background: #fff3cd;
+      border-left: 3px solid #ffc107;
+      border-radius: 0 6px 6px 0;
+      color: #856404;
+    }
+    .note-box strong {
+      color: #856404;
+    }
+    details.refs {
+      border-top: 1px dashed #e5e5e5;
+      padding-top: 0.75rem;
+      margin-top: 0.25rem;
+    }
+    details.refs > summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #1f2937;
+      list-style: none;
+    }
+    details.refs > summary::-webkit-details-marker {
+      display: none;
+    }
+    details.refs > summary::before {
+      content: "▸";
+      display: inline-block;
+      margin-right: 0.5rem;
+      transform: translateY(-1px);
+    }
+    details.refs[open] > summary::before {
+      content: "▾";
+    }
+    details.refs ul {
+      margin: 0.6rem 0 0.4rem 1.2rem;
+      padding: 0;
+      color: #333;
+    }
+    details.refs li {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+      padding: 0.3rem 0;
+      border-bottom: 1px dashed #e5e5e5;
+    }
+    details.refs li:last-child {
+      border-bottom: none;
+    }
+    /* Style for PMID in reference list */
+    details.refs li {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    /* Link styling in references */
+    details.refs li a {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    details.refs li a:hover {
+      color: #1d4ed8;
+    }
+    .details-link {
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e5e5e5;
+      color: #666;
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    code {
+      background: #f1f5f9;
+      padding: 0.1rem 0.3rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GeneKnow Discover Report - GeneKnow_out</h1>
+    <p class="hint">Click <b>References</b> to expand/collapse references and more details.</p>
+
+    
+        <section class="card">
+          <div class="card-header">
+            <h2 class="gene">CEBPA</h2>
+          </div>
+
+          <p class="summary">CEBPA promotes granulocytic lineage specification and neutrophil differentiation [1-3]. CEBPA regulates myeloid differentiation and when mutated or repressed contributes to differentiation arrest in acute myeloid leukemia (AML) [2-4]. C/EBPα is required for generation of Ly6G+ neutrophils and Ly6Chi monocytes in cultured cKithi bone marrow progenitors when Notch signaling is absent [1]. C/EBPα maintains Ly6Chi monocyte identity by halting progression to Ly6Clo monocytes [1]. CEBPA activates HK3 and KLF5 during neutrophil differentiation, directly regulating HK3 and indirectly regulating KLF5 [2]. C/EBPα is required for formation of granulocyte-monocyte progenitors from common myeloid progenitors [3]. HoxA9 directly binds and inhibits the +8 kb enhancer and represses Cebpa expression [3]. HoxA9 impairs myeloid differentiation in normal HSPCs and in poor-risk AML [3]. CEBPA was upregulated in HSPCs exposed to supernatants from activated CAR-T cells and activity of regulons involved in neutrophil maturation decreased [5]. In one relapse case with biallelic CEBPA mutation, there was expansion of maturing neutrophilic granulopoiesis [4]. The expansion was associated with an increased myeloid-erythroid ratio, near-100% bone marrow cellularity, and approximately 10% blasts [4].</p>
+          
+          
+
+          <details class="refs">
+            <summary>References</summary>
+            <ul>
+              <li>[1] Kim, S., Chen, J., Ou, F., Liu, T. T., Jo, S., Gillanders, W. E., Murphy, T. L., &amp; Murphy, K. M. (2024). Transcription factor C/EBPα is required for the development of Ly6C&amp;lt;sup&amp;gt;hi&amp;lt;/sup&amp;gt; monocytes but not Ly6C&amp;lt;sup&amp;gt;lo&amp;lt;/sup&amp;gt; monocytes. <i>Proc Natl Acad Sci U S A</i>, 121(15), e2315659121. <a href="https://doi.org/10.1073/pnas.2315659121" target="_blank">https://doi.org/10.1073/pnas.2315659121</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/38564635/" target="_blank">38564635</a>  <a href="html/CEBPA_PMID38564635.html" target="_blank" class="details-link">Details →</a></li>
+<li>[2] Federzoni, E. A., Humbert, M., Torbett, B. E., Behre, G., Fey, M. F., &amp; Tschan, M. P. (2014). CEBPA-dependent HK3 and KLF5 expression in primary AML and during AML differentiation. <i>Sci Rep</i>, 4, 4261. <a href="https://doi.org/10.1038/srep04261" target="_blank">https://doi.org/10.1038/srep04261</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/24584857/" target="_blank">24584857</a>  <a href="html/CEBPA_PMID24584857.html" target="_blank" class="details-link">Details →</a></li>
+<li>[3] Peng, L., Guo, H., Ma, P., Sun, Y., Dennison, L., Aplan, P. D., Hess, J. L., &amp; Friedman, A. D. (2019). HoxA9 binds and represses the Cebpa +8 kb enhancer. <i>PLoS One</i>, 14(5), e0217604. <a href="https://doi.org/10.1371/journal.pone.0217604" target="_blank">https://doi.org/10.1371/journal.pone.0217604</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/31120998/" target="_blank">31120998</a>  <a href="html/CEBPA_PMID31120998.html" target="_blank" class="details-link">Details →</a></li>
+<li>[4] Maffei, R., Paolini, A., Conte, B., Riva, G., Nasillo, V., Cretì, F., Martinelli, S., Giacobbi, F., Corradini, G., Pilato, F., Bernabei, D., Lancellotti, C., Debbia, G., Morselli, M., Potenza, L., Giusti, D., Colaci, E., Bettelli, F., Bresciani, P., Cuoghi, A., Gilioli, A., Messerotti, A., Pioli, V., Maccaferri, M., Leonardi, G., Manfredini, R., Marasca, R., Eccher, A., Luppi, M., Forghieri, F., Candoni, A., &amp; Tagliafico, E. (2025). Distribution of different classes of CSF3R mutations and co-mutational pattern in 360 myeloid neoplasia. <i>Ann Hematol</i>, 104(1), 263-274. <a href="https://doi.org/10.1007/s00277-025-06232-1" target="_blank">https://doi.org/10.1007/s00277-025-06232-1</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/39907800/" target="_blank">39907800</a>  <a href="html/CEBPA_PMID39907800.html" target="_blank" class="details-link">Details →</a></li>
+<li>[5] Palacios-Berraquero, M. L., Rodriguez-Marquez, P., Calleja-Cervantes, M. E., Berastegui, N., Zabaleta, A., Burgos, L., Alignani, D., San Martin-Uriz, P., Vilas-Zornoza, A., Rodriguez-Diaz, S., Inoges, S., Lopez-Diaz, d. e. C. e. r. i. o. A., Huerga, S., Tamariz, E., Rifon, J., Alfonso-Pierola, A., Lasarte, J. J., Paiva, B., Hernaez, M., Rodriguez-Otero, P., San-Miguel, J., Ezponda, T., Rodriguez-Madoz, J. R., &amp; Prosper, F. (2024). Molecular mechanisms promoting long-term cytopenia after BCMA CAR-T therapy in multiple myeloma. <i>Blood Adv</i>, 8(21), 5479-5492. <a href="https://doi.org/10.1182/bloodadvances.2023012522" target="_blank">https://doi.org/10.1182/bloodadvances.2023012522</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/39058976/" target="_blank">39058976</a>  <a href="html/CEBPA_PMID39058976.html" target="_blank" class="details-link">Details →</a></li>
+            </ul>
+          </details>
+        </section>
+        
+
+    <div class="footer">
+      Generated by <code>GeneKnow</code>
+    </div>
+  </div>
+</body>
+</html>

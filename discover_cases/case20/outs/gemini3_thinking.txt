@@ -1,0 +1,26 @@
+The $t(2;13)(q35;q14)$ chromosomal translocation generates the *PAX3-FOXO1* fusion gene, which acts as the primary oncogenic driver in alveolar rhabdomyosarcoma (ARMS) (Nguyen & Barr, 2018; Olanich & Barr, 2013). This chimeric transcription factor incorporates the DNA-binding domains of PAX3 and the transactivation domain of FOXO1 to function as a potent transcriptional activator (Manceau et al., 2021). Mechanistically, PAX3-FOXO1 recruits co-activators such as p300 and BRD4 to establish de novo super-enhancers, which drive high-level expression of genes regulating cell survival and proliferation (Chin et al., 2023; Nguyen & Barr, 2018). The fusion protein also globally alters the microRNA landscape and interferes with normal FOXO-mediated tumor suppression, effectively blocking terminal myogenic differentiation while maintaining cells in a proliferative state (Loupe et al., 2017; Schmitt-Ney & Camussi, 2015). Although essential for maintaining the transformed phenotype and tumor viability, experimental evidence indicates that PAX3-FOXO1 typically requires cooperating genetic lesions, such as *MYCN* overexpression or *CDKN2A* inactivation, to achieve full oncogenesis (Nguyen & Barr, 2018; Olanich & Barr, 2013). While various myogenic and mesenchymal progenitors have been proposed, no direct consensus currently exists regarding the definitive cell of origin for this malignancy (Jothi et al., 2012).
+
+-----
+
+### **References**
+
+Chin, D. H., Osman, I., Porch, J., Kim, H., Buck, K. K., Rodriguez, J., et al. (2023). BET bromodomain degradation disrupts function but not 3D formation of RNA Pol2 clusters. *Pharmaceuticals*, *16*(2), 199. [https://doi.org/10.3390/ph16020199](https://www.google.com/search?q=https://doi.org/10.3390/ph16020199)
+Cited by: 5
+
+Jothi, M., Nishijo, K., Keller, C., & Mal, A. K. (2012). AKT and PAX3-FKHR cooperation enforces myogenic differentiation blockade in alveolar rhabdomyosarcoma cell. *Cell Cycle*, *11*(5), 895–908. [https://doi.org/10.4161/cc.11.5.19346](https://www.google.com/search?q=https://doi.org/10.4161/cc.11.5.19346)
+Cited by: 33
+
+Loupe, J. M., Miller, P. J., Crabtree, J. S., Zabaleta, J., & Hollenbach, A. D. (2017). Acquisition of an oncogenic fusion protein is sufficient to globally alter the landscape of miRNA expression to inhibit myogenic differentiation. *Oncotarget*, *8*(50), 87054–87072. [https://doi.org/10.18632/oncotarget.19693](https://www.google.com/search?q=https://doi.org/10.18632/oncotarget.19693)
+Cited by: 4
+
+Manceau, L., Richard Albert, J., Lollini, P. L., Greenberg, M. V. C., Gilardi-Hebenstreit, P., & Ribes, V. (2021). Divergent transcriptional and transforming properties of PAX3-FOXO1 and PAX7-FOXO1 paralogs. *Cold Spring Harbor Laboratory*. [https://doi.org/10.1101/2021.08.18.456823](https://www.google.com/search?q=https://doi.org/10.1101/2021.08.18.456823)
+Cited by: 23
+
+Nguyen, T. H., & Barr, F. G. (2018). Therapeutic approaches targeting PAX3-FOXO1 and its regulatory and transcriptional pathways in rhabdomyosarcoma. *Molecules*, *23*(11), 2798. [https://doi.org/10.3390/molecules23112798](https://doi.org/10.3390/molecules23112798)
+Cited by: 74
+
+Olanich, M. E., & Barr, F. G. (2013). A call to ARMS: Targeting the PAX3-FOXO1 gene in alveolar rhabdomyosarcoma. *Expert Opinion on Therapeutic Targets*, *17*(6), 607–623. [https://doi.org/10.1517/14728222.2013.772136](https://www.google.com/search?q=https://doi.org/10.1517/14728222.2013.772136)
+Cited by: 50
+
+Schmitt-Ney, M., & Camussi, G. (2015). The PAX3-FOXO1 fusion protein present in rhabdomyosarcoma interferes with normal FOXO activity and the TGF-β pathway. *PLOS ONE*, *10*(3), e0121474. [https://doi.org/10.1371/journal.pone.0121474](https://www.google.com/search?q=https://doi.org/10.1371/journal.pone.0121474)
+Cited by: 39

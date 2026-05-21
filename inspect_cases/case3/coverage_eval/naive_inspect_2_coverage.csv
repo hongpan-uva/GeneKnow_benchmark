@@ -1,0 +1,4 @@
+id,claim,question,claim_answer,summary_answer,answer_note
+1,"In B cell progenitors, Pax5 specifies B cell identity and mediates lineage commitment.",Does Pax5 specify B cell identity and mediate lineage commitment in B cell progenitors?,Yes,Yes,
+2,Pax5 represses lineage-inappropriate genes in pro-B cells.,Does Pax5 repress lineage-inappropriate genes in pro-B cells?,Yes,Yes,
+3,"In Pax5−/− pro-B cells, expression of a constitutively deacetylated Pax5 K198R mutant abrogated T cell potential.",Does expression of the constitutively deacetylated Pax5 K198R mutant in Pax5-deficient pro-B cells abrogate T cell potential?,Yes,Yes,

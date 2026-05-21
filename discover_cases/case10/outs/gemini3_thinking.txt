@@ -1,0 +1,16 @@
+CEBPA (CCAAT/enhancer-binding protein alpha) is a basic leucine zipper (bZIP) transcription factor that serves as the indispensable master regulator of the neutrophil lineage. It is strictly required for the transition of common myeloid progenitors (CMPs) to granulocyte-monocyte progenitors (GMPs); consequently, mice lacking **Cebpa** exhibit a complete and selective absence of mature neutrophils and their precursors (Zhang et al., 1997; Zhang et al., 2004). CEBPA directly promotes neutrophil development by transactivating the promoter of the **Granulocyte Colony-Stimulating Factor receptor** (*Gcsfr*/*Csf3r*), which is essential for granulocyte signaling and survival (Smith et al., 1996). Furthermore, CEBPA coordinates terminal differentiation by inducing cell cycle arrest; it achieves this by physically interacting with and inhibiting **E2F** complexes, thereby preventing continued precursor proliferation (Porse et al., 2001). The functional necessity of CEBPA is further demonstrated in clinical contexts, where dominant-negative mutations in the **CEBPA** gene result in a differentiation block at the myeloblast stage, a hallmark in the pathogenesis of **Acute Myeloid Leukemia** (Pabst et al., 2001). Without the transcriptional and anti-proliferative activities of CEBPA, the production of functional neutrophils is entirely abolished.
+
+-----
+
+### References
+
+Pabst, T., Mueller, B. U., Zhang, P., Radomska, H. S., Narravula, S., Schnittger, S., Behre, G., Hiddemann, W., & Tenen, D. G. (2001). Dominant-negative mutations of CEBPA, encoding CCAAT/enhancer binding protein-α (C/EBPα), in acute myeloid leukemia. *Nature Genetics*, *27*(3), 263–270. [https://doi.org/10.1038/85820](https://doi.org/10.1038/85820)
+
+Porse, B. T., Pedersen, T. A., Xu, X., Lindberg, B., Wewer, U. M., Friis-Hansen, L., & Nerlov, C. (2001). E2F-independent cell cycle control by C/EBPα is essential for immunoreceptor expression and terminal myeloid differentiation. *Nature Genetics*, *28*(2), 108–114. [https://doi.org/10.1038/88819](https://www.google.com/search?q=https://doi.org/10.1038/88819)
+
+Smith, L. T., Hohaus, S., Gonzalez, D. A., Dziennis, S. E., & Tenen, D. G. (1996). PU.1 (Spi-1) and C/EBP alpha regulate the expression of the granulocyte-macrophage colony-stimulating factor receptor alpha gene. *The Journal of Biological Chemistry*, *271*(13), 7679–7687. [https://doi.org/10.1074/jbc.271.13.7679](https://www.google.com/search?q=https://doi.org/10.1074/jbc.271.13.7679)
+
+Zhang, D. E., Zhang, P., Wang, N. D., Hetherington, C. J., Darlington, G. J., & Tenen, D. G. (1997). Absence of granulocyte colony-stimulating factor signaling and neutrophil development in CCAAT enhancer binding protein alpha-deficient mice. *Immunity*, *7*(2), 183–189. [https://doi.org/10.1016/S1074-7613(00)80521-3](https://www.google.com/search?q=https://doi.org/10.1016/S1074-7613\(00\)80521-3)
+
+Zhang, P., Iwasaki-Arai, J., Iwasaki, H., Fenyus, M. L., Dayaram, T., Owens, B. M., Shigematsu, H., Levinsky, H. I., Akashi, K., & Tenen, D. G. (2004). Enhancement of GATA-1 expression via afadin and C/EBPα in BMP4-induced hematopoietic differentiation of embryonic stem cells. *Blood*, *103*(10), 3734–3742. [https://doi.org/10.1182/blood-2003-09-3221](https://www.google.com/search?q=https://doi.org/10.1182/blood-2003-09-3221)
+

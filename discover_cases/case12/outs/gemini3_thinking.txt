@@ -1,0 +1,21 @@
+Programmed cell death protein 1 (PD-1) is an inhibitory checkpoint receptor expressed on tumor-infiltrating lymphocytes (TILs), including $\alpha\beta$ and $\gamma\delta$ T cells, in the melanoma microenvironment (Herold et al., 2026; Pardoll, 2012). Melanoma cells frequently express the ligand programmed death-ligand 1 (PD-L1), which binds PD-1 to recruit Src homology region 2 domain-containing phosphatase (SHP-2). This interaction dephosphorylates the T-cell receptor (TCR) complex, thereby inducing T-cell exhaustion and suppressing cytokine production (Jiang et al., 2013; Tong et al., 2025). This axis facilitates adaptive immune resistance, as interferon-gamma ($IFN-\gamma$) produced by immune cells paradoxically upregulates PD-L1 on tumor cells to evade destruction (Tumeh et al., 2014). Clinical blockade of PD-1 with monoclonal antibodies such as pembrolizumab or nivolumab restores anti-tumor activity; final 10-year outcomes from the CheckMate 067 trial show a median overall survival (OS) of 71.9 months for nivolumab plus ipilimumab versus 19.9 months for ipilimumab alone (Robert et al., 2015; Wolchok et al., 2025). Furthermore, dual inhibition of PD-1 and LAG-3 significantly improves progression-free survival in treatment-naive metastatic melanoma (Tawbi et al., 2022). Recently, high baseline peripheral V$\delta$1 T-cell frequencies were identified as a specific predictor of reduced OS under anti-PD-1 therapy (Herold et al., 2026).
+
+-----
+
+### **References**
+
+Herold, N., Bochem, J., Leyens, J., Wingerter, S., Forchhammer, S., Spreuer, J., ... & Wistuba-Hamprecht, K. (2026). Vδ1 T-cell subset appears to be responsive to PD-1 blockade therapy and is associated with survival in melanoma. *Journal for ImmunoTherapy of Cancer*, *14*(1), e011224. [https://doi.org/10.1136/jitc-2025-011224](https://www.google.com/search?q=https://doi.org/10.1136/jitc-2025-011224)
+
+Jiang, X., Zhou, J., Giobbie-Hurder, A., Wargo, J., & Hodi, F. S. (2013). CTLA-4 and PD-1/PD-L1 blockade: New immunotherapeutic modalities with durable clinical benefit in melanoma patients. *Clinical Cancer Research*, *19*(19), 5300-5309. [https://doi.org/10.1158/1078-0432.CCR-13-0143](https://www.google.com/search?q=https://doi.org/10.1158/1078-0432.CCR-13-0143)
+
+Pardoll, D. M. (2012). The blockade of immune checkpoints in cancer immunotherapy. *Nature Reviews Cancer*, *12*(4), 252-264. [https://doi.org/10.1038/nrc3239](https://doi.org/10.1038/nrc3239)
+
+Robert, C., Schachter, J., Long, G. V., Arance, A., Grob, J. J., Mortier, L., ... & Ribas, A. (2015). Pembrolizumab versus ipilimumab in advanced melanoma. *New England Journal of Medicine*, *372*(26), 2521-2532. [https://doi.org/10.1056/NEJMoa1503093](https://doi.org/10.1056/NEJMoa1503093)
+
+Tawbi, H. A., Schadendorf, D., Lipson, E. J., Ascierto, P. A., Matamala, L., Castillo Gutiérrez, E., ... & Long, G. V. (2022). Relatlimab and nivolumab versus nivolumab in untreated advanced melanoma. *New England Journal of Medicine*, *386*(1), 24-34. [https://doi.org/10.1056/NEJMoa2109970](https://doi.org/10.1056/NEJMoa2109970)
+
+Tong, C., Wu, Y., & Wu, R. (2025). New dimensions of PD-1/PD-L1 inhibitor combination therapy in cancer treatment: Current advances and future perspectives. *Frontiers in Immunology*, *16*, 1616872. [https://doi.org/10.3389/fimmu.2025.1616872](https://doi.org/10.3389/fimmu.2025.1616872)
+
+Tumeh, P. C., Harview, C. L., Yearley, J. H., Shintaku, I. P., Taylor, E. J., Robert, L., ... & Ribas, A. (2014). PD-1 blockade induces responses by inhibiting adaptive immune resistance. *Nature*, *515*(7528), 568-571. [https://doi.org/10.1038/nature13954](https://doi.org/10.1038/nature13954)
+
+Wolchok, J. D., Chiarion-Sileni, V., Rutkowski, P., Cowey, C. L., Schadendorf, D., Wagstaff, J., ... & Larkin, J. (2025). Final, 10-year outcomes with nivolumab plus ipilimumab in advanced melanoma. *New England Journal of Medicine*, *392*(1), 11-22. [https://doi.org/10.1056/NEJMoa2407417](https://www.google.com/search?q=https://doi.org/10.1056/NEJMoa2407417)

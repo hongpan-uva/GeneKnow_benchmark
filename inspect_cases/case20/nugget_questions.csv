@@ -1,0 +1,10 @@
+id,claim,question,claim_answer,evidence_answer,answer_note,category,source_ids
+1,PAX3-FOXO1 functions as a pioneer transcription factor in fusion-positive rhabdomyosarcoma in mouse models.,Does PAX3-FOXO1 function as a pioneer transcription factor in fusion-positive rhabdomyosarcoma mouse models?,Yes,,,core_role,2;5
+2,PAX3-FOXO1 is one of the fusion oncoproteins that define fusion-positive rhabdomyosarcoma.,Is PAX3-FOXO1 a fusion oncoprotein defining fusion-positive rhabdomyosarcoma?,Yes,,,core_role,17
+5,"Through creation of novel TADs, PAX3-FOXO1 activates myogenic super-enhancers, including those for MYOD1, MYOGENIN, and MYCN.","Does PAX3-FOXO1 create novel TADs that activate myogenic super-enhancers for MYOD1, MYOGENIN, and MYCN?",Yes,,,direct_function,11
+7,Continued PAX3-FOXO1 expression is required to maintain myogenic transcription factor expression.,Is continued PAX3-FOXO1 expression required to maintain myogenic transcription factor expression?,Yes,,,direct_function,21
+8,"In ACP mice, PAX3-FOXO1 expression reprograms aP2-Cre–labeled cells to acquire muscle stem cell properties.","In ACP mice, does PAX3-FOXO1 reprogram aP2-Cre–labeled cells to acquire muscle stem cell properties?",Yes,,,impact,1
+9,"PAX3-FOXO1’s activities of chromatin opening, activation of myogenic super-enhancers, and repression of endothelial factors are sufficient to transdifferentiate endothelial cells toward a myogenic program.",Are PAX3-FOXO1’s activities sufficient to transdifferentiate endothelial cells toward a myogenic program?,Yes,,,impact,16
+11,"Continued PAX3-FOXO1 expression is required to maintain proliferative, tumorigenic capacity.","Is continued PAX3-FOXO1 expression required to maintain proliferative, tumorigenic capacity?",Yes,,,impact,22
+12,The presence of PAX3-FOXO1 is associated with worse prognosis.,Is the presence of PAX3-FOXO1 associated with a worse prognosis?,Yes,,,impact,15
+13,"Classifying rhabdomyosarcoma by fusion status, including PAX3-FOXO1, more accurately categorizes patients.","Does classifying rhabdomyosarcoma by fusion status, including PAX3-FOXO1, more accurately categorize patients?",Yes,,,impact,19

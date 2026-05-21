@@ -1,0 +1,18 @@
+RUNX2 (Runt-related transcription factor 2) is the primary determinant of the osteoblast lineage, essential for the commitment of mesenchymal stem cells to an osteogenic fate. Genetic deletion of *Runx2* in mice results in a complete absence of osteoblasts and a skeleton consisting entirely of cartilage (Komori et al., 1997; Otto et al., 1997). RUNX2 functions by binding to the Osteoblast-Specific Element 2 (OSE2) in the promoter regions of key bone matrix genes, such as *Osteocalcin* (*Bglap*), *Type I Collagen* (*Col1a1*), and *Bone Sialoprotein* (*Ibsp*), thereby driving their expression (Ducy et al., 1997). It also serves as a scaffold within the nucleus, organizing the subnuclear distribution of transcriptional machinery required for osteoblast-specific gene expression (Stein et al., 2004). While necessary for early differentiation, RUNX2 must be downregulated for the final maturation of osteoblasts into osteocytes; sustained high levels of RUNX2 actually inhibit terminal maturation and lead to osteopenia (Liu et al., 2001). Furthermore, its transcriptional activity is stabilized by the co-factor $Cbf-\beta$, which is required for RUNX2 to effectively induce bone formation in vivo (Yoshida et al., 2002).
+
+-----
+
+### References
+
+Ducy, P., Zhang, R., Geoffroy, V., Ridall, A. L., & Karsenty, G. (1997). Osf2/Cbfa1: A transcriptional activator of osteoblast differentiation. *Cell*, *89*(5), 747–754. [https://doi.org/10.1016/S0092-8674(00)80257-6](https://www.google.com/search?q=https://doi.org/10.1016/S0092-8674\(00\)80257-6)
+
+Komori, T., Yagi, H., Nomura, S., Yamaguchi, A., Kondo, K., Deguchi, K., Nishamaru, Y., Kishimoto, T., & Taniguchi, H. (1997). Targeted disruption of Cbfa1 results in a complete lack of bone formation owing to maturational arrest of osteoblasts. *Cell*, *89*(5), 755–764. [https://doi.org/10.1016/S0092-8674(00)80258-8](https://www.google.com/search?q=https://doi.org/10.1016/S0092-8674\(00\)80258-8)
+
+Liu, W., Toyosawa, S., Furuichi, T., Kanatani, N., Yoshida, C., Liu, Y., Himeno, M., Narai, S., Yamaguchi, A., & Komori, T. (2001). Overexpression of Cbfa1 in osteoblasts inhibits osteoblast maturation and causes osteopenia with reduced bone formation. *The Journal of Cell Biology*, *154*(1), 191–204. [https://doi.org/10.1083/jcb.200102069](https://www.google.com/search?q=https://doi.org/10.1083/jcb.200102069)
+
+Otto, F., Thornell, A. P., Crompton, T., Denzel, A., Gilmour, K. C., Rosewell, I. R., Stamp, G. W., Beddington, R. S., Mundlos, S., Olsen, B. R., Selby, P. B., & Owen, M. J. (1997). Cbfa1, a candidate gene for cleidocranial dysplasia, is essential for osteoblast differentiation and bone development. *Cell*, *89*(5), 765–771. [https://doi.org/10.1016/S0092-8674(00)80259-X](https://www.google.com/search?q=https://doi.org/10.1016/S0092-8674\(00\)80259-X)
+
+Stein, G. S., Lian, J. B., van Wijnen, A. J., Stein, J. L., Montecino, M., Javed, A., Zaidi, S. K., Young, D. W., Choi, J. Y., & Pockwinse, S. M. (2004). Runx2 control of organization, localization and activity of the regulatory machinery for skeletal gene expression. *Critical Reviews™ in Eukaryotic Gene Expression*, *14*(3), 175–187. [https://doi.org/10.1615/CritRevEukaryotGeneExpr.v14.i3.20](https://www.google.com/search?q=https://doi.org/10.1615/CritRevEukaryotGeneExpr.v14.i3.20)
+
+Yoshida, C. A., Furuichi, T., Chen, H., Takeyasu, K., Ito, Y., Nakamura, H., & Komori, T. (2002). Core-binding factor $\beta$ interacts with Runx2 and is required for skeletal development. *Nature Genetics*, *32*(4), 633–638. [https://doi.org/10.1038/ng1045](https://doi.org/10.1038/ng1045)
+

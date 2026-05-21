@@ -1,0 +1,8 @@
+naive_inspect_2 mode: Namespace(genes=['FOXP3'], genes_file=None, context=['Treg', 'regulatory T cell'], outdir=PosixPath('.'), name='naive_inspect_2', species='human', max_passages=3, auto_alias=False, pmid='36569832', pmcid=None, suffix_allowed=True)
+Tokenize texts:   0%|          | 0/37 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/37 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/37 [00:00<?, ?it/s]                                                            [PMID 36569832] Generating passage summaries for FOXP3...
+[PMID 36569832] Generating the article summary for FOXP3...
+[PMID 36569832] Skipping verification for FOXP3 (naive_inspect_2 mode)...
+
+real	1m6.680s
+user	0m3.286s
+sys	0m1.351s

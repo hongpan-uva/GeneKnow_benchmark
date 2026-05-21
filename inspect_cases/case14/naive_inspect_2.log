@@ -1,0 +1,8 @@
+naive_inspect_2 mode: Namespace(genes=['KLF4'], genes_file=None, context=['colorectal cancer', 'CRC'], outdir=PosixPath('.'), name='naive_inspect_2', species='human', max_passages=3, auto_alias=False, pmid='37031197', pmcid=None, suffix_allowed=True)
+Tokenize texts:   0%|          | 0/37 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/37 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/37 [00:00<?, ?it/s]                                                            [PMID 37031197] Generating passage summaries for KLF4...
+[PMID 37031197] Generating the article summary for KLF4...
+[PMID 37031197] Skipping verification for KLF4 (naive_inspect_2 mode)...
+
+real	1m3.074s
+user	0m3.324s
+sys	0m1.564s

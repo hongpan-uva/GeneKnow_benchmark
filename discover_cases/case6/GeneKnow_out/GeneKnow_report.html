@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeneKnow Discover Report - GeneKnow_out</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      margin: 2rem;
+      color: #111;
+      background: #fafafa;
+    }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin: 0 0 1rem 0;
+    }
+    .hint {
+      color: #555;
+      margin: 0 0 1.5rem 0;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e6e6e6;
+      border-radius: 14px;
+      padding: 1.25rem 1.25rem 0.9rem 1.25rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+    }
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .gene {
+      font-size: 1.25rem;
+      margin: 0;
+      letter-spacing: 0.2px;
+    }
+    .summary {
+      margin: 0.5rem 0 0.9rem 0;
+      line-height: 1.45;
+      color: #222;
+      white-space: pre-wrap; /* keeps newlines if summary includes them */
+    }
+    .note-box {
+      margin: 1rem 0;
+      padding: 0.8rem 1rem;
+      background: #fff3cd;
+      border-left: 3px solid #ffc107;
+      border-radius: 0 6px 6px 0;
+      color: #856404;
+    }
+    .note-box strong {
+      color: #856404;
+    }
+    details.refs {
+      border-top: 1px dashed #e5e5e5;
+      padding-top: 0.75rem;
+      margin-top: 0.25rem;
+    }
+    details.refs > summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #1f2937;
+      list-style: none;
+    }
+    details.refs > summary::-webkit-details-marker {
+      display: none;
+    }
+    details.refs > summary::before {
+      content: "▸";
+      display: inline-block;
+      margin-right: 0.5rem;
+      transform: translateY(-1px);
+    }
+    details.refs[open] > summary::before {
+      content: "▾";
+    }
+    details.refs ul {
+      margin: 0.6rem 0 0.4rem 1.2rem;
+      padding: 0;
+      color: #333;
+    }
+    details.refs li {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+      padding: 0.3rem 0;
+      border-bottom: 1px dashed #e5e5e5;
+    }
+    details.refs li:last-child {
+      border-bottom: none;
+    }
+    /* Style for PMID in reference list */
+    details.refs li {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    /* Link styling in references */
+    details.refs li a {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    details.refs li a:hover {
+      color: #1d4ed8;
+    }
+    .details-link {
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e5e5e5;
+      color: #666;
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    code {
+      background: #f1f5f9;
+      padding: 0.1rem 0.3rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GeneKnow Discover Report - GeneKnow_out</h1>
+    <p class="hint">Click <b>References</b> to expand/collapse references and more details.</p>
+
+    
+        <section class="card">
+          <div class="card-header">
+            <h2 class="gene">NEUROD1</h2>
+          </div>
+
+          <p class="summary">NEUROD1 acts as a transcription factor that activates neuronal gene expression [1-3]. NEUROD1 promotes conversion of non-neuronal somatic cells into neurons [1,3-5]. NEUROD1 is required for neuronal development and survival [2,5]. For example, in somatic-to-neuron conversion, upstream proteins activate NEUROD1 [1]. NEUROD1 functions as a transcription factor that directly binds promoters and enhancers of neuronal genes and thereby overrides pluripotency to promote neurogenesis [2]. In mice NEUROD1 is required for normal neurogenesis in sensory ganglia and for survival of developing neurons [2]. In injured mouse cortex post-stroke, AAV NeuroD1 induces astrocyte-to-neuron conversion [4]. Converted neurons are NeuN-positive and express pyramidal markers [4]. Converted neurons increase peri-injury neuronal density [4]. At 60 dpi converted neurons fire action potentials and show excitatory and inhibitory synaptic events [4]. NEUROD1 is required for spiral ganglion neuron development [5]. NEUROD1 negatively regulates Atoh1 [5]. Loss of NEUROD1 in vestibular ganglion produces Atoh1-positive hair-cell–like cells, and a NEUROD1–Atoh1 interaction is required for this neuronal conversion [5]. NEUROD1 was used to generate neurons from T cells under glial-free conditions by helping overcome epigenetic barriers with OCT3/4, SOX2, KLF4, and c-MYC [3]. The combination generated glutamatergic neurons and supported direct conversion from peripheral blood without iPSC intermediates [3].</p>
+          
+          
+
+          <details class="refs">
+            <summary>References</summary>
+            <ul>
+              <li>[1] Jastrzębski, M. K., Wójcik, P., Stępnicki, P., &amp; Kaczor, A. A. (2024). Effects of small molecules on neurogenesis: Neuronal proliferation and differentiation. <i>Acta Pharm Sin B</i>, 14(1), 20-37. <a href="https://doi.org/10.1016/j.apsb.2023.10.007" target="_blank">https://doi.org/10.1016/j.apsb.2023.10.007</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/38239239/" target="_blank">38239239</a>  <a href="html/NEUROD1_PMID38239239.html" target="_blank" class="details-link">Details →</a></li>
+<li>[2] Pavlinkova, G., &amp; Smolik, O. (2024). NEUROD1: transcriptional and epigenetic regulator of human and mouse neuronal and endocrine cell lineage programs. <i>Front Cell Dev Biol</i>, 12, 1435546. <a href="https://doi.org/10.3389/fcell.2024.1435546" target="_blank">https://doi.org/10.3389/fcell.2024.1435546</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/39105169/" target="_blank">39105169</a>  <a href="html/NEUROD1_PMID39105169.html" target="_blank" class="details-link">Details →</a></li>
+<li>[3] Saito, Y., Ishikawa, M., Ohkuma, M., Moody, J., Mabuchi, Y., Sanosaka, T., Ando, Y., Yamashita, T., Hon, C. C., Shin, J. W., Akamatsu, W., &amp; Okano, H. (2025). NEUROD1 efficiently converts peripheral blood cells into neurons with partial reprogramming by pluripotency factors. <i>Proc Natl Acad Sci U S A</i>, 122(18), e2401387122. <a href="https://doi.org/10.1073/pnas.2401387122" target="_blank">https://doi.org/10.1073/pnas.2401387122</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/40299704/" target="_blank">40299704</a>  <a href="html/NEUROD1_PMID40299704.html" target="_blank" class="details-link">Details →</a></li>
+<li>[4] Chen, Y. C., Ma, N. X., Pei, Z. F., Wu, Z., Do-Monte, F. H., Keefe, S., Yellin, E., Chen, M. S., Yin, J. C., Lee, G., Minier-Toribio, A., Hu, Y., Bai, Y. T., Lee, K., Quirk, G. J., &amp; Chen, G. (2020). A NeuroD1 AAV-Based Gene Therapy for Functional Brain Repair after Ischemic Injury through In Vivo Astrocyte-to-Neuron Conversion. <i>Mol Ther</i>, 28(1), 217-234. <a href="https://doi.org/10.1016/j.ymthe.2019.09.003" target="_blank">https://doi.org/10.1016/j.ymthe.2019.09.003</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/31551137/" target="_blank">31551137</a>  <a href="html/NEUROD1_PMID31551137.html" target="_blank" class="details-link">Details →</a></li>
+<li>[5] Elliott, K. L., Pavlinkova, G., Chizhikov, V. V., Yamoah, E. N., &amp; Fritzsch, B. (2021). Neurog1, Neurod1, and Atoh1 are essential for spiral ganglia, cochlear nuclei, and cochlear hair cell development. <i>Fac Rev</i>, 10, 47. <a href="https://doi.org/10.12703/r/10-47" target="_blank">https://doi.org/10.12703/r/10-47</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/34131657/" target="_blank">34131657</a>  <a href="html/NEUROD1_PMID34131657.html" target="_blank" class="details-link">Details →</a></li>
+            </ul>
+          </details>
+        </section>
+        
+
+    <div class="footer">
+      Generated by <code>GeneKnow</code>
+    </div>
+  </div>
+</body>
+</html>

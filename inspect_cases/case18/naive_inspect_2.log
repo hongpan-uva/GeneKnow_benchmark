@@ -1,0 +1,8 @@
+naive_inspect_2 mode: Namespace(genes=['TCF7L2'], genes_file=None, context=['diabetes mellitus', 'diabetes', 'T2D', 'T2DM'], outdir=PosixPath('.'), name='naive_inspect_2', species='human', max_passages=3, auto_alias=False, pmid='34016596', pmcid=None, suffix_allowed=True)
+Tokenize texts:   0%|          | 0/28 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/28 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/28 [00:00<?, ?it/s]                                                            [PMID 34016596] Generating passage summaries for TCF7L2...
+[PMID 34016596] Generating the article summary for TCF7L2...
+[PMID 34016596] Skipping verification for TCF7L2 (naive_inspect_2 mode)...
+
+real	1m4.334s
+user	0m3.298s
+sys	0m1.499s

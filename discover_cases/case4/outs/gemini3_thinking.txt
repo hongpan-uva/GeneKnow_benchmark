@@ -1,0 +1,20 @@
+FOXP3, a forkhead/winged-helix transcription factor, is the lineage-defining regulator essential for the development, maintenance, and suppressive function of regulatory T cells (Tregs). Mutations in the **Foxp3** gene result in the "Scurfy" phenotype in mice and IPEX syndrome in humans, both characterized by fatal systemic autoimmunity due to a total deficiency of functional Tregs (Wildin et al., 2001; Brunkow et al., 2001). FOXP3 is required for the commitment of thymic precursors to the Treg lineage and the acquisition of their characteristic suppressive phenotype (Fontenot et al., 2003; Hori et al., 2003). Mechanistically, FOXP3 acts as both a transcriptional activator and repressor; it directly upregulates the expression of Treg-associated markers such as **CD25**, **CTLA-4**, and **GITR**, while actively repressing the production of effector cytokines, including **IL-2** and **IFN-$\gamma$** (Wu et al., 2006; Williams & Rudensky, 2007). This transcriptional program is facilitated by the physical interaction of FOXP3 with **NFAT**, which reconfigures the T-cell activation program toward immune suppression (Wu et al., 2006). Furthermore, continuous FOXP3 expression is mandatory in mature Tregs to prevent their dedifferentiation into pro-inflammatory effector-like cells (Williams & Rudensky, 2007).
+
+
+
+---
+
+### References
+
+Brunkow, M. E., Jeffery, E. W., Hjerrild, K. A., Paeper, B., Clark, L. B., Yasayko, S. A., Wilkinson, J. E., Galas, D., Ziegler, S. F., & Ramsdell, F. (2001). Disruption of a new forkhead/winged-helix protein, scurfin, results in the fatal lymphoproliferative disorder of the scurfy mouse. *Nature Genetics*, *27*(1), 68–73. [https://doi.org/10.1038/83784](https://doi.org/10.1038/83784)
+
+Fontenot, J. D., Gavin, M. A., & Rudensky, A. Y. (2003). Foxp3 programs the development and function of CD4+CD25+ regulatory T cells. *Nature Immunology*, *4*(4), 330–336. [https://doi.org/10.1038/ni904](https://doi.org/10.1038/ni904)
+
+Hori, S., Nomura, T., & Sakaguchi, S. (2003). Control of regulatory T cell development by the transcription factor Foxp3. *Science*, *299*(5609), 1057–1061. [https://doi.org/10.1126/science.1079490](https://doi.org/10.1126/science.1079490)
+
+Wildin, R. S., Ramsdell, F., Peake, J., Faravelli, F., Casanova, J. L., Buist, N., Levy-Lahad, E., Mazzella, M., Goulet, O., Perroni, L., Bricarelli, F. D., Byrne, G., McEuen, M., & Brunkow, M. E. (2001). X-linked neonatal diabetes mellitus, enteropathy and endocrinopathy syndrome is the human equivalent of mouse scurfy. *Nature Genetics*, *27*(1), 18–20. [https://doi.org/10.1038/83707](https://doi.org/10.1038/83707)
+
+Williams, L. M., & Rudensky, A. Y. (2007). Maintenance of the Foxp3-dependent developmental program in mature regulatory T cells requires continued expression of Foxp3. *Nature*, *450*(7171), 891–895. [https://doi.org/10.1038/nature05944](https://doi.org/10.1038/nature05944)
+
+Wu, Y., Borde, M., Heissmeyer, V., Feuerer, M., Lapan, A. D., Stroud, J. C., Bates, D. L., Guo, L., Han, A., Ziegler, S. F., Mathis, D., Benoist, C., Chen, L., & Rao, A. (2006). FOXP3 controls regulatory T cell function through cooperation with NFAT. *Cell*, *126*(2), 375–387. [https://doi.org/10.1016/j.cell.2006.05.042](https://doi.org/10.1016/j.cell.2006.05.042)
+

@@ -1,0 +1,15 @@
+PU.1, encoded by the **Spi1** gene, is the master transcription factor governing the specification, differentiation, and functional maintenance of the macrophage lineage. During early hematopoiesis, high-level expression of PU.1 is required to commit multipotent progenitors to the myeloid fate; specifically, high PU.1 concentrations drive macrophage differentiation, whereas lower levels favor B-cell or neutrophil development (DeKoter & Singh, 2000). PU.1 directly transactivates the promoter of the **Colony-Stimulating Factor 1 Receptor** (*Csf1r*), an essential regulator of macrophage survival and proliferation (Zhang et al., 1994). In mature macrophages, PU.1 functions as a **pioneer transcription factor**, binding to distal enhancers to establish an open chromatin landscape that allows for the recruitment of signal-dependent factors like $NF-\kappa B$ (Heinz et al., 2010). It is also required for the proper execution of the innate immune response, as PU.1 facilitates the recruitment of transcriptional machinery to pro-inflammatory gene loci following stimulation (Ghisletti et al., 2010). Consequently, the absolute loss of PU.1 results in a complete failure of macrophage development in vivo (Scott et al., 1994).
+
+-----
+
+### References
+
+DeKoter, R. P., & Singh, H. (2000). Regulation of B lymphocyte and macrophage development by graded expression of PU.1. *Science*, *288*(5470), 1439–1441. [https://doi.org/10.1126/science.288.5470.1439](https://doi.org/10.1126/science.288.5470.1439)
+
+Ghisletti, S., Barozzi, I., Mietton, F., Polletti, S., De Santa, F., Venturini, E., Gregory, L., Lonie, L., Chew, A., Wei, C. L., Cassitzel, J., & Natoli, G. (2010). Identification and characterization of enhancers controlling the inflammatory gene expression program in macrophages. *Immunity*, *32*(3), 317–328. [https://doi.org/10.1016/j.immuni.2010.03.018](https://doi.org/10.1016/j.immuni.2010.03.018)
+
+Heinz, S., Benner, C., Spann, N., Bertolino, E., Lin, Y. C., Laslo, P., Cheng, J. X., Murre, C., Singh, H., & Glass, C. K. (2010). Simple combinations of lineage-determining transcription factors prime cis-regulatory elements required for macrophage and B cell identities. *Molecular Cell*, *38*(4), 576–589. [https://doi.org/10.1016/j.molcel.2010.05.004](https://doi.org/10.1016/j.molcel.2010.05.004)
+
+Scott, E. W., Simon, M. C., Anastasi, J., & Singh, H. (1994). Requirement of transcription factor PU.1 in the development of multiple hematopoietic lineages. *Science*, *265*(5178), 1573–1577. [https://doi.org/10.1126/science.8041738](https://www.google.com/search?q=https://doi.org/10.1126/science.8041738)
+
+Zhang, D. E., Hohaus, S., Voso, M. T., Chen, H. M., Smith, L. T., Hetherington, C. J., & Tenen, D. G. (1994). Function of PU.1 (Spi-1) in hematopoietic cell lineage differentiation. *Molecular and Cellular Biology*, *14*(6), 3739–3750. [https://doi.org/10.1128/mcb.14.6.3739](https://www.google.com/search?q=https://doi.org/10.1128/mcb.14.6.3739)

@@ -1,0 +1,15 @@
+id,claim,question,claim_answer,evidence_answer,answer_note
+1,"In NSCLC, PD-L1 functions as a tumor-expressed ligand of the PD-1 immune checkpoint.","In NSCLC, does PD-L1 function as a tumor-expressed ligand of the PD-1 immune checkpoint?",Yes,Yes,
+2,PD-L1 on tumor and some immune cells binds PD-1 on recently activated T cells.,Does PD-L1 on tumor and some immune cells bind PD-1 on recently activated T cells?,Yes,Yes,
+3,Binding of PD-L1 on tumor and some immune cells to PD-1 on recently activated T cells inhibits T cell–associated kinases.,Does binding of PD-L1 on tumor and immune cells to PD-1 inhibit T cell-associated kinases?,Yes,Yes,
+4,Binding of PD-L1 on tumor and some immune cells to PD-1 on recently activated T cells blocks cytotoxic T lymphocyte responses.,Does binding of PD-L1 on tumor and immune cells to PD-1 block cytotoxic T lymphocyte responses?,Yes,Yes,
+5,Binding of PD-L1 on tumor and some immune cells to PD-1 on recently activated T cells reduces T and B cell proliferation.,Does binding of PD-L1 on tumor and immune cells to PD-1 reduce T and B cell proliferation?,Yes,Yes,
+6,Binding of PD-L1 on tumor and some immune cells to PD-1 on recently activated T cells reduces cytokine production.,Does binding of PD-L1 on tumor and immune cells to PD-1 reduce cytokine production?,Yes,Yes,
+7,Binding of PD-L1 on tumor and some immune cells to PD-1 on recently activated T cells causes T cell exhaustion.,Does binding of PD-L1 on tumor and immune cells to PD-1 cause T cell exhaustion?,Yes,Idk,"Passage mentions depletion, not explicitly T cell exhaustion."
+8,Elevated PD-L1 expression in many NSCLC tumors promotes immune escape.,Does elevated PD-L1 expression in many NSCLC tumors promote immune escape?,Yes,Yes,
+9,Elevated PD-L1 expression in many NSCLC tumors is associated with shorter survival.,Is elevated PD-L1 expression in many NSCLC tumors associated with shorter survival?,Yes,Yes,
+10,Elevated PD-L1 expression in many NSCLC tumors is associated with poorer prognosis.,Is elevated PD-L1 expression in many NSCLC tumors associated with poorer prognosis?,Yes,Yes,
+11,High PD-L1 expression in many NSCLC tumors co-occurs with dense T cell infiltration.,Does high PD-L1 expression in many NSCLC tumors co-occur with dense T cell infiltration?,Yes,Yes,
+12,Dense T cell infiltration in many NSCLC tumors reflects T cell dysfunction.,Does dense T cell infiltration in many NSCLC tumors reflect T cell dysfunction?,Yes,Yes,
+13,PD-L1 expression is the preferred biomarker for predicting benefit from anti–PD-1/PD-L1 therapy.,Is PD-L1 expression the preferred biomarker for predicting benefit from anti-PD-1/PD-L1 therapy?,Yes,Yes,
+14,"Heterogeneity, temporal change, and assay variability limit the predictive consistency of PD-L1 expression as a biomarker for predicting benefit from anti–PD-1/PD-L1 therapy.","Do heterogeneity, temporal change, and assay variability limit PD-L1's predictive consistency for anti-PD-1/PD-L1 therapy?",Yes,Yes,

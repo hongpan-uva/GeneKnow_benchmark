@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['ESR1'], genes_file=None, context=['breast cancer'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='32289273', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 44 paragraphs, total text length: 48589 characters
+[PMID 32289273] Generating direct summary for ESR1 from full text...
+[PMID 32289273] Skipping verification for ESR1 (naive_inspect_1 mode)...
+
+real	0m53.976s
+user	0m3.654s
+sys	0m1.725s

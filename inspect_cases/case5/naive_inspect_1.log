@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['MYOD1'], genes_file=None, context=['muscle cell', 'muscle fiber', 'myocyte'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='36739949', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 28 paragraphs, total text length: 21090 characters
+[PMID 36739949] Generating direct summary for MYOD1 from full text...
+[PMID 36739949] Skipping verification for MYOD1 (naive_inspect_1 mode)...
+
+real	0m30.990s
+user	0m2.768s
+sys	0m1.360s

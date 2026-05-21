@@ -1,0 +1,16 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,PAX5 is a paired box transcription factor.,,Is PAX5 a paired box transcription factor?,Yes,,
+2,PAX5 serves as a master regulator of B cell identity and commitment throughout B lymphopoiesis.,,Does PAX5 act as a master regulator of B cell identity and commitment during B lymphopoiesis?,Yes,,
+3,PAX5 is essential for commitment of lymphoid progenitors to the B cell lineage.,"(Nutt et al., 1999)",Is PAX5 essential for lymphoid progenitor commitment to the B cell lineage?,Yes,Yes,
+4,PAX5-deficient progenitors arrest at the pro-B cell stage.,"(Nutt et al., 1999)",Do PAX5-deficient progenitors arrest at the pro-B cell stage?,Yes,Yes,
+5,PAX5-deficient progenitors retain multilineage differentiation potential.,"(Nutt et al., 1999)",Do PAX5-deficient progenitors retain multilineage differentiation potential?,Yes,Yes,
+6,PAX5 activates transcription of CD19.,"(Nutt et al., 1999);(Revilla-i-Domingo et al., 2012)",Does PAX5 activate transcription of CD19?,Yes,Yes,
+7,PAX5 activates transcription of BLNK.,"(Nutt et al., 1999);(Revilla-i-Domingo et al., 2012)",Does PAX5 activate transcription of BLNK?,Yes,Yes,
+8,PAX5 activates transcription of MB-1 (encoding Igα).,"(Nutt et al., 1999);(Revilla-i-Domingo et al., 2012)",Does PAX5 activate transcription of MB-1 encoding Igα?,Yes,Yes,
+9,PAX5 represses the lineage-inappropriate gene Notch1.,"(Nutt et al., 1999);(Revilla-i-Domingo et al., 2012)",Does PAX5 repress the lineage-inappropriate gene Notch1?,Yes,Idk,Notch1 not mentioned in the passage.
+10,PAX5 represses the lineage-inappropriate gene M-CSF receptor (Fms).,"(Nutt et al., 1999);(Revilla-i-Domingo et al., 2012)",Does PAX5 repress the lineage-inappropriate gene M-CSF receptor (Fms)?,Yes,Yes,
+11,PAX5 enforces B cell identity by activating B cell–specific genes and repressing lineage-inappropriate genes.,"(Nutt et al., 1999);(Revilla-i-Domingo et al., 2012)",Does PAX5 enforce B cell identity?,Yes,Yes,
+12,Conditional deletion of PAX5 in mature B cells causes mature B cells to dedifferentiate into uncommitted progenitors capable of generating T cells and other lineages.,"(Cobaleda et al., 2007)",Does conditional deletion of PAX5 in mature B cells cause them to dedifferentiate into uncommitted progenitors capable of generating T cells?,Yes,Yes,
+13,PAX5 is required for ongoing maintenance of B cell identity.,"(Cobaleda et al., 2007)",Is PAX5 required for ongoing maintenance of B cell identity?,Yes,Yes,
+14,PAX5 is recurrently mutated or rearranged in B cell precursor acute lymphoblastic leukemia.,"(Mullighan et al., 2007)",Is PAX5 recurrently mutated or rearranged in B cell precursor acute lymphoblastic leukemia?,Yes,Yes,
+15,The recurrent mutation or rearrangement of PAX5 in B cell precursor acute lymphoblastic leukemia implicates PAX5 haploinsufficiency in leukemogenesis.,"(Mullighan et al., 2007)",Does recurrent PAX5 mutation or rearrangement in B cell precursor ALL implicate PAX5 haploinsufficiency in leukemogenesis?,Yes,Yes,

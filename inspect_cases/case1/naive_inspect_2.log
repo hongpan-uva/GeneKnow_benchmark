@@ -1,0 +1,8 @@
+naive_inspect_2 mode: Namespace(genes=['SOX9'], genes_file=None, context=['astrocyte', 'astrocytic'], outdir=PosixPath('.'), name='naive_inspect_2', species='human', max_passages=3, auto_alias=False, pmid='41271638', pmcid=None, suffix_allowed=True)
+Tokenize texts:   0%|          | 0/15 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/15 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/15 [00:00<?, ?it/s]                                                            [PMID 41271638] Generating passage summaries for SOX9...
+[PMID 41271638] Generating the article summary for SOX9...
+[PMID 41271638] Skipping verification for SOX9 (naive_inspect_2 mode)...
+
+real	0m57.516s
+user	0m2.946s
+sys	0m1.264s

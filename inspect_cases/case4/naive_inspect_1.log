@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['FOXP3'], genes_file=None, context=['Treg', 'regulatory T cell'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='36569832', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 37 paragraphs, total text length: 35555 characters
+[PMID 36569832] Generating direct summary for FOXP3 from full text...
+[PMID 36569832] Skipping verification for FOXP3 (naive_inspect_1 mode)...
+
+real	0m30.459s
+user	0m2.937s
+sys	0m1.390s

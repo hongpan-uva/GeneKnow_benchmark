@@ -1,0 +1,13 @@
+id,claim,question,claim_answer,evidence_answer,answer_note
+1,Sox9 is a key transcriptional regulator that specifies astrocytes during development.,Is Sox9 a key transcriptional regulator that specifies astrocytes during development?,Yes,Yes,
+2,Sox9 is specifically expressed in naïve astrocytes.,Is Sox9 specifically expressed in naïve astrocytes?,Yes,Yes,
+3,Sox9 is upregulated in reactive astrocytes after brain and spinal cord injury.,Is Sox9 upregulated in reactive astrocytes after brain and spinal cord injury?,Yes,Yes,
+4,"In naïve animals, Sox9 maintains basal Hk1 levels.",Does Sox9 maintain basal Hk1 levels in naïve animals?,Yes,Yes,
+5,Nerve injury triggers Sox9 phosphorylation.,Does nerve injury trigger Sox9 phosphorylation?,Yes,Yes,
+6,Sox9 phosphorylation enhances nuclear translocation of Sox9.,Does Sox9 phosphorylation enhance Sox9 nuclear translocation?,Yes,Yes,
+7,Sox9 phosphorylation increases Sox9 transcriptional activity.,Does Sox9 phosphorylation increase Sox9 transcriptional activity?,Yes,Yes,
+8,Sox9 phosphorylation leads to pathological Hk1 upregulation.,Does Sox9 phosphorylation lead to pathological Hk1 upregulation?,Yes,Yes,
+9,Sox9 phosphorylation promotes aberrant glycolytic flux.,Does Sox9 phosphorylation promote aberrant glycolytic flux?,Yes,Yes,
+10,Sox9 phosphorylation contributes to the emergence of an Hk1-mediated neuroinflammatory astrocyte cluster.,Does Sox9 phosphorylation contribute to an Hk1-mediated neuroinflammatory astrocyte cluster?,Yes,Yes,
+11,Sox9 phosphorylation induces an Astro 2 subtype with neurodegenerative and demyelinating properties.,Does Sox9 phosphorylation induce an Astro 2 subtype with neurodegenerative and demyelinating properties?,Yes,Yes,
+12,"Sox9 phosphorylation and its downstream effects (pathological Hk1 upregulation, aberrant glycolytic flux, and emergence of neuroinflammatory/Astro 2 astrocyte subtypes) may be involved in pain pathogenesis.",Could Sox9 phosphorylation and its downstream effects be involved in pain pathogenesis?,Yes,Yes,

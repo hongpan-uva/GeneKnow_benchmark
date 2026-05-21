@@ -1,0 +1,23 @@
+In alveolar rhabdomyosarcoma (aRMS), a recurrent chromosomal translocation t(2;13)(q35;q14) creates a **PAX3–FOXO1** (historically PAX3–FKHR) fusion gene that is reported as a characteristic molecular alteration of this tumor subtype. (Galili et al., 1993) The resulting fusion protein retains the PAX3 DNA-binding domains fused to FOXO1-derived C-terminal sequences and has been experimentally shown to function as a **more potent transcriptional activator than wild-type PAX3** in reporter-based assays. (Fredericks et al., 1995) In a human myoblast-based model engineered for conditional PAX3–FOXO1 expression, PAX3–FOXO1 expression was reported to be **required for tumor initiation and for maintenance of established tumors**, while recurrent tumors could emerge without continued PAX3–FOXO1 expression (“not recurrence”) in that system. (Pandey et al., 2017) Mechanistically, PAX3–FOXO1 was reported to **upregulate RASSF4** in PAX3–FOXO1–positive aRMS cells and tumors; RASSF4 knockdown impaired proliferation/senescence evasion and reduced tumorigenesis, with evidence that RASSF4 can inhibit MST1/Hippo pathway signaling in this context. (Crose et al., 2014) Clinically, in a Children’s Oncology Group report, **PAX–FOXO1 fusion status** was prospectively associated with **unfavorable outcome** and was concluded to improve risk stratification for rhabdomyosarcoma. (Skapek et al., 2013)
+
+**References (APA 7th, DOI links)**
+Crose, L. E. S., Galindo, K. A., Kephart, J. G., Chen, C., Fitamant, J., Bardeesy, N., & Galindo, R. L. (2014). Alveolar rhabdomyosarcoma–associated PAX3-FOXO1 promotes tumorigenesis via Hippo pathway suppression. *The Journal of Clinical Investigation, 124*(1), 285–296. [https://doi.org/10.1172/JCI67087](https://doi.org/10.1172/JCI67087)
+
+Fredericks, W. J., Galili, N., Mukhopadhyay, S., Rovera, G., Bennicelli, J., Barr, F. G., & Rauscher, F. J., III. (1995). The PAX3-FKHR fusion protein created by the t(2;13) translocation in alveolar rhabdomyosarcomas is a more potent transcriptional activator than PAX3. *Molecular and Cellular Biology, 15*(3), 1522–1535. [https://doi.org/10.1128/MCB.15.3.1522](https://doi.org/10.1128/MCB.15.3.1522)
+
+Galili, N., Davis, R. J., Fredericks, W. J., Mukhopadhyay, S., Rauscher, F. J., III, Emanuel, B. S., Rovera, G., & Barr, F. G. (1993). Fusion of a fork head domain gene to PAX3 in the solid tumour alveolar rhabdomyosarcoma. *Nature Genetics, 5*(3), 230–235. [https://doi.org/10.1038/ng1193-230](https://doi.org/10.1038/ng1193-230)
+
+Pandey, P. R., Chatterjee, B., Olanich, M. E., Khan, J., Miettinen, M. M., Hewitt, S. M., & Barr, F. G. (2017). PAX3–FOXO1 is essential for tumour initiation and maintenance but not recurrence in a human myoblast model of rhabdomyosarcoma. *The Journal of Pathology, 241*(5), 626–637. [https://doi.org/10.1002/path.4867](https://doi.org/10.1002/path.4867)
+
+Skapek, S. X., Anderson, J., Barr, F. G., Bridge, J. A., Gastier-Foster, J. M., Parham, D. M., Rudzinski, E., Triche, T., Hawkins, D. S., & the Children’s Oncology Group. (2013). PAX-FOXO1 fusion status drives unfavorable outcome for children with rhabdomyosarcoma: A Children’s Oncology Group report. *Pediatric Blood & Cancer, 60*(9), 1411–1417. [https://doi.org/10.1002/pbc.24532](https://doi.org/10.1002/pbc.24532)
+
+[1]: https://pubmed.ncbi.nlm.nih.gov/8275086/?utm_source=chatgpt.com "Fusion of a fork head domain gene to PAX3 in the solid ..."
+[2]: https://pubmed.ncbi.nlm.nih.gov/7862145/?utm_source=chatgpt.com "The PAX3-FKHR fusion protein created by the t(2 - PubMed"
+[3]: https://pathsocjournals.onlinelibrary.wiley.com/doi/abs/10.1002/path.4867?utm_source=chatgpt.com "PAX3–FOXO1 is essential for tumour initiation and ..."
+[4]: https://www.jci.org/articles/view/67087 "
+JCI -
+Alveolar rhabdomyosarcoma–associated PAX3-FOXO1 promotes tumorigenesis via Hippo pathway suppression
+ 
+"
+[5]: https://pubmed.ncbi.nlm.nih.gov/23526739/?utm_source=chatgpt.com "PAX-FOXO1 fusion status drives unfavorable outcome for ..."
+

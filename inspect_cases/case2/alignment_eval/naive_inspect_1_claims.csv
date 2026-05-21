@@ -1,0 +1,18 @@
+id,claim,question,claim_answer,evidence_answer,answer_note
+1,PU.1 (SPI1) specifies the macrophage/microglia lineage during development in mouse and zebrafish.,Does PU.1 (SPI1) specify the macrophage/microglia lineage during development in mouse and zebrafish?,Yes,Yes,
+2,PU.1 (SPI1) is required for embryonic macrophage generation and embryonic microglia generation.,Is PU.1 (SPI1) required for embryonic macrophage and microglia generation?,Yes,Yes,
+3,Global disruption of PU.1 (SPI1) causes embryonic lethality.,Does global disruption of PU.1 (SPI1) cause embryonic lethality?,Yes,Yes,
+4,Global disruption of PU.1 (SPI1) causes absence of embryonic macrophages and absence of embryonic microglia.,Does global disruption of PU.1 (SPI1) cause absence of embryonic macrophages and microglia?,Yes,Yes,
+5,"In adults, PU.1/Spi1 dosage regulates microglia survival.",Does PU.1/Spi1 dosage regulate microglia survival in adults?,Yes,Yes,
+6,"In adults, PU.1/Spi1 dosage regulates long-term maintenance of microglia.",Does PU.1/Spi1 dosage regulate long-term maintenance of adult microglia?,Yes,Yes,
+7,Complete loss of Pu.1 together with Spi‑b loss in zebrafish causes rapid microglial depletion.,Does complete loss of Pu.1 together with Spi1b loss in zebrafish cause rapid microglial depletion?,Yes,Yes,
+8,Complete loss of Spi1 in mouse Spi1 Fl/Fl causes rapid microglial depletion.,Does complete loss of Spi1 in Spi1 Fl/Fl mice cause rapid microglial depletion?,Yes,Yes,
+9,Partial loss of PU.1/Spi1 leads to chronic elimination of microglia in mosaic contexts.,Does partial loss of PU.1/Spi1 lead to chronic elimination of microglia in mosaic contexts?,Yes,Yes,
+10,The chronic elimination of microglia in mosaic contexts caused by partial loss of PU.1/Spi1 occurs via cell competition.,Does the chronic microglial elimination from partial PU.1/Spi1 loss occur via cell competition?,Yes,Yes,
+11,Pu.1-deficient microglia show reduced proliferation.,Do Pu.1-deficient microglia show reduced proliferation?,Yes,Yes,
+12,Pu.1-deficient microglia show increased apoptosis.,Do Pu.1-deficient microglia show increased apoptosis?,Yes,Yes,
+13,Pu.1-deficient microglia show upregulation of Tp53.,Do Pu.1-deficient microglia show upregulation of Tp53?,Yes,Yes,
+14,Loss of Tp53 partially rescues pu.1-deficient cells in zebrafish.,Does loss of Tp53 partially rescue pu.1-deficient cells in zebrafish?,Yes,Yes,
+15,"In zebrafish, Spi‑b can compensate for Pu.1 during early development.",Can Spi1b compensate for Pu.1 during early zebrafish development?,Yes,Idk,"Passage says spi-b (spi1a) compensates, not Spi1b."
+16,Spi‑b is barely detectable in adult murine microglia.,Is Spi1b barely detectable in adult murine microglia?,Yes,Idk,"Passage reports Spi-b barely detectable, not Spi1b."
+17,The dosage-dependent regulation of microglia survival and long-term maintenance by PU.1/Spi1 is conserved from teleosts to mammals.,Is dosage-dependent PU.1/Spi1 regulation of microglia conserved from teleosts to mammals?,Yes,Yes,

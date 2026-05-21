@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeneKnow Discover Report - GeneKnow_out</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      margin: 2rem;
+      color: #111;
+      background: #fafafa;
+    }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin: 0 0 1rem 0;
+    }
+    .hint {
+      color: #555;
+      margin: 0 0 1.5rem 0;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e6e6e6;
+      border-radius: 14px;
+      padding: 1.25rem 1.25rem 0.9rem 1.25rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+    }
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .gene {
+      font-size: 1.25rem;
+      margin: 0;
+      letter-spacing: 0.2px;
+    }
+    .summary {
+      margin: 0.5rem 0 0.9rem 0;
+      line-height: 1.45;
+      color: #222;
+      white-space: pre-wrap; /* keeps newlines if summary includes them */
+    }
+    .note-box {
+      margin: 1rem 0;
+      padding: 0.8rem 1rem;
+      background: #fff3cd;
+      border-left: 3px solid #ffc107;
+      border-radius: 0 6px 6px 0;
+      color: #856404;
+    }
+    .note-box strong {
+      color: #856404;
+    }
+    details.refs {
+      border-top: 1px dashed #e5e5e5;
+      padding-top: 0.75rem;
+      margin-top: 0.25rem;
+    }
+    details.refs > summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #1f2937;
+      list-style: none;
+    }
+    details.refs > summary::-webkit-details-marker {
+      display: none;
+    }
+    details.refs > summary::before {
+      content: "▸";
+      display: inline-block;
+      margin-right: 0.5rem;
+      transform: translateY(-1px);
+    }
+    details.refs[open] > summary::before {
+      content: "▾";
+    }
+    details.refs ul {
+      margin: 0.6rem 0 0.4rem 1.2rem;
+      padding: 0;
+      color: #333;
+    }
+    details.refs li {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+      padding: 0.3rem 0;
+      border-bottom: 1px dashed #e5e5e5;
+    }
+    details.refs li:last-child {
+      border-bottom: none;
+    }
+    /* Style for PMID in reference list */
+    details.refs li {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    /* Link styling in references */
+    details.refs li a {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    details.refs li a:hover {
+      color: #1d4ed8;
+    }
+    .details-link {
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e5e5e5;
+      color: #666;
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    code {
+      background: #f1f5f9;
+      padding: 0.1rem 0.3rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GeneKnow Discover Report - GeneKnow_out</h1>
+    <p class="hint">Click <b>References</b> to expand/collapse references and more details.</p>
+
+    
+        <section class="card">
+          <div class="card-header">
+            <h2 class="gene">FOXA1</h2>
+          </div>
+
+          <p class="summary">FOXA1 functions as a transcriptional regulator in prostate cancer [1-3]. FOXA1 functions as a pioneer factor in luminal prostate epithelium and in prostate cancer [4]. FOXA1 mutations alter its pioneering activity and perturb luminal epithelial differentiation [4]. FOXA1 mutation-driven perturbation of luminal epithelial differentiation prompts prostate cancer progression [4]. In prostate cancer FOXA1 orchestrates splicing dysregulation by binding regulatory regions and controlling splicing-factor expression [1]. FOXA1 exploits exon-definition to bias dominant over NMD-targeted isoforms [1]. FOXA1-controlled SRSF1 promotes FLNA exon 30 inclusion [1]. FLNA exon 30 inclusion promotes in vitro growth [1]. FLNA exon 30 inclusion predicts recurrence [1]. FOXA1 targets the androgen receptor in prostate cancer [2]. Missense mutations in FOXA1&#x27;s winged-helix likely disrupt cofactor interactions rather than DNA contact and define a subtype with elevated AR-induced transcription [2]. FOXA1 is recurrently mutated in prostate cancer [3]. Germline SNPs and somatic SNVs modulate FOXA1 binding and transcriptional regulation by altering binding at cis-regulatory elements [3]. FOXA1 3&#x27; UTR indels appear in mCRPC plasma DNA and enable liquid-biopsy detection and longitudinal monitoring [3]. Whole-exome sequencing of seven human prostate cancer organoid lines identified disease-specific FOXA1 mutations [5]. FOXA1 mutations are listed among genetic lesions that underlie prostate tumorigenesis [5]. FOXA1-mutant tumors are not represented in the limited available prostate cancer cell lines [5].</p>
+          
+          
+
+          <details class="refs">
+            <summary>References</summary>
+            <ul>
+              <li>[1] Del Giudice, M., Foster, J. G., Peirone, S., Rissone, A., Caizzi, L., Gaudino, F., Parlato, C., Anselmi, F., Arkell, R., Guarrera, S., Oliviero, S., Basso, G., Rajan, P., &amp; Cereda, M. (2022). FOXA1 regulates alternative splicing in prostate cancer. <i>Cell Rep</i>, 40(13), 111404. <a href="https://doi.org/10.1016/j.celrep.2022.111404" target="_blank">https://doi.org/10.1016/j.celrep.2022.111404</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/36170835/" target="_blank">36170835</a>  <a href="html/FOXA1_PMID36170835.html" target="_blank" class="details-link">Details →</a></li>
+<li>[2] Cancer, G. e. n. o. m. e. A. t. l. a. s. R. e. s. e. a. r. c. h. N. e. t. w. o. r. k. (2015). The Molecular Taxonomy of Primary Prostate Cancer. <i>Cell</i>, 163(4), 1011-1025. <a href="https://doi.org/10.1016/j.cell.2015.10.025" target="_blank">https://doi.org/10.1016/j.cell.2015.10.025</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/26544944/" target="_blank">26544944</a>  <a href="html/FOXA1_PMID26544944.html" target="_blank" class="details-link">Details →</a></li>
+<li>[3] Teng, M., Zhou, S., Cai, C., Lupien, M., &amp; He, H. H. (2021). Pioneer of prostate cancer: past, present and the future of FOXA1. <i>Protein Cell</i>, 12(1), 29-38. <a href="https://doi.org/10.1007/s13238-020-00786-8" target="_blank">https://doi.org/10.1007/s13238-020-00786-8</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32946061/" target="_blank">32946061</a>  <a href="html/FOXA1_PMID32946061.html" target="_blank" class="details-link">Details →</a></li>
+<li>[4] Lv, S., Wu, Z., Luo, M., Zhang, Y., Zhang, J., Pascal, L. E., Wang, Z., &amp; Wei, Q. (2022). Integrated analysis reveals FOXA1 and Ku70/Ku80 as targets of ivermectin in prostate cancer. <i>Cell Death Dis</i>, 13(9), 754. <a href="https://doi.org/10.1038/s41419-022-05182-0" target="_blank">https://doi.org/10.1038/s41419-022-05182-0</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/36050295/" target="_blank">36050295</a>  <a href="html/FOXA1_PMID36050295.html" target="_blank" class="details-link">Details →</a></li>
+<li>[5] Gao, D., Vela, I., Sboner, A., Iaquinta, P. J., Karthaus, W. R., Gopalan, A., Dowling, C., Wanjala, J. N., Undvall, E. A., Arora, V. K., Wongvipat, J., Kossai, M., Ramazanoglu, S., Barboza, L. P., Di, W., Cao, Z., Zhang, Q. F., Sirota, I., Ran, L., MacDonald, T. Y., Beltran, H., Mosquera, J. M., Touijer, K. A., Scardino, P. T., Laudone, V. P., Curtis, K. R., Rathkopf, D. E., Morris, M. J., Danila, D. C., Slovin, S. F., Solomon, S. B., Eastham, J. A., Chi, P., Carver, B., Rubin, M. A., Scher, H. I., Clevers, H., Sawyers, C. L., &amp; Chen, Y. (2014). Organoid cultures derived from patients with advanced prostate cancer. <i>Cell</i>, 159(1), 176-187. <a href="https://doi.org/10.1016/j.cell.2014.08.016" target="_blank">https://doi.org/10.1016/j.cell.2014.08.016</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/25201530/" target="_blank">25201530</a>  <a href="html/FOXA1_PMID25201530.html" target="_blank" class="details-link">Details →</a></li>
+            </ul>
+          </details>
+        </section>
+        
+
+    <div class="footer">
+      Generated by <code>GeneKnow</code>
+    </div>
+  </div>
+</body>
+</html>

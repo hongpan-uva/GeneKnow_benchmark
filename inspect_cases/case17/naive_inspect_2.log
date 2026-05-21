@@ -1,0 +1,8 @@
+naive_inspect_2 mode: Namespace(genes=['APOE4'], genes_file=None, context=['Alzheimer’s disease', 'Alzheimer disease', 'AD'], outdir=PosixPath('.'), name='naive_inspect_2', species='human', max_passages=3, auto_alias=False, pmid='29861287', pmcid=None, suffix_allowed=True)
+Tokenize texts:   0%|          | 0/72 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/72 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/72 [00:00<?, ?it/s]                                                            [PMID 29861287] Generating passage summaries for APOE4...
+[PMID 29861287] Generating the article summary for APOE4...
+[PMID 29861287] Skipping verification for APOE4 (naive_inspect_2 mode)...
+
+real	1m17.814s
+user	0m3.727s
+sys	0m1.803s

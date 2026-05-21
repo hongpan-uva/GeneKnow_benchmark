@@ -1,0 +1,16 @@
+NEUROD1 (Neurogenic Differentiation 1) is a basic helix-loop-helix (bHLH) transcription factor that serves as a master regulator of neuronal fate commitment, terminal differentiation, and survival. It is essential for the development of specific neuronal populations; for instance, the loss of *Neurod1* results in the failure of granular neuron formation in the hippocampus and cerebellum due to increased apoptosis of precursor cells (Miyata et al., 1999). NEUROD1 functions as a **pioneer transcription factor**, capable of binding to and opening closed chromatin at neurogenic gene loci to initiate the transition from a progenitor state to a neuronal state (Pataskar et al., 2016). In the adult brain, NEUROD1 is critical for the survival and functional integration of newborn neurons within the dentate gyrus, where its absence leads to significant deficits in dendritic maturation (Gao et al., 2009). Furthermore, NEUROD1 is sufficient to induce direct lineage reprogramming, effectively converting reactive astrocytes or fibroblasts into functional glutamatergic neurons in vivo (Guo et al., 2014). In the peripheral nervous system, it is similarly required for the specification and sensory neuron development of the inner ear (Kim et al., 2001).
+
+-----
+
+### References
+
+Gao, Z., Ure, K., Ables, J. L., Lagace, D. C., Enwere, E. K., Frappier, L., ... & Eisch, A. J. (2009). Neurod1 is essential for the survival and maturation of adult-born neurons. *Nature Neuroscience*, *12*(9), 1090–1092. [https://doi.org/10.1038/nn.2385](https://doi.org/10.1038/nn.2385)
+
+Guo, Z., Zhang, L., Wu, Z., Chen, Y., Wang, F., & Chen, G. (2014). In vivo direct reprogramming of reactive glial cells into functional neurons after brain injury and in an Alzheimer’s disease model. *Nature Communications*, *5*(1), 3319. [https://doi.org/10.1038/ncomms4319](https://doi.org/10.1038/ncomms4319)
+
+Kim, W. Y., Fritzsch, B., Serls, A., Bakel, L. A., Huang, E. J., Reichardt, L. F., ... & Lee, J. E. (2001). NeuroD1 is required for the structural integrity and survival of the mammalian peripheral auditory system. *Development*, *128*(11), 1993–2001. [https://doi.org/10.1242/dev.128.11.1993](https://www.google.com/search?q=https://doi.org/10.1242/dev.128.11.1993)
+
+Miyata, T., Maeda, T., & Lee, J. E. (1999). NeuroD is required for differentiation of the granule cells in the cerebellum and hippocampus. *Genes & Development*, *13*(13), 1647–1652. [https://doi.org/10.1101/gad.13.13.1647](https://doi.org/10.1101/gad.13.13.1647)
+
+Pataskar, A., Jung, J., Smialowski, P., Noack, F., Calegari, F., Straub, T., & Tiwari, V. K. (2016). NeuroD1 instructs neuronal genes via binding to open chromatin as well as closed chromatin maintained by polycomb proteins. *The EMBO Journal*, *35*(1), 24–41. [https://doi.org/10.15252/embj.201592077](https://www.google.com/search?q=https://doi.org/10.15252/embj.201592077)
+

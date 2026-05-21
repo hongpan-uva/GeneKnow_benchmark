@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['PAX5'], genes_file=None, context=['B cell'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='39424985', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 27 paragraphs, total text length: 35233 characters
+[PMID 39424985] Generating direct summary for PAX5 from full text...
+[PMID 39424985] Skipping verification for PAX5 (naive_inspect_1 mode)...
+
+real	0m30.199s
+user	0m2.947s
+sys	0m1.276s

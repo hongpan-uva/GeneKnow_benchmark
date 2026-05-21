@@ -1,0 +1,4 @@
+id,old,new
+4,Tumor cell surface PD-L1 binds PD-1 on antigen-experienced CD8 T cells.,Tumor cell surface PD-L1 interacts with PD-1 on T cells.
+6,Binding of tumor cell surface PD-L1 to PD-1 on antigen-experienced CD8 T cells inactivates antigen-experienced CD8 T cells.,Binding of tumor cell surface PD-L1 to PD-1 inactivates T cells.
+9,IFN-γ increases exosomal PD-1 binding in a concentration-dependent manner.,"Exosomal PD-L1 binds PD-1 in a concentration-dependent manner, and IFN-γ treatment increases exosomal PD-L1 levels and correspondingly increases exosome binding to PD-1."

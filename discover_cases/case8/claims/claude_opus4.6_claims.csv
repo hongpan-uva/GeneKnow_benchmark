@@ -1,0 +1,15 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,RUNX2 (Runt-related transcription factor 2) is a master transcriptional regulator of osteoblast differentiation.,"(Komori et al., 1997);(Otto et al., 1997)",Is RUNX2 a master transcriptional regulator of osteoblast differentiation?,Yes,Yes,
+2,RUNX2 is essential for the commitment of mesenchymal progenitor cells to the osteoblast lineage.,"(Komori et al., 1997);(Otto et al., 1997)",Is RUNX2 essential for mesenchymal progenitor commitment to the osteoblast lineage?,Yes,Yes,
+3,RUNX2-null mice exhibit a complete absence of bone formation due to maturational arrest of osteoblasts.,"(Komori et al., 1997)",Do RUNX2-null mice exhibit complete absence of bone formation due to osteoblast maturational arrest?,Yes,Yes,
+4,RUNX2 is indispensable for both intramembranous and endochondral ossification.,"(Komori et al., 1997)",Is RUNX2 indispensable for both intramembranous and endochondral ossification?,Yes,Yes,
+5,RUNX2 directly binds to the osteoblast-specific cis-acting element (OSE2) in the promoter of the osteocalcin gene.,"(Ducy et al., 1997)",Does RUNX2 directly bind the osteoblast-specific OSE2 element in the osteocalcin promoter?,Yes,Yes,
+6,RUNX2 activates transcription of the osteocalcin gene.,"(Ducy et al., 1997)",Does RUNX2 activate osteocalcin gene transcription?,Yes,Yes,
+7,RUNX2 thereby regulates osteoblast-specific gene expression.,"(Ducy et al., 1997)",Does RUNX2 regulate osteoblast-specific gene expression?,Yes,Yes,
+8,"RUNX2 regulates the expression of other bone matrix genes including type I collagen, osteopontin, and bone sialoprotein in osteoblast lineage cells.","(Ducy et al., 1999)","Does RUNX2 regulate type I collagen, osteopontin, and bone sialoprotein expression in osteoblast lineage cells?",Yes,Yes,
+9,RUNX2 is required for early osteoblast differentiation.,"(Liu et al., 2001)",Is RUNX2 required for early osteoblast differentiation?,Yes,Yes,
+10,Constitutive overexpression of RUNX2 in mature osteoblasts inhibits late-stage osteoblast maturation.,"(Liu et al., 2001)",Does constitutive RUNX2 overexpression in mature osteoblasts inhibit late-stage maturation?,Yes,Yes,
+11,The constitutive overexpression of RUNX2 in mature osteoblasts indicates that RUNX2 must be downregulated for terminal differentiation to proceed.,"(Liu et al., 2001)",Does constitutive RUNX2 overexpression indicate RUNX2 must be downregulated for terminal differentiation?,Yes,Idk,Not explicitly stated; data show inhibition by overexpression but some Cbfa1 required
+12,RUNX2 activity in osteoblasts is modulated by post-translational modifications.,"(Yoshida et al., 2002)",Is RUNX2 activity in osteoblasts modulated by post-translational modifications?,Yes,Idk,Passage doesn't state post-translational modifications modulate RUNX2 activity.
+13,RUNX2 activity in osteoblasts is modulated by interactions with co-regulators such as CBFβ.,"(Yoshida et al., 2002)",Is RUNX2 activity modulated by interactions with co-regulators such as CBFβ?,Yes,Yes,
+14,CBFβ enhances RUNX2 DNA-binding stability.,"(Yoshida et al., 2002)",Does CBFβ enhance RUNX2 DNA-binding stability?,Yes,Yes,

@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeneKnow Discover Report - GeneKnow_out</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      margin: 2rem;
+      color: #111;
+      background: #fafafa;
+    }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin: 0 0 1rem 0;
+    }
+    .hint {
+      color: #555;
+      margin: 0 0 1.5rem 0;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e6e6e6;
+      border-radius: 14px;
+      padding: 1.25rem 1.25rem 0.9rem 1.25rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+    }
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .gene {
+      font-size: 1.25rem;
+      margin: 0;
+      letter-spacing: 0.2px;
+    }
+    .summary {
+      margin: 0.5rem 0 0.9rem 0;
+      line-height: 1.45;
+      color: #222;
+      white-space: pre-wrap; /* keeps newlines if summary includes them */
+    }
+    .note-box {
+      margin: 1rem 0;
+      padding: 0.8rem 1rem;
+      background: #fff3cd;
+      border-left: 3px solid #ffc107;
+      border-radius: 0 6px 6px 0;
+      color: #856404;
+    }
+    .note-box strong {
+      color: #856404;
+    }
+    details.refs {
+      border-top: 1px dashed #e5e5e5;
+      padding-top: 0.75rem;
+      margin-top: 0.25rem;
+    }
+    details.refs > summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #1f2937;
+      list-style: none;
+    }
+    details.refs > summary::-webkit-details-marker {
+      display: none;
+    }
+    details.refs > summary::before {
+      content: "▸";
+      display: inline-block;
+      margin-right: 0.5rem;
+      transform: translateY(-1px);
+    }
+    details.refs[open] > summary::before {
+      content: "▾";
+    }
+    details.refs ul {
+      margin: 0.6rem 0 0.4rem 1.2rem;
+      padding: 0;
+      color: #333;
+    }
+    details.refs li {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+      padding: 0.3rem 0;
+      border-bottom: 1px dashed #e5e5e5;
+    }
+    details.refs li:last-child {
+      border-bottom: none;
+    }
+    /* Style for PMID in reference list */
+    details.refs li {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    /* Link styling in references */
+    details.refs li a {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    details.refs li a:hover {
+      color: #1d4ed8;
+    }
+    .details-link {
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e5e5e5;
+      color: #666;
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    code {
+      background: #f1f5f9;
+      padding: 0.1rem 0.3rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GeneKnow Discover Report - GeneKnow_out</h1>
+    <p class="hint">Click <b>References</b> to expand/collapse references and more details.</p>
+
+    
+        <section class="card">
+          <div class="card-header">
+            <h2 class="gene">PD-L1</h2>
+          </div>
+
+          <p class="summary">PD-L1 serves as the preferred predictive biomarker for immune checkpoint inhibitor efficacy in NSCLC [1-3]. PD-L1 functions as the ligand interacting with PD-1 in the PD-1/PD-L1 immune checkpoint in NSCLC [1,4]. In NSCLC, PD-L1 in the PD-1/PD-L1 checkpoint is the preferred biomarker to predict immune checkpoint inhibitor efficacy, and high PD-L1 expression associates with greater benefit from single-agent anti-PD-1/PD-L1 [1]. PD-L1 is expressed in human NSCLC and is a tumor cell-surface predictive biomarker for anti-PD-1/PD-L1 therapy [2]. In EGFR-mutant NSCLC, EGFR signaling induces PD-L1 [2]. YAP regulates PD-L1 transcription and upregulates PD-L1 in gefitinib-resistant cells [2]. In NSCLC tumor cells, PD-L1 activates Jak2 and Stat3 phosphorylation, leading to increased IL-6 and other cytokine expression [5]. In patients with NSCLC, PD-L1 status modulated IL-6/Jak/Stat3 pathway enrichment and high IL-6 associated with poor ICI outcomes in PD‑L1‑high tumors [5]. In oncogene‑addicted non‑small cell lung cancer, PD‑L1 expression impacted clinical outcomes from immune checkpoint blockade [3]. BRAF‑mutant tumors exhibited high PD‑L1 and high tumor mutational burden [3]. High tumor mutational burden may increase ICB sensitivity and was associated with superior benefit [3]. In NSCLC, PD‑L1 interacts with PD‑1 [4]. HRS mediates sorting of PD‑L1 into exosomes, which restricts CD8+ T cell anti‑tumor functions [4]. LAMTOR1 suppresses HRS‑mediated secretion of exosomal PD‑L1 in NSCLC, and this suppression improves CD8+ T cell function [4].</p>
+          
+          
+
+          <details class="refs">
+            <summary>References</summary>
+            <ul>
+              <li>[1] Tang, S., Qin, C., Hu, H., Liu, T., He, Y., Guo, H., Yan, H., Zhang, J., Tang, S., &amp; Zhou, H. (2022). Immune Checkpoint Inhibitors in Non-Small Cell Lung Cancer: Progress, Challenges, and Prospects. <i>Cells</i>, 11(3), 320. <a href="https://doi.org/10.3390/cells11030320" target="_blank">https://doi.org/10.3390/cells11030320</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/35159131/" target="_blank">35159131</a>  <a href="html/PD-L1_PMID35159131.html" target="_blank" class="details-link">Details →</a></li>
+<li>[2] Hsu, P. C., Jablons, D. M., Yang, C. T., &amp; You, L. (2019). Epidermal Growth Factor Receptor (EGFR) Pathway, Yes-Associated Protein (YAP) and the Regulation of Programmed Death-Ligand 1 (PD-L1) in Non-Small Cell Lung Cancer (NSCLC). <i>Int J Mol Sci</i>, 20(15), E3821. <a href="https://doi.org/10.3390/ijms20153821" target="_blank">https://doi.org/10.3390/ijms20153821</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/31387256/" target="_blank">31387256</a>  <a href="html/PD-L1_PMID31387256.html" target="_blank" class="details-link">Details →</a></li>
+<li>[3] Negrao, M. V., Skoulidis, F., Montesion, M., Schulze, K., Bara, I., Shen, V., Xu, H., Hu, S., Sui, D., Elamin, Y. Y., Le, X., Goldberg, M. E., Murugesan, K., Wu, C. J., Zhang, J., Barreto, D. S., Robichaux, J. P., Reuben, A., Cascone, T., Gay, C. M., Mitchell, K. G., Hong, L., Rinsurongkawong, W., Roth, J. A., Swisher, S. G., Lee, J., Tsao, A., Papadimitrakopoulou, V., Gibbons, D. L., Glisson, B. S., Singal, G., Miller, V. A., Alexander, B., Frampton, G., Albacker, L. A., Shames, D., Zhang, J., &amp; Heymach, J. V. (2021). Oncogene-specific differences in tumor mutational burden, PD-L1 expression, and outcomes from immunotherapy in non-small cell lung cancer. <i>J Immunother Cancer</i>, 9(8), e002891. <a href="https://doi.org/10.1136/jitc-2021-002891" target="_blank">https://doi.org/10.1136/jitc-2021-002891</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/34376553/" target="_blank">34376553</a>  <a href="html/PD-L1_PMID34376553.html" target="_blank" class="details-link">Details →</a></li>
+<li>[4] Wu, B., Huang, X., Shi, X., Jiang, M., Liu, H., &amp; Zhao, L. (2024). LAMTOR1 decreased exosomal PD-L1 to enhance immunotherapy efficacy in non-small cell lung cancer. <i>Mol Cancer</i>, 23(1), 184. <a href="https://doi.org/10.1186/s12943-024-02099-4" target="_blank">https://doi.org/10.1186/s12943-024-02099-4</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/39223601/" target="_blank">39223601</a>  <a href="html/PD-L1_PMID39223601.html" target="_blank" class="details-link">Details →</a></li>
+<li>[5] Jeong, H., Koh, J., Kim, S., Yim, J., Song, S. G., Kim, H., Li, Y., Lee, S. H., Chung, Y. K., Kim, H., Lee, C. H., Kim, H. Y., Keam, B., Lee, S. H., Chung, D. H., &amp; Jeon, Y. K. (2025). Cell-intrinsic PD-L1 signaling drives immunosuppression by myeloid-derived suppressor cells through IL-6/Jak/Stat3 in PD-L1-high lung cancer. <i>J Immunother Cancer</i>, 13(3), e010612. <a href="https://doi.org/10.1136/jitc-2024-010612" target="_blank">https://doi.org/10.1136/jitc-2024-010612</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/40050048/" target="_blank">40050048</a>  <a href="html/PD-L1_PMID40050048.html" target="_blank" class="details-link">Details →</a></li>
+            </ul>
+          </details>
+        </section>
+        
+
+    <div class="footer">
+      Generated by <code>GeneKnow</code>
+    </div>
+  </div>
+</body>
+</html>

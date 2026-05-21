@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['RUNX2'], genes_file=None, context=['osteoblast'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='39337587', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 37 paragraphs, total text length: 44124 characters
+[PMID 39337587] Generating direct summary for RUNX2 from full text...
+[PMID 39337587] Skipping verification for RUNX2 (naive_inspect_1 mode)...
+
+real	0m51.672s
+user	0m3.484s
+sys	0m1.840s

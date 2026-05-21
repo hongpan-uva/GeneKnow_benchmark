@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['PD-1'], genes_file=None, context=['melanoma'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='30089911', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 13 paragraphs, total text length: 13959 characters
+[PMID 30089911] Generating direct summary for PD-1 from full text...
+[PMID 30089911] Skipping verification for PD-1 (naive_inspect_1 mode)...
+
+real	0m32.227s
+user	0m3.049s
+sys	0m1.295s

@@ -1,0 +1,13 @@
+inspect mode: Namespace(command='inspect', genes=['FOXP3'], genes_file=None, context=['Treg', 'regulatory T cell'], outdir=PosixPath('.'), name='GeneKnow_inspect', species='human', max_passages=3, auto_alias=False, pmid='36569832', pmcid=None, suffix_allowed=True, func=<function run_inspect_mode at 0x7a352f251c60>)
+Tokenize texts:   0%|          | 0/37 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/37 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/37 [00:00<?, ?it/s]                                                            [PMID 36569832] Generating passage summaries for FOXP3...
+[PMID 36569832] Generating the article summary for FOXP3...
+[PMID 36569832] Verifying the article summary for FOXP3...
+Extracting claims from summary
+Verifying valid passage: On the contrary, cancer angiog...
+Verifying valid passage: The inflammatory response coul...
+Verifying valid passage: Treg cells, also known as supp...
+3 revision(s) were applied
+
+real	1m55.927s
+user	0m3.516s
+sys	0m1.550s

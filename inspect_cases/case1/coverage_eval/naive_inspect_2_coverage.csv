@@ -1,0 +1,7 @@
+id,claim,question,claim_answer,summary_answer,answer_note
+1,Sox9 is a key transcriptional regulator that functions as an astrocyte cell‑fate specifier.,Does Sox9 function as a key astrocyte cell-fate specifying transcriptional regulator?,Yes,Yes,
+2,"In the dorsal spinal cord (ipsilateral lumbar SDH) after nerve injury/SNI in rat models, Sox9 regulates astrocyte metabolism and phenotype.","In rat dorsal spinal cord after SNI, does Sox9 regulate astrocyte metabolism and phenotype?",Yes,Idk,Passage doesn't mention rat or SNI specifically.
+3,Sox9 directly regulates Hk1 (hexokinase 1) expression and maintains basal Hk1 levels in naive animals.,Does Sox9 directly regulate Hk1 expression and maintain basal Hk1 levels in naive animals?,Yes,Idk,"Passage shows phosphorylated Sox9 upregulates Hk1 pathologically, not basal maintenance."
+4,"In the ipsilateral lumbar SDH after nerve injury/SNI in rat models, increased Sox9 activity upregulates Hk1 expression in astrocytes.","After SNI in rat ipsilateral lumbar SDH, does increased Sox9 activity upregulate astrocyte Hk1 expression?",Yes,Idk,Passage doesn't specify rat SNI or ipsilateral lumbar SDH.
+5,Sox9 is upregulated in reactive astrocytes following brain or spinal cord injury.,Is Sox9 upregulated in reactive astrocytes following brain or spinal cord injury?,Yes,Yes,
+6,Sox9 phosphorylation is associated with pathological upregulation of Hk1.,Is Sox9 phosphorylation associated with pathological Hk1 upregulation?,Yes,Yes,

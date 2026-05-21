@@ -1,0 +1,12 @@
+id,claim,question,claim_answer,summary_answer,answer_note
+1,ESR1 encodes estrogen receptor alpha (ERα).,Does ESR1 encode estrogen receptor alpha?,Yes,Yes,
+2,"In ER+ breast cancer, ESR1 is required for estrogen-driven proliferation.",Is ESR1 required for estrogen-driven proliferation in ER+ breast cancer?,Yes,Yes,
+3,"In ER+ breast cancer—particularly in metastatic or endocrine-resistant cases—ESR1 in-frame fusion proteins typically retain the N-terminal DNA-binding domain and exclude the ligand-binding domain, producing receptors that drive estrogen-independent ER transcriptional activity.",Do ESR1 in-frame fusion proteins in endocrine-resistant ER+ breast cancer drive estrogen-independent ER transcriptional activity?,Yes,Idk,Passage doesn't link fusions to endocrine-resistant ER+ breast cancer
+4,"In ER+ breast cancer, ESR1 amplifications occur.",Do ESR1 amplifications occur in ER+ breast cancer?,Yes,Yes,
+5,"In ER+ breast cancer, ESR1 in-frame fusions occur.",Do ESR1 in-frame fusions occur in ER+ breast cancer?,Yes,Yes,
+6,ESR1 fusions have been reported in at least 1% of metastatic tumors.,Have ESR1 fusions been reported in at least 1% of metastatic tumors?,Yes,Idk,Passage gives no frequency percentage
+7,"In ER+ breast cancer, ESR1 is a focal target of endocrine therapy.",Is ESR1 a focal target of endocrine therapy in ER+ breast cancer?,Yes,Yes,
+8,ESR1 fusions often occur in endocrine-resistant disease.,Do ESR1 fusions often occur in endocrine-resistant breast cancer?,Yes,Idk,Passage doesn't state fusions occur often in endocrine-resistant cases
+9,"In metastatic ER+ tumors, acquired somatic alterations in ESR1 commonly arise after long-term aromatase inhibitor or tamoxifen treatment.",Do acquired somatic ESR1 alterations commonly arise after long-term aromatase inhibitor or tamoxifen treatment in metastatic ER+ tumors?,Yes,Yes,
+10,"ESR1 fusion proteins promote proliferation, motility, and metastasis.","Do ESR1 fusion proteins promote proliferation, motility, and metastasis?",Yes,Yes,
+11,Breast cancer models and tumors with ESR1 fusions have remained sensitive to CDK4/6 inhibition.,Are breast cancer models and tumors with ESR1 fusions sensitive to CDK4/6 inhibitors?,Yes,Yes,

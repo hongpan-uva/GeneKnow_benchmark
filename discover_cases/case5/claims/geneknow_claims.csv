@@ -1,0 +1,18 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,MyoD1 functions as a transcription factor that drives muscle cell differentiation.,[1];[2];[3],Does MyoD1 function as a transcription factor that drives muscle cell differentiation?,Yes,Yes,
+2,MyoD1 is a transcription factor that drives myocyte differentiation.,[1],Is MyoD1 a transcription factor that drives myocyte differentiation?,Yes,Yes,
+3,"In TAFAZZIN‑knockout myoblasts, Mohawk (MKX) is upregulated.",[1],Is Mohawk (MKX) upregulated in TAFAZZIN-knockout myoblasts?,Yes,Yes,
+4,"In TAFAZZIN‑knockout myoblasts, Mohawk (MKX) inhibits MyoD1 transcription via disrupted noncanonical Wnt signaling.",[1],Does Mohawk (MKX) inhibit MyoD1 transcription via disrupted noncanonical Wnt signaling in TAFAZZIN-knockout myoblasts?,Yes,Idk,"Passage mentions decreased Wnt signaling, not 'noncanonical' specifically."
+5,TAZ‑KO myoblast differentiation is reduced.,[1],Is differentiation reduced in TAZ-KO myoblasts?,Yes,Yes,
+6,BC3H‑1 cells lacking endogenous MyoD1 were transfected with MyoD1.,[2],Were BC3H-1 cells lacking endogenous MyoD1 transfected with MyoD1?,Yes,Yes,
+7,The MyoD1 introduced into BC3H‑1 cells localized to the nucleus.,[2],Did the introduced MyoD1 localize to the nucleus in BC3H-1 cells?,Yes,Yes,
+8,BD lines formed long multinucleated myotubes instead of parental mononucleated MHC‑expressing cells.,[2],Did BD lines form long multinucleated myotubes instead of parental mononucleated MHC-expressing cells?,Yes,Yes,
+9,BD lines and parental mononucleated MHC‑expressing cells both expressed the same sarcomeric MHC isoform pattern.,[2],Did BD lines and parental mononucleated MHC-expressing cells express the same sarcomeric MHC isoform pattern?,Yes,Yes,
+10,"1,25‑Dihydroxyvitamin D induced VDR‑mediated transcription that upregulated MYOD1 expression in C2C12 myoblasts.",[4],"Did 1,25-dihydroxyvitamin D induce VDR-mediated transcription upregulating MYOD1 in C2C12 myoblasts?",Yes,Yes,
+11,"In embryonic myogenesis, MYOD1 is expressed when PAX3+ precursors commit into myoblasts.",[3],Is MYOD1 expressed when PAX3+ precursors commit into myoblasts during embryonic myogenesis?,Yes,Yes,
+12,"In embryonic myogenesis, MYOD1 activates muscle differentiation by binding E‑box motifs in muscle gene promoters.",[3],Does MYOD1 activate muscle differentiation by binding E-box motifs in muscle gene promoters during embryonic myogenesis?,Yes,Yes,
+13,MYOD1 activation precedes differentiation into MYOG‑expressing myocytes.,[3],Does MYOD1 activation precede differentiation into MYOG-expressing myocytes?,Yes,Yes,
+14,MYOG‑expressing myocytes fuse into myotubes.,[3],Do MYOG-expressing myocytes fuse into myotubes?,Yes,Yes,
+15,Myotubes mature into myofibers.,[3],Do myotubes mature into myofibers?,Yes,Yes,
+16,Researchers designed qPCR primers including MYOD1 for the Atlantic mackerel genome.,[5],Did researchers design qPCR primers including MYOD1 for the Atlantic mackerel genome?,Yes,Yes,
+17,Researchers used the qPCR primers that included MYOD1 to characterize genotypes of the Mack skeletal muscle cell line.,[5],Did researchers use those qPCR primers including MYOD1 to characterize genotypes of the Mack skeletal muscle cell line?,Yes,Yes,

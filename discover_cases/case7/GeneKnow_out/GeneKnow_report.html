@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeneKnow Discover Report - GeneKnow_out</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      margin: 2rem;
+      color: #111;
+      background: #fafafa;
+    }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin: 0 0 1rem 0;
+    }
+    .hint {
+      color: #555;
+      margin: 0 0 1.5rem 0;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e6e6e6;
+      border-radius: 14px;
+      padding: 1.25rem 1.25rem 0.9rem 1.25rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+    }
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .gene {
+      font-size: 1.25rem;
+      margin: 0;
+      letter-spacing: 0.2px;
+    }
+    .summary {
+      margin: 0.5rem 0 0.9rem 0;
+      line-height: 1.45;
+      color: #222;
+      white-space: pre-wrap; /* keeps newlines if summary includes them */
+    }
+    .note-box {
+      margin: 1rem 0;
+      padding: 0.8rem 1rem;
+      background: #fff3cd;
+      border-left: 3px solid #ffc107;
+      border-radius: 0 6px 6px 0;
+      color: #856404;
+    }
+    .note-box strong {
+      color: #856404;
+    }
+    details.refs {
+      border-top: 1px dashed #e5e5e5;
+      padding-top: 0.75rem;
+      margin-top: 0.25rem;
+    }
+    details.refs > summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #1f2937;
+      list-style: none;
+    }
+    details.refs > summary::-webkit-details-marker {
+      display: none;
+    }
+    details.refs > summary::before {
+      content: "▸";
+      display: inline-block;
+      margin-right: 0.5rem;
+      transform: translateY(-1px);
+    }
+    details.refs[open] > summary::before {
+      content: "▾";
+    }
+    details.refs ul {
+      margin: 0.6rem 0 0.4rem 1.2rem;
+      padding: 0;
+      color: #333;
+    }
+    details.refs li {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+      padding: 0.3rem 0;
+      border-bottom: 1px dashed #e5e5e5;
+    }
+    details.refs li:last-child {
+      border-bottom: none;
+    }
+    /* Style for PMID in reference list */
+    details.refs li {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    /* Link styling in references */
+    details.refs li a {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    details.refs li a:hover {
+      color: #1d4ed8;
+    }
+    .details-link {
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e5e5e5;
+      color: #666;
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    code {
+      background: #f1f5f9;
+      padding: 0.1rem 0.3rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GeneKnow Discover Report - GeneKnow_out</h1>
+    <p class="hint">Click <b>References</b> to expand/collapse references and more details.</p>
+
+    
+        <section class="card">
+          <div class="card-header">
+            <h2 class="gene">NKX2-1</h2>
+          </div>
+
+          <p class="summary">Nkx2-1 acts as a regulator that promotes and maintains the AT2 cell program and identity [1-5]. Nkx2-1 regulates respiratory epithelial fate decisions in the alveolar epithelium within a network of transcriptional regulators [4,5]. For example, Nkx2-1 is implicated as a central regulator of Wnt-responsive AT2 (AEP) cells [1]. Nkx2-1 ablation in AEPs in vitro caused irreversible acquisition of a stressed transitional state and uncontrolled proliferation [1]. Nkx2-1 ablation in AEPs in vivo disrupted alveolar structure [1]. CEBPA recruits NKX2-1 to co-bound sites in AT2 cells, promoting and maintaining the AT2 program [2]. In Cebpa mutant mature AT2 cells, NKX2-1 binding at AT2 peaks decreases [2]. Without CEBPA, neonatal but not mature AT2 cells reactivate the SOX9 program [2]. NKX2-1 in perinatal lungs acts in AT2 cells to control surfactant lipid and protein gene expression [4]. PRDM3 and PRDM16 control chromatin accessibility at NKX2-1 targets [4]. Joint loss of PRDM3 and PRDM16 causes AT2 loss, partial AT1 fate, and perinatal death [4]. NKX2-1 regulates respiratory epithelial fate decisions in the alveolar epithelium, functioning within a network alongside YAP, TEAD, KLF5, and NFIB [5]. Deletion of NKX2-1 in AT2 cells leads to loss of respiratory epithelial identity resembling gastrointestinal cells [5]. In Lin POS organoids induced to differentiate into alveolar type II (AT2) cells, NKX2-1 was upregulated [3].</p>
+          
+          
+
+          <details class="refs">
+            <summary>References</summary>
+            <ul>
+              <li>[1] Toth, A., Kannan, P., Snowball, J., Kofron, M., Wayman, J. A., Bridges, J. P., Miraldi, E. R., Swarr, D., &amp; Zacharias, W. J. (2023). Alveolar epithelial progenitor cells require Nkx2-1 to maintain progenitor-specific epigenomic state during lung homeostasis and regeneration. <i>Nat Commun</i>, 14(1), 8452. <a href="https://doi.org/10.1038/s41467-023-44184-0" target="_blank">https://doi.org/10.1038/s41467-023-44184-0</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/38114516/" target="_blank">38114516</a>  <a href="html/NKX2-1_PMID38114516.html" target="_blank" class="details-link">Details →</a></li>
+<li>[2] Hassan, D., &amp; Chen, J. (2024). CEBPA restricts alveolar type 2 cell plasticity during development and injury-repair. <i>Nat Commun</i>, 15(1), 4148. <a href="https://doi.org/10.1038/s41467-024-48632-3" target="_blank">https://doi.org/10.1038/s41467-024-48632-3</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/38755149/" target="_blank">38755149</a>  <a href="html/NKX2-1_PMID38755149.html" target="_blank" class="details-link">Details →</a></li>
+<li>[3] Lim, K., Donovan, A. P. A., Tang, W., Sun, D., He, P., Pett, J. P., Teichmann, S. A., Marioni, J. C., Meyer, K. B., Brand, A. H., &amp; Rawlins, E. L. (2023). Organoid modeling of human fetal lung alveolar development reveals mechanisms of cell fate patterning and neonatal respiratory disease. <i>Cell Stem Cell</i>, 30(1), 20-37.e9. <a href="https://doi.org/10.1016/j.stem.2022.11.013" target="_blank">https://doi.org/10.1016/j.stem.2022.11.013</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/36493780/" target="_blank">36493780</a>  <a href="html/NKX2-1_PMID36493780.html" target="_blank" class="details-link">Details →</a></li>
+<li>[4] He, H., Bell, S. M., Davis, A. K., Zhao, S., Sridharan, A., Na, C. L., Guo, M., Xu, Y., Snowball, J., Swarr, D. T., Zacharias, W. J., &amp; Whitsett, J. A. (2024). PRDM3/16 regulate chromatin accessibility required for NKX2-1 mediated alveolar epithelial differentiation and function. <i>Nat Commun</i>, 15(1), 8112. <a href="https://doi.org/10.1038/s41467-024-52154-3" target="_blank">https://doi.org/10.1038/s41467-024-52154-3</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/39284798/" target="_blank">39284798</a>  <a href="html/NKX2-1_PMID39284798.html" target="_blank" class="details-link">Details →</a></li>
+<li>[5] Gokey, J. J., Snowball, J., Sridharan, A., Sudha, P., Kitzmiller, J. A., Xu, Y., &amp; Whitsett, J. A. (2021). YAP regulates alveolar epithelial cell differentiation and &amp;lt;i&amp;gt;AGER&amp;lt;/i&amp;gt; via NFIB/KLF5/NKX2-1. <i>iScience</i>, 24(9), 102967. <a href="https://doi.org/10.1016/j.isci.2021.102967" target="_blank">https://doi.org/10.1016/j.isci.2021.102967</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/34466790/" target="_blank">34466790</a>  <a href="html/NKX2-1_PMID34466790.html" target="_blank" class="details-link">Details →</a></li>
+            </ul>
+          </details>
+        </section>
+        
+
+    <div class="footer">
+      Generated by <code>GeneKnow</code>
+    </div>
+  </div>
+</body>
+</html>

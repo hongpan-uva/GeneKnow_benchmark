@@ -1,0 +1,8 @@
+id,claim,question,claim_answer,summary_answer,answer_note
+1,FOXP3 is the lineage-determining transcription factor that specifies regulatory T cell (Treg) identity.,Is FOXP3 the lineage-determining transcription factor that specifies regulatory T cell identity?,Yes,Yes,
+2,FOXP3 forms large molecular complexes with other transcription factors and enzymatic subunits that dynamically regulate the development and function of regulatory T cells.,Does FOXP3 form large molecular complexes with other transcription factors and enzymatic subunits?,Yes,Yes,
+3,FOXP3 is required for the development and dynamic regulation of FOXP3+ regulatory T cells.,Is FOXP3 required for the development and regulation of FOXP3+ regulatory T cells?,Yes,Yes,
+4,"Tumour-infiltrating FOXP3+ regulatory T cells exert strong immunosuppressive functions, particularly within the tumour microenvironment.",Do tumour-infiltrating FOXP3+ regulatory T cells exert strong immunosuppressive functions in the tumour microenvironment?,Yes,Yes,
+5,The immunosuppressive functions of tumour-infiltrating FOXP3+ regulatory T cells can promote cancer immune escape.,Can the immunosuppressive functions of tumour-infiltrating FOXP3+ regulatory T cells promote cancer immune escape?,Yes,Yes,
+6,Tumour-infiltrating FOXP3+ regulatory T cells can promote tumour development and progression.,Can tumour-infiltrating FOXP3+ regulatory T cells promote tumour development and progression?,Yes,Idk,Passage mentions tumour development but not progression.
+7,Tumour-derived factors may modulate the induction of FOXP3+ regulatory T cells.,Can tumour-derived factors modulate the induction of FOXP3+ regulatory T cells?,Yes,Yes,

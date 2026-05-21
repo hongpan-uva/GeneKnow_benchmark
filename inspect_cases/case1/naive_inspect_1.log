@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['SOX9'], genes_file=None, context=['astrocyte', 'astrocytic'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='41271638', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 15 paragraphs, total text length: 20798 characters
+[PMID 41271638] Generating direct summary for SOX9 from full text...
+[PMID 41271638] Skipping verification for SOX9 (naive_inspect_1 mode)...
+
+real	0m33.730s
+user	0m2.859s
+sys	0m1.494s

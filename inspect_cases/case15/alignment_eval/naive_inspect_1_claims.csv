@@ -1,0 +1,31 @@
+id,claim,question,claim_answer,evidence_answer,answer_note
+1,FOXA1 is a transcriptional pioneer factor.,Is FOXA1 a transcriptional pioneer factor?,Yes,Yes,
+2,FOXA1 is recurrently mutated in primary human prostate cancer.,Is FOXA1 recurrently mutated in primary human prostate cancer?,Yes,Yes,
+3,FOXA1 is recurrently mutated in metastatic castration-resistant prostate cancer (mCRPC).,Is FOXA1 recurrently mutated in metastatic castration-resistant prostate cancer (mCRPC)?,Yes,Yes,
+4,FOXA1 is recurrently mutated in neuroendocrine prostate cancer (NEPC).,Is FOXA1 recurrently mutated in neuroendocrine prostate cancer (NEPC)?,Yes,Yes,
+5,FOXA1 mutation rates in human prostate cancer vary by cohort.,Do FOXA1 mutation rates in human prostate cancer vary by cohort?,Yes,Yes,
+6,FOXA1 mutants alter chromatin accessibility.,Do FOXA1 mutants alter chromatin accessibility?,Yes,Yes,
+7,FOXA1 mutants alter cistromes.,Do FOXA1 mutants alter cistromes?,Yes,Yes,
+8,FOXA1 mutants change pioneer activity.,Do FOXA1 mutants change pioneer activity?,Yes,Yes,
+9,FOXA1 mutants change motif preference.,Do FOXA1 mutants change motif preference?,Yes,Yes,
+10,FOXA1 mutants change chromatin-opening kinetics.,Do FOXA1 mutants change chromatin-opening kinetics?,Yes,Yes,
+11,FOXA1 mutants modify FOXA1–androgen receptor (AR) interactions.,Do FOXA1 mutants modify FOXA1–androgen receptor interactions?,Yes,Yes,
+12,Certain FOXA1 mutations have been reported to enhance AR transcriptional signatures.,Have certain FOXA1 mutations been reported to enhance AR transcriptional signatures?,Yes,Yes,
+13,Certain FOXA1 mutations have been reported to inhibit AR binding.,Have certain FOXA1 mutations been reported to inhibit AR binding?,Yes,Yes,
+14,Whether certain FOXA1 mutations enhance AR transcriptional signatures or inhibit AR binding depends on residue and model.,Does the effect of certain FOXA1 mutations on AR depend on residue and model?,Yes,Yes,
+15,Certain FOXA1 truncation mutants activate epithelial-to-mesenchymal transition (EMT).,Do certain FOXA1 truncation mutants activate epithelial-to-mesenchymal transition (EMT)?,Yes,Yes,
+16,Certain FOXA1 Forkhead mutants activate epithelial-to-mesenchymal transition (EMT).,Do certain FOXA1 Forkhead mutants activate epithelial-to-mesenchymal transition (EMT)?,Yes,Yes,
+17,Certain FOXA1 truncation mutants activate metastasis.,Do certain FOXA1 truncation mutants activate metastasis?,Yes,Yes,
+18,Certain FOXA1 Forkhead mutants activate metastasis.,Do certain FOXA1 Forkhead mutants activate metastasis?,Yes,Yes,
+19,Certain FOXA1 truncation and Forkhead mutants potentially activate EMT via loss of TLE3 interaction.,Can certain FOXA1 truncation and Forkhead mutants activate EMT via loss of TLE3 interaction?,Yes,Idk,Truncation linked to TLE3 loss; Forkhead mutants' TLE3 involvement not stated.
+20,Certain FOXA1 truncation and Forkhead mutants potentially activate metastasis via loss of TLE3 interaction.,Can certain FOXA1 truncation and Forkhead mutants activate metastasis via loss of TLE3 interaction?,Yes,Idk,Truncation linked; Forkhead mutants' TLE3 involvement not stated.
+21,Certain FOXA1 truncation and Forkhead mutants potentially activate EMT via WNT/β‑catenin activation.,Can certain FOXA1 truncation and Forkhead mutants activate EMT via WNT/β-catenin activation?,Yes,Idk,Truncation linked to WNT activation; Forkhead involvement not described.
+22,Certain FOXA1 truncation and Forkhead mutants potentially activate metastasis via WNT/β‑catenin activation.,Can certain FOXA1 truncation and Forkhead mutants activate metastasis via WNT/β-catenin activation?,Yes,Idk,Truncation linked to WNT activation; Forkhead involvement not described.
+23,FOXA1 activity is regulated post-translationally.,Is FOXA1 activity regulated post-translationally?,Yes,Yes,
+24,LSD1 demethylation of K270 is required for optimal chromatin binding of FOXA1.,Is LSD1 demethylation of FOXA1 K270 required for optimal chromatin binding?,Yes,Yes,
+25,Post-translational regulation of FOXA1 activity leads to altered androgen receptor (AR) signaling.,Does post-translational regulation of FOXA1 activity alter androgen receptor signaling?,Yes,Yes,
+26,FOXA1-related alterations can have stage-specific effects on proliferation.,Can FOXA1-related alterations have stage-specific effects on proliferation?,Yes,Idk,Passage doesn't state stage-specific effects on proliferation explicitly.
+27,FOXA1-related alterations can have stage-specific effects on EMT and metastasis.,Can FOXA1-related alterations have stage-specific effects on EMT and metastasis?,Yes,Yes,
+28,FOXA1 has biomarker potential in liquid biopsy.,Does FOXA1 have biomarker potential in liquid biopsy?,Yes,Yes,
+29,FOXA1-related findings have therapeutic implications such as targeting LSD1.,Do FOXA1-related findings have therapeutic implications such as targeting LSD1?,Yes,Yes,
+30,FOXA1-related findings have therapeutic implications such as targeting EMT pathways.,Do FOXA1-related findings have therapeutic implications such as targeting EMT pathways?,Yes,Yes,

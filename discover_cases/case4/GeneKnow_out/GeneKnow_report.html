@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeneKnow Discover Report - GeneKnow_out</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      margin: 2rem;
+      color: #111;
+      background: #fafafa;
+    }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin: 0 0 1rem 0;
+    }
+    .hint {
+      color: #555;
+      margin: 0 0 1.5rem 0;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e6e6e6;
+      border-radius: 14px;
+      padding: 1.25rem 1.25rem 0.9rem 1.25rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+    }
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .gene {
+      font-size: 1.25rem;
+      margin: 0;
+      letter-spacing: 0.2px;
+    }
+    .summary {
+      margin: 0.5rem 0 0.9rem 0;
+      line-height: 1.45;
+      color: #222;
+      white-space: pre-wrap; /* keeps newlines if summary includes them */
+    }
+    .note-box {
+      margin: 1rem 0;
+      padding: 0.8rem 1rem;
+      background: #fff3cd;
+      border-left: 3px solid #ffc107;
+      border-radius: 0 6px 6px 0;
+      color: #856404;
+    }
+    .note-box strong {
+      color: #856404;
+    }
+    details.refs {
+      border-top: 1px dashed #e5e5e5;
+      padding-top: 0.75rem;
+      margin-top: 0.25rem;
+    }
+    details.refs > summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #1f2937;
+      list-style: none;
+    }
+    details.refs > summary::-webkit-details-marker {
+      display: none;
+    }
+    details.refs > summary::before {
+      content: "▸";
+      display: inline-block;
+      margin-right: 0.5rem;
+      transform: translateY(-1px);
+    }
+    details.refs[open] > summary::before {
+      content: "▾";
+    }
+    details.refs ul {
+      margin: 0.6rem 0 0.4rem 1.2rem;
+      padding: 0;
+      color: #333;
+    }
+    details.refs li {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+      padding: 0.3rem 0;
+      border-bottom: 1px dashed #e5e5e5;
+    }
+    details.refs li:last-child {
+      border-bottom: none;
+    }
+    /* Style for PMID in reference list */
+    details.refs li {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    /* Link styling in references */
+    details.refs li a {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    details.refs li a:hover {
+      color: #1d4ed8;
+    }
+    .details-link {
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e5e5e5;
+      color: #666;
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    code {
+      background: #f1f5f9;
+      padding: 0.1rem 0.3rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GeneKnow Discover Report - GeneKnow_out</h1>
+    <p class="hint">Click <b>References</b> to expand/collapse references and more details.</p>
+
+    
+        <section class="card">
+          <div class="card-header">
+            <h2 class="gene">FOXP3</h2>
+          </div>
+
+          <p class="summary">FOXP3 is a lineage-defining transcription factor that regulates regulatory T cell development [1-3]. FOXP3 also defines regulatory T cells that mediate immune suppression and tolerance [1,4,5]. For example, FOXP3-expressing regulatory T cells suppress immunity in tumors by forming physical, metabolic, and trafficking barriers that exclude pro-inflammatory cells [4]. Induction of regulatory T cell fragility is associated with lower FOXP3 expression and with enhanced interferon-gamma production [4]. FOXP3 is the lineage-defining transcription factor that regulates regulatory T cell development [1]. In tumours FOXP3+ Treg are immunosuppressive and promote immune escape [1]. Bacteria-driven expansion of pro‑inflammatory FOXP3(lo) non‑Treg cells enhances antitumour immunity [1]. In thymus, cytokine-dependent upregulation of FOXP3 in CD25+ progenitors constitutes the second developmental step and produces mature Tregs that promote tolerance [3]. In periphery, repeated antigen exposure with IL-2 and TGF-β drives conversion of Foxp3- cells into Foxp3+ pTregs [3]. FOXP3+ regulatory T cells produce FOXP3 and exert immunosuppressive effects that regulate immunity and tumor biology [5]. Post‑translational modifications and non‑coding RNAs activate FOXP3 signaling, enabling FOXP3+ Treg function in tumors [5]. Foxp3 is the master transcription factor that regulates regulatory T cell development by forming complexes that activate or repress genes for regulatory T cell differentiation and function [2]. Foxp3 deficiency causes lethal systemic autoimmunity in scurfy mice and human IPEX [2].</p>
+          
+          
+
+          <details class="refs">
+            <summary>References</summary>
+            <ul>
+              <li>[1] Qiu, Y., Ke, S., Chen, J., Qin, Z., Zhang, W., Yuan, Y., Meng, D., Zhao, G., Wu, K., Li, B., &amp; Li, D. (2022). FOXP3+ regulatory T cells and the immune escape in solid tumours. <i>Front Immunol</i>, 13, 982986. <a href="https://doi.org/10.3389/fimmu.2022.982986" target="_blank">https://doi.org/10.3389/fimmu.2022.982986</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/36569832/" target="_blank">36569832</a>  <a href="html/FOXP3_PMID36569832.html" target="_blank" class="details-link">Details →</a></li>
+<li>[2] Lee, J., Kim, D., &amp; Min, B. (2022). Tissue Resident Foxp3<sup>+</sup> Regulatory T Cells: Sentinels and Saboteurs in Health and Disease. <i>Front Immunol</i>, 13, 865593. <a href="https://doi.org/10.3389/fimmu.2022.865593" target="_blank">https://doi.org/10.3389/fimmu.2022.865593</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/35359918/" target="_blank">35359918</a>  <a href="html/FOXP3_PMID35359918.html" target="_blank" class="details-link">Details →</a></li>
+<li>[3] Sanders, J. M., Jeyamogan, S., Mathew, J. M., &amp; Leventhal, J. R. (2022). Foxp3+ regulatory T cell therapy for tolerance in autoimmunity and solid organ transplantation. <i>Front Immunol</i>, 13, 1055466. <a href="https://doi.org/10.3389/fimmu.2022.1055466" target="_blank">https://doi.org/10.3389/fimmu.2022.1055466</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/36466912/" target="_blank">36466912</a>  <a href="html/FOXP3_PMID36466912.html" target="_blank" class="details-link">Details →</a></li>
+<li>[4] Liu, X., Zhang, W., Han, Y., Cheng, H., Liu, Q., Ke, S., Zhu, F., Lu, Y., Dai, X., Wang, C., Huang, G., Su, B., Zou, Q., Li, H., Zhao, W., Xiao, L., Lu, L., Tong, X., Pan, F., Li, H., &amp; Li, B. (2024). FOXP3<sup>+</sup> regulatory T cell perturbation mediated by the IFNγ-STAT1-IFITM3 feedback loop is essential for anti-tumor immunity. <i>Nat Commun</i>, 15(1), 122. <a href="https://doi.org/10.1038/s41467-023-44391-9" target="_blank">https://doi.org/10.1038/s41467-023-44391-9</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/38167862/" target="_blank">38167862</a>  <a href="html/FOXP3_PMID38167862.html" target="_blank" class="details-link">Details →</a></li>
+<li>[5] Wang, W., Ding, M., Wang, Q., Song, Y., Huo, K., Chen, X., Xiang, Z., &amp; Liu, L. (2024). Advances in Foxp3+ regulatory T cells (Foxp3+ Treg) and key factors in digestive malignancies. <i>Front Immunol</i>, 15, 1404974. <a href="https://doi.org/10.3389/fimmu.2024.1404974" target="_blank">https://doi.org/10.3389/fimmu.2024.1404974</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/38919615/" target="_blank">38919615</a>  <a href="html/FOXP3_PMID38919615.html" target="_blank" class="details-link">Details →</a></li>
+            </ul>
+          </details>
+        </section>
+        
+
+    <div class="footer">
+      Generated by <code>GeneKnow</code>
+    </div>
+  </div>
+</body>
+</html>

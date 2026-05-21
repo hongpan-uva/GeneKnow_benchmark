@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeneKnow Discover Report - GeneKnow_out</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      margin: 2rem;
+      color: #111;
+      background: #fafafa;
+    }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin: 0 0 1rem 0;
+    }
+    .hint {
+      color: #555;
+      margin: 0 0 1.5rem 0;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e6e6e6;
+      border-radius: 14px;
+      padding: 1.25rem 1.25rem 0.9rem 1.25rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+    }
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .gene {
+      font-size: 1.25rem;
+      margin: 0;
+      letter-spacing: 0.2px;
+    }
+    .summary {
+      margin: 0.5rem 0 0.9rem 0;
+      line-height: 1.45;
+      color: #222;
+      white-space: pre-wrap; /* keeps newlines if summary includes them */
+    }
+    .note-box {
+      margin: 1rem 0;
+      padding: 0.8rem 1rem;
+      background: #fff3cd;
+      border-left: 3px solid #ffc107;
+      border-radius: 0 6px 6px 0;
+      color: #856404;
+    }
+    .note-box strong {
+      color: #856404;
+    }
+    details.refs {
+      border-top: 1px dashed #e5e5e5;
+      padding-top: 0.75rem;
+      margin-top: 0.25rem;
+    }
+    details.refs > summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #1f2937;
+      list-style: none;
+    }
+    details.refs > summary::-webkit-details-marker {
+      display: none;
+    }
+    details.refs > summary::before {
+      content: "▸";
+      display: inline-block;
+      margin-right: 0.5rem;
+      transform: translateY(-1px);
+    }
+    details.refs[open] > summary::before {
+      content: "▾";
+    }
+    details.refs ul {
+      margin: 0.6rem 0 0.4rem 1.2rem;
+      padding: 0;
+      color: #333;
+    }
+    details.refs li {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+      padding: 0.3rem 0;
+      border-bottom: 1px dashed #e5e5e5;
+    }
+    details.refs li:last-child {
+      border-bottom: none;
+    }
+    /* Style for PMID in reference list */
+    details.refs li {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    /* Link styling in references */
+    details.refs li a {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    details.refs li a:hover {
+      color: #1d4ed8;
+    }
+    .details-link {
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e5e5e5;
+      color: #666;
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    code {
+      background: #f1f5f9;
+      padding: 0.1rem 0.3rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GeneKnow Discover Report - GeneKnow_out</h1>
+    <p class="hint">Click <b>References</b> to expand/collapse references and more details.</p>
+
+    
+        <section class="card">
+          <div class="card-header">
+            <h2 class="gene">PD-1</h2>
+          </div>
+
+          <p class="summary">PD-1 functions as an inhibitory immune checkpoint receptor on T cells [1-3]. PD-1 serves as a therapeutic target in melanoma [2,4,5]. Specifically, PD-1 blockade provides clinical benefit in melanoma but many advanced tumors exhibit innate resistance [4]. Neoepitopes from somatic non-synonymous mutations are critical for benefit [4]. The IPRES transcriptional signature denotes up-expression of mesenchymal/ECM/angiogenesis genes and mediates innate anti-PD-1 resistance [4]. Melanoma extracellular-vesicle PD-L1 binds PD-1 [1]. Exosomal PD-L1 binds PD-1 on antigen-experienced CD8 T cells and inhibits antigen-experienced CD8 T cells [1]. Anti-PD-L1 or anti-PD-1 antibodies block the inhibition of antigen-experienced CD8 T cells [1]. Early on-treatment increases in circulating exosomal PD-L1 stratify responders from non-responders [1]. The PD-1–PD-L1 pathway is identified as important for treating some cancers [2]. An anti–PD-1 antibody showed PD-1–receptor occupancy on circulating CD3+ T cells and produced clinical activity in melanoma, including one complete response [2]. In human melanoma and murine tumor models, anti-PD-1 predominantly induces expansion of specific tumor-infiltrating exhausted-like CD8 T cell subsets [3]. The findings indicate checkpoint blockade targets only particular tumor-infiltrating T cells and anti-PD-1 responses are driven by mechanisms distinct from anti-CTLA-4 [3]. Anti-PD-1 therapy produces objective responses in melanoma [5]. Defects in interferon-receptor signaling and antigen presentation were associated with acquired resistance to PD-1 blockade [5]. Some responders later experienced progression or delayed relapse despite ongoing therapy [5].</p>
+          
+          
+
+          <details class="refs">
+            <summary>References</summary>
+            <ul>
+              <li>[1] Chen, G., Huang, A. C., Zhang, W., Zhang, G., Wu, M., Xu, W., Yu, Z., Yang, J., Wang, B., Sun, H., Xia, H., Man, Q., Zhong, W., Antelo, L. F., Wu, B., Xiong, X., Liu, X., Guan, L., Li, T., Liu, S., Yang, R., Lu, Y., Dong, L., McGettigan, S., Somasundaram, R., Radhakrishnan, R., Mills, G., Lu, Y., Kim, J., Chen, Y. H., Dong, H., Zhao, Y., Karakousis, G. C., Mitchell, T. C., Schuchter, L. M., Herlyn, M., Wherry, E. J., Xu, X., &amp; Guo, W. (2018). Exosomal PD-L1 contributes to immunosuppression and is associated with anti-PD-1 response. <i>Nature</i>, 560(7718), 382-386. <a href="https://doi.org/10.1038/s41586-018-0392-8" target="_blank">https://doi.org/10.1038/s41586-018-0392-8</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/30089911/" target="_blank">30089911</a>  <a href="html/PD-1_PMID30089911.html" target="_blank" class="details-link">Details →</a></li>
+<li>[2] Topalian, S. L., Hodi, F. S., Brahmer, J. R., Gettinger, S. N., Smith, D. C., McDermott, D. F., Powderly, J. D., Carvajal, R. D., Sosman, J. A., Atkins, M. B., Leming, P. D., Spigel, D. R., Antonia, S. J., Horn, L., Drake, C. G., Pardoll, D. M., Chen, L., Sharfman, W. H., Anders, R. A., Taube, J. M., McMiller, T. L., Xu, H., Korman, A. J., Jure-Kunkel, M., Agrawal, S., McDonald, D., Kollia, G. D., Gupta, A., Wigginton, J. M., &amp; Sznol, M. (2012). Safety, activity, and immune correlates of anti-PD-1 antibody in cancer. <i>N Engl J Med</i>, 366(26), 2443-2454. <a href="https://doi.org/10.1056/nejmoa1200690" target="_blank">https://doi.org/10.1056/nejmoa1200690</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/22658127/" target="_blank">22658127</a>  <a href="html/PD-1_PMID22658127.html" target="_blank" class="details-link">Details →</a></li>
+<li>[3] Wei, S. C., Levine, J. H., Cogdill, A. P., Zhao, Y., Anang, N. A. S., Andrews, M. C., Sharma, P., Wang, J., Wargo, J. A., Pe&#x27;er, D., &amp; Allison, J. P. (2017). Distinct Cellular Mechanisms Underlie Anti-CTLA-4 and Anti-PD-1 Checkpoint Blockade. <i>Cell</i>, 170(6), 1120-1133.e17. <a href="https://doi.org/10.1016/j.cell.2017.07.024" target="_blank">https://doi.org/10.1016/j.cell.2017.07.024</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/28803728/" target="_blank">28803728</a>  <a href="html/PD-1_PMID28803728.html" target="_blank" class="details-link">Details →</a></li>
+<li>[4] Hugo, W., Zaretsky, J. M., Sun, L., Song, C., Moreno, B. H., Hu-Lieskovan, S., Berent-Maoz, B., Pang, J., Chmielowski, B., Cherry, G., Seja, E., Lomeli, S., Kong, X., Kelley, M. C., Sosman, J. A., Johnson, D. B., Ribas, A., &amp; Lo, R. S. (2016). Genomic and Transcriptomic Features of Response to Anti-PD-1 Therapy in Metastatic Melanoma. <i>Cell</i>, 165(1), 35-44. <a href="https://doi.org/10.1016/j.cell.2016.02.065" target="_blank">https://doi.org/10.1016/j.cell.2016.02.065</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/26997480/" target="_blank">26997480</a>  <a href="html/PD-1_PMID26997480.html" target="_blank" class="details-link">Details →</a></li>
+<li>[5] Zaretsky, J. M., Garcia-Diaz, A., Shin, D. S., Escuin-Ordinas, H., Hugo, W., Hu-Lieskovan, S., Torrejon, D. Y., Abril-Rodriguez, G., Sandoval, S., Barthly, L., Saco, J., Homet, M. o. r. e. n. o. B., Mezzadra, R., Chmielowski, B., Ruchalski, K., Shintaku, I. P., Sanchez, P. J., Puig-Saus, C., Cherry, G., Seja, E., Kong, X., Pang, J., Berent-Maoz, B., Comin-Anduix, B., Graeber, T. G., Tumeh, P. C., Schumacher, T. N., Lo, R. S., &amp; Ribas, A. (2016). Mutations Associated with Acquired Resistance to PD-1 Blockade in Melanoma. <i>N Engl J Med</i>, 375(9), 819-829. <a href="https://doi.org/10.1056/nejmoa1604958" target="_blank">https://doi.org/10.1056/nejmoa1604958</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/27433843/" target="_blank">27433843</a>  <a href="html/PD-1_PMID27433843.html" target="_blank" class="details-link">Details →</a></li>
+            </ul>
+          </details>
+        </section>
+        
+
+    <div class="footer">
+      Generated by <code>GeneKnow</code>
+    </div>
+  </div>
+</body>
+</html>

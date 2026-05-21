@@ -1,0 +1,8 @@
+naive_inspect_2 mode: Namespace(genes=['FOXR2'], genes_file=None, context=['neuroblastoma', 'NB-FOXR2'], outdir=PosixPath('.'), name='naive_inspect_2', species='human', max_passages=3, auto_alias=False, pmid='26919435', pmcid=None, suffix_allowed=True)
+Tokenize texts:   0%|          | 0/25 [00:00<?, ?it/s]                                                      BM25S Count Tokens:   0%|          | 0/25 [00:00<?, ?it/s]                                                          BM25S Compute Scores:   0%|          | 0/25 [00:00<?, ?it/s]                                                            [PMID 26919435] Generating passage summaries for FOXR2...
+[PMID 26919435] Generating the article summary for FOXR2...
+[PMID 26919435] Skipping verification for FOXR2 (naive_inspect_2 mode)...
+
+real	1m7.374s
+user	0m2.936s
+sys	0m1.168s

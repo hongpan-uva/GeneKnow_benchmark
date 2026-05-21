@@ -1,0 +1,6 @@
+id,claim,question,claim_answer,summary_answer,answer_note
+1,RUNX2 is the first transcription factor and is required to specify/commit multipotent mesenchymal cells into the osteoblast lineage.,Is RUNX2 the first transcription factor required to commit multipotent mesenchymal cells to the osteoblast lineage?,Yes,Yes,
+2,"In mice, Runx2 is the first transcription factor directing multipotent mesenchymal cells to the osteoblast lineage.","In mice, is Runx2 the first transcription factor directing multipotent mesenchymal cells to the osteoblast lineage?",Yes,Idk,Passage doesn't specify species (mice)
+3,"Runx2 induces Sp7 expression, producing Runx2+Sp7+ preosteoblasts.","Does Runx2 induce Sp7 expression, producing Runx2+Sp7+ preosteoblasts?",Yes,Yes,
+4,"Runx2 induces expression of genes in multiple signaling pathways, including Hedgehog, Wnt, Pthlh, and FGF pathway genes (including Fgfr2 and Fgfr3).","Does Runx2 induce genes in Hedgehog, Wnt, Pthlh, and FGF pathways including Fgfr2 and Fgfr3?",Yes,Idk,Passage doesn't mention Fgfr2 or Fgfr3
+5,"Runx2 together with Sp7 are required for immature osteoblasts to mature and to express bone matrix genes, including Bglap/Bglap2 and high levels of Col1a1.",Are Runx2 and Sp7 required for immature osteoblasts to mature and express Bglap/Bglap2 and high Col1a1?,Yes,Yes,

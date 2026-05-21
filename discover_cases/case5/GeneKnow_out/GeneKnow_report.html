@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeneKnow Discover Report - GeneKnow_out</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      margin: 2rem;
+      color: #111;
+      background: #fafafa;
+    }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin: 0 0 1rem 0;
+    }
+    .hint {
+      color: #555;
+      margin: 0 0 1.5rem 0;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e6e6e6;
+      border-radius: 14px;
+      padding: 1.25rem 1.25rem 0.9rem 1.25rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+    }
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .gene {
+      font-size: 1.25rem;
+      margin: 0;
+      letter-spacing: 0.2px;
+    }
+    .summary {
+      margin: 0.5rem 0 0.9rem 0;
+      line-height: 1.45;
+      color: #222;
+      white-space: pre-wrap; /* keeps newlines if summary includes them */
+    }
+    .note-box {
+      margin: 1rem 0;
+      padding: 0.8rem 1rem;
+      background: #fff3cd;
+      border-left: 3px solid #ffc107;
+      border-radius: 0 6px 6px 0;
+      color: #856404;
+    }
+    .note-box strong {
+      color: #856404;
+    }
+    details.refs {
+      border-top: 1px dashed #e5e5e5;
+      padding-top: 0.75rem;
+      margin-top: 0.25rem;
+    }
+    details.refs > summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #1f2937;
+      list-style: none;
+    }
+    details.refs > summary::-webkit-details-marker {
+      display: none;
+    }
+    details.refs > summary::before {
+      content: "▸";
+      display: inline-block;
+      margin-right: 0.5rem;
+      transform: translateY(-1px);
+    }
+    details.refs[open] > summary::before {
+      content: "▾";
+    }
+    details.refs ul {
+      margin: 0.6rem 0 0.4rem 1.2rem;
+      padding: 0;
+      color: #333;
+    }
+    details.refs li {
+      margin: 0.5rem 0;
+      line-height: 1.4;
+      padding: 0.3rem 0;
+      border-bottom: 1px dashed #e5e5e5;
+    }
+    details.refs li:last-child {
+      border-bottom: none;
+    }
+    /* Style for PMID in reference list */
+    details.refs li {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    /* Link styling in references */
+    details.refs li a {
+      color: #2563eb;
+      text-decoration: underline;
+    }
+    details.refs li a:hover {
+      color: #1d4ed8;
+    }
+    .details-link {
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid #e5e5e5;
+      color: #666;
+      font-size: 0.85rem;
+      text-align: center;
+    }
+    code {
+      background: #f1f5f9;
+      padding: 0.1rem 0.3rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>GeneKnow Discover Report - GeneKnow_out</h1>
+    <p class="hint">Click <b>References</b> to expand/collapse references and more details.</p>
+
+    
+        <section class="card">
+          <div class="card-header">
+            <h2 class="gene">MYOD1</h2>
+          </div>
+
+          <p class="summary">MyoD1 functions as a transcription factor that drives muscle cell differentiation [1-3]. MyoD1 is a transcription factor that drives myocyte differentiation [1]. In TAFAZZIN‑knockout myoblasts, Mohawk (MKX) is upregulated and inhibits MyoD1 transcription via disrupted noncanonical Wnt signaling [1]. As a result, TAZ‑KO myoblast differentiation is reduced [1]. BC3H‑1 cells lacking endogenous MyoD1 were transfected with MyoD1 [2]. The introduced MyoD1 localized to the nucleus [2]. BD lines formed long multinucleated myotubes instead of parental mononucleated MHC‑expressing cells, yet both expressed the same sarcomeric MHC isoform pattern [2]. 1,25‑Dihydroxyvitamin D induced VDR‑mediated transcription that upregulated MYOD1 expression in C2C12 myoblasts [4]. In embryonic myogenesis, MYOD1 is expressed when PAX3+ precursors commit into myoblasts and activates muscle differentiation by binding E‑box motifs in muscle gene promoters [3]. MYOD1 activation precedes differentiation into MYOG‑expressing myocytes that fuse into myotubes and mature into myofibers [3]. Researchers designed qPCR primers including MYOD1 for the Atlantic mackerel genome and used the primers to characterize genotypes of the Mack skeletal muscle cell line [5].</p>
+          
+          
+
+          <details class="refs">
+            <summary>References</summary>
+            <ul>
+              <li>[1] Vo, L., Schmidtke, M. W., Da Rosa-Junior, N. T., Ren, M., Schlame, M., &amp; Greenberg, M. L. (2023). Cardiolipin metabolism regulates expression of muscle transcription factor MyoD1 and muscle development. <i>J Biol Chem</i>, 299(3), 102978. <a href="https://doi.org/10.1016/j.jbc.2023.102978" target="_blank">https://doi.org/10.1016/j.jbc.2023.102978</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/36739949/" target="_blank">36739949</a>  <a href="html/MYOD1_PMID36739949.html" target="_blank" class="details-link">Details →</a></li>
+<li>[2] Miller, J. B. (1990). Myogenic programs of mouse muscle cell lines: expression of myosin heavy chain isoforms, MyoD1, and myogenin. <i>J Cell Biol</i>, 111(3), 1149-1159. <a href="https://doi.org/10.1083/jcb.111.3.1149" target="_blank">https://doi.org/10.1083/jcb.111.3.1149</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/2167895/" target="_blank">2167895</a>  <a href="html/MYOD1_PMID2167895.html" target="_blank" class="details-link">Details →</a></li>
+<li>[3] Nahlé, S., Javed, A., Joumier, L., Kherdjemil, Y., Sitolle, J., Khetchoumian, K., Parekh, Y., Krezel, W., Malleshaiah, M., Le Grand, F., Cayouette, M., &amp; Côté, J. F. (2025). Differentially expressed fusogens specify myocyte states to drive myogenesis. <i>Development</i>, 152(19), dev204771. <a href="https://doi.org/10.1242/dev.204771" target="_blank">https://doi.org/10.1242/dev.204771</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/40959964/" target="_blank">40959964</a>  <a href="html/MYOD1_PMID40959964.html" target="_blank" class="details-link">Details →</a></li>
+<li>[4] Chen, H., Ren, B., Wang, J., Liu, X., Yi, X., Goltzman, D., &amp; Miao, D. (2025). Mesenchymal stem cell-specific Sirt1 overexpression prevents sarcopenia induced by 1,25-dihydroxyvitamin D deficiency. <i>Aging (Albany NY)</i>, 17(4), 1026-1042. <a href="https://doi.org/10.18632/aging.206232" target="_blank">https://doi.org/10.18632/aging.206232</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/40168539/" target="_blank">40168539</a>  <a href="html/MYOD1_PMID40168539.html" target="_blank" class="details-link">Details →</a></li>
+<li>[5] Saad, M. K., Yuen, J. S. K., Joyce, C. M., Li, X., Lim, T., Wolfson, T. L., Wu, J., Laird, J., Vissapragada, S., Calkins, O. P., Ali, A., &amp; Kaplan, D. L. (2023). Continuous fish muscle cell line with capacity for myogenic and adipogenic-like phenotypes. <i>Sci Rep</i>, 13(1), 5098. <a href="https://doi.org/10.1038/s41598-023-31822-2" target="_blank">https://doi.org/10.1038/s41598-023-31822-2</a> PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/36991012/" target="_blank">36991012</a>  <a href="html/MYOD1_PMID36991012.html" target="_blank" class="details-link">Details →</a></li>
+            </ul>
+          </details>
+        </section>
+        
+
+    <div class="footer">
+      Generated by <code>GeneKnow</code>
+    </div>
+  </div>
+</body>
+</html>

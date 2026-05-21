@@ -1,0 +1,14 @@
+PAX5 is the master regulator of B-cell identity, functioning as a dual-purpose transcription factor that simultaneously activates B-cell-specific programs and represses alternative hematopoietic fates. It is indispensable for B-cell commitment; the loss of PAX5 results in a complete developmental block at the early pro-B cell stage (Urbanek et al., 1994). PAX5 directly promotes B-cell signaling and development by activating essential genes such as **Cd19** and **Blnk**, while actively silencing lineage-inappropriate genes like **Csf1r** and **Notch1** (Nutt et al., 1999). Furthermore, PAX5 is critical for immunoglobulin heavy-chain ($Igh$) gene rearrangement, as it facilitates the physical contraction of the $Igh$ locus to enable distal $V_H$-to-$DJ_H$ recombination (Fuxa et al., 2004). Beyond initial differentiation, the functional presence of PAX5 is required to maintain lineage fidelity; its conditional deletion in mature B cells causes them to dedifferentiate into multipotent progenitor-like cells that can subsequently adopt T-cell or myeloid identities (Cobaleda et al., 2007). Essentially, PAX5 acts as both the "architect" and the "security guard" of the B-cell state.
+
+---
+
+### References
+
+Cobaleda, C., Jochum, W., & Busslinger, M. (2007). Lineage reprogramming of mature B lymphocytes into T cells by conditional deletion of Pax5. *Nature*, *449*(7161), 473–477. [https://doi.org/10.1038/nature05954](https://doi.org/10.1038/nature05954)
+
+Fuxa, M., Skok, J., Souabni, A., Salvagiotto, G., Roldan, E., & Busslinger, M. (2004). Pax5 induces V-to-DJ rearrangements and locus contraction of the IgH locus. *Genes & Development*, *18*(4), 411–422. [https://doi.org/10.1101/gad.1176104](https://www.google.com/search?q=https://doi.org/10.1101/gad.1176104)
+
+Nutt, S. L., Heavey, B., Rolink, A. G., & Busslinger, M. (1999). Commitment to the B-lymphoid lineage depends on the transcription factor Pax5. *Nature*, *401*(6753), 556–562. [https://doi.org/10.1038/44111](https://www.google.com/search?q=https://doi.org/10.1038/44111)
+
+Urbanek, P., Wang, Z. Q., Fetka, I., Wagner, E. F., & Busslinger, M. (1994). Complete block of early B cell differentiation and loss of limbal-specific gene expression in Pax-5-deficient mice. *Cell*, *79*(5), 901–912. [https://doi.org/10.1016/0092-8674(94)90104-X](https://doi.org/10.1016/0092-8674(94)90104-X)
+

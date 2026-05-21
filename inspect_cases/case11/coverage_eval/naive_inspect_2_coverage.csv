@@ -1,0 +1,10 @@
+id,claim,question,claim_answer,summary_answer,answer_note
+1,NOTCH1 mediates dimerization-dependent signaling that regulates transcriptional programs.,Does NOTCH1 mediate dimerization-dependent signaling that regulates transcriptional programs?,Yes,Yes,
+2,NOTCH1 dimers induce a dimerization-dependent transcriptional signature that includes the transcription factor HES4.,Do NOTCH1 dimers induce a dimerization-dependent transcriptional signature including HES4?,Yes,Yes,
+3,"The NOTCH1-ΔE variant (lacking the extracellular domain) is constitutively active and, when expressed, produces overactive NOTCH1 signaling.",Is the NOTCH1-ΔE variant constitutively active?,Yes,Yes,
+4,"In T-cell acute lymphoblastic leukemia (T-ALL), more than 50% of cases are associated with DNA alterations in NOTCH1 or in other genes that lead to enhanced activation of the NOTCH1 pathway.",Are more than 50% of T-ALL cases associated with DNA alterations enhancing NOTCH1 pathway activation?,Yes,Yes,
+5,NOTCH1 dimeric signaling is required for leukemogenesis and for maintenance of human T-cell acute lymphoblastic leukemia (T-ALL).,Is NOTCH1 dimeric signaling required for leukemogenesis and maintenance of human T-ALL?,Yes,Yes,
+6,"In NSG mouse xenotransplants of human cord blood hematopoietic stem/progenitor cells, cells expressing wild-type NOTCH1-ΔE generated T-ALL–like leukemias, whereas cells expressing a dimerization-defective NOTCH1-ΔE-R1984A did not.","In NSG xenotransplants, did cells expressing wild-type NOTCH1-ΔE generate T-ALL-like leukemias?",Yes,Yes,
+7,Overactive NOTCH1 signaling drives development of T-ALL–like disease.,Does overactive NOTCH1 signaling drive development of T-ALL-like disease?,Yes,Yes,
+8,Overactive NOTCH1 signaling enforces T-cell differentiation.,Does overactive NOTCH1 signaling enforce T-cell differentiation?,Yes,Yes,
+9,These findings support targeting NOTCH1 dimer signaling or its downstream effectors as a therapeutic strategy.,Do these findings support targeting NOTCH1 dimer signaling or its downstream effectors therapeutically?,Yes,Yes,

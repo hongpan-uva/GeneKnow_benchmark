@@ -1,0 +1,15 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,PU.1 is encoded by the Spi1 gene.,,Is PU.1 encoded by the Spi1 gene?,Yes,,
+2,"PU.1 is the master transcription factor governing the specification, differentiation, and functional maintenance of the macrophage lineage.",,"Is PU.1 the master transcription factor governing macrophage specification, differentiation, and maintenance?",Yes,,
+3,"During early hematopoiesis, high-level expression of PU.1 is required to commit multipotent progenitors to the myeloid fate.","(DeKoter & Singh, 2000)",Is high-level PU.1 expression required in early hematopoiesis to commit progenitors to the myeloid fate?,Yes,Yes,
+4,High PU.1 concentrations drive macrophage differentiation.,"(DeKoter & Singh, 2000)",Do high PU.1 concentrations drive macrophage differentiation?,Yes,Yes,
+5,Lower PU.1 levels favor B-cell development.,"(DeKoter & Singh, 2000)",Do lower PU.1 levels favor B-cell development?,Yes,Yes,
+6,Lower PU.1 levels favor neutrophil development.,"(DeKoter & Singh, 2000)",Do lower PU.1 levels favor neutrophil development?,Yes,Idk,Passage gives no evidence that low PU.1 promotes neutrophil development
+7,PU.1 directly transactivates the promoter of the Colony-Stimulating Factor 1 Receptor (Csf1r).,"(Zhang et al., 1994)",Does PU.1 directly transactivate the promoter of Csf1r?,Yes,,
+8,The Colony-Stimulating Factor 1 Receptor (Csf1r) is an essential regulator of macrophage survival and proliferation.,"(Zhang et al., 1994)",Is Csf1r an essential regulator of macrophage survival and proliferation?,Yes,,
+9,"In mature macrophages, PU.1 functions as a pioneer transcription factor.","(Heinz et al., 2010)",Does PU.1 function as a pioneer transcription factor in mature macrophages?,Yes,Yes,
+10,"In mature macrophages, PU.1 binds to distal enhancers to establish an open chromatin landscape.","(Heinz et al., 2010)","In mature macrophages, does PU.1 bind distal enhancers to establish an open chromatin landscape?",Yes,Yes,
+11,The open chromatin landscape established by PU.1 in mature macrophages allows for the recruitment of signal-dependent factors like $NF-\kappa B$.,"(Heinz et al., 2010)",Does the open chromatin landscape established by PU.1 allow recruitment of signal-dependent factors like NF-κB?,Yes,Yes,
+12,PU.1 is required for the proper execution of the innate immune response.,"(Ghisletti et al., 2010)",Is PU.1 required for the proper execution of the innate immune response?,Yes,Idk,"Passage shows PU.1 needed for macrophage gene control, not explicitly entire innate response."
+13,PU.1 facilitates the recruitment of transcriptional machinery to pro-inflammatory gene loci following stimulation.,"(Ghisletti et al., 2010)",Does PU.1 facilitate recruitment of transcriptional machinery to pro-inflammatory gene loci following stimulation?,Yes,Yes,
+14,The absolute loss of PU.1 results in a complete failure of macrophage development in vivo.,"(Scott et al., 1994)",Does absolute loss of PU.1 result in a complete failure of macrophage development in vivo?,Yes,Yes,

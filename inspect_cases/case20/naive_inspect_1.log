@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['PAX3-FOXO1'], genes_file=None, context=['rhabdomyosarcoma'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='37968277', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 25 paragraphs, total text length: 37106 characters
+[PMID 37968277] Generating direct summary for PAX3-FOXO1 from full text...
+[PMID 37968277] Skipping verification for PAX3-FOXO1 (naive_inspect_1 mode)...
+
+real	0m45.223s
+user	0m3.310s
+sys	0m1.713s

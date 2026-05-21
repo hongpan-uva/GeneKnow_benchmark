@@ -1,0 +1,5 @@
+id,claim,question,claim_answer,summary_answer,answer_note
+1,MyoD1 is a master myogenic transcription factor in mouse C2C12 myoblasts.,Is MyoD1 a master myogenic transcription factor in mouse C2C12 myoblasts?,Yes,Idk,Passage doesn’t state MYOD1 is a 'master' transcription factor.
+2,MyoD1 drives myogenic differentiation.,Does MyoD1 drive myogenic differentiation?,Yes,Yes,
+3,MyoD1 enforces cell-cycle exit.,Does MyoD1 enforce cell-cycle exit?,Yes,Idk,Passage does not mention cell-cycle exit.
+4,"In TAFAZZIN-deficient (TAZ-KO) cells, repressed MyoD1 coincides with severe inhibition of myogenesis and absence of myosin heavy chain (MHC).","In TAZ-KO cells, does repressed MyoD1 coincide with severe inhibition of myogenesis and absence of MHC?",Yes,Idk,"Passage reports reduced differentiation, not severe inhibition or MHC absence."

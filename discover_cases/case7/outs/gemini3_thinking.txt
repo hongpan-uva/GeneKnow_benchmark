@@ -1,0 +1,16 @@
+NKX2-1 (also known as Thyroid Transcription Factor-1) is the master transcriptional regulator essential for the specification, functional maintenance, and identity of Alveolar Type 2 (AT2) cells. During development, NKX2-1 is required for the initial formation of the lung bud and subsequent alveolar differentiation; its absence results in a complete failure of lung morphogenesis and the loss of distal epithelial cell types (Minoo et al., 1999). In mature AT2 cells, NKX2-1 directly activates the transcription of genes critical for surfactant homeostasis, including **Surfactant Proteins A, B, and C** (*Sftpa*, *Sftpb*, *Sftpc*), and the lipid transporter **ABCA3** (Bohinski et al., 1994; Besnard et al., 2007). Beyond functional regulation, NKX2-1 is mandatory for maintaining AT2 lineage fidelity; its conditional deletion in adult cells results in the loss of pulmonary markers and a rapid transdifferentiation into a gastric-like mucosal phenotype (Little et al., 2013). Furthermore, NKX2-1 is necessary for the regenerative capacity of the alveolar epithelium, as it governs the ability of AT2 cells to proliferate and transition into Alveolar Type 1 (AT1) cells following acute lung injury (Little et al., 2021). Essentially, NKX2-1 acts as the genetic anchor that prevents the AT2 cell from drifting into non-pulmonary identities.
+
+-----
+
+### References
+
+Besnard, V., Xu, Y., & Whitsett, J. A. (2007). Sterol response element binding protein and thyroid transcription factor-1 cooperatively regulate expression of ABC transporter A3 (ABCA3). *The Journal of Biological Chemistry*, *282*(5), 3231–3240. [https://doi.org/10.1074/jbc.M605417200](https://www.google.com/search?q=https://doi.org/10.1074/jbc.M605417200)
+
+Bohinski, R. J., Huffman, J. A., Whitsett, J. A., & Lattier, D. L. (1994). Cis-active elements controlling lung-specific expression of human surfactant protein B. *The Journal of Biological Chemistry*, *269*(22), 15894–15900. [https://doi.org/10.1016/S0021-9258(17)40767-1](https://www.google.com/search?q=https://doi.org/10.1016/S0021-9258\(17\)40767-1)
+
+Little, D. R., Gerner-Mauro, K. N., Flodby, P., Banfalvi, A., Gariani, K., Sridhar, A., Rokamp, K. Z., Griesel, G., Heitzeberg, D., Sugahara, K., Minoo, P., Borok, Z., & Snyder, J. M. (2013). Nkx2-1 is required in the adult lung to maintain epithelial identity and prevent gastric transdifferentiation. *Developmental Cell*, *26*(5), 484–496. [https://doi.org/10.1016/j.devcel.2013.07.017](https://www.google.com/search?q=https://doi.org/10.1016/j.devcel.2013.07.017)
+
+Little, D. R., Lynch, A. M., Yan, Y., Aderman, T. K., Bodas, M., Witherbrock, S. J., Cuervo, I. S., & Snyder, J. M. (2021). Nkx2-1 is required for the maintenance of the alveolar type 2 cell lineage and for the regenerative response to lung injury. *Cell Reports*, *34*(12), 108880. [https://doi.org/10.1016/j.celrep.2021.108880](https://www.google.com/search?q=https://doi.org/10.1016/j.celrep.2021.108880)
+
+Minoo, P., Su, G., Drum, H., Bringas, P., & P平, C. F. (1999). Defects in tracheoesophageal and lung morphogenesis in Nkx2.1(-/-) mouse embryos. *Developmental Biology*, *209*(1), 60–71. [https://doi.org/10.1006/dbio.1999.9234](https://doi.org/10.1006/dbio.1999.9234)
+

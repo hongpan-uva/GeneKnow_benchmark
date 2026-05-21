@@ -1,0 +1,9 @@
+naive_inspect_1 mode: Namespace(genes=['FOXA1'], genes_file=None, context=['prostate cancer'], outdir=PosixPath('.'), name='naive_inspect_1', species='human', auto_alias=False, pmid='32946061', pmcid=None, suffix_allowed=True)
+Extracting full text from XML...
+Extracted 17 paragraphs, total text length: 20058 characters
+[PMID 32946061] Generating direct summary for FOXA1 from full text...
+[PMID 32946061] Skipping verification for FOXA1 (naive_inspect_1 mode)...
+
+real	0m44.731s
+user	0m3.575s
+sys	0m1.675s
