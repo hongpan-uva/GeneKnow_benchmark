@@ -1,0 +1,61 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,"The functional relationships between NOTCH1 and Acute Myeloid Leukemia, Acute Lymphoblastic Leukemia, Chronic Myeloid Leukemia, and Chronic Lymphocytic Leukemia have been extensively studied in peer-reviewed research articles.",,"Have the functional relationships between NOTCH1 and AML, ALL, CML, and CLL been extensively studied in peer-reviewed research articles?",Yes,,
+2,NOTCH1 is a critical regulator of self-renewal of hematopoietic stem cells.,,Is NOTCH1 a critical regulator of hematopoietic stem cell self-renewal?,Yes,,
+3,NOTCH1 is a critical regulator of survival of hematopoietic stem cells.,,Is NOTCH1 a critical regulator of hematopoietic stem cell survival?,Yes,,
+4,Activation of NOTCH1 is implicated in the development of AML.,,Is activation of NOTCH1 implicated in AML development?,Yes,,
+5,NOTCH1 mutations are found in approximately 25% of AML patients.,[7],Are NOTCH1 mutations found in approximately 25% of AML patients?,Yes,Idk,AML not discussed in passage.
+6,NOTCH1 mutations are associated with a poor prognosis in AML.,[7],Are NOTCH1 mutations associated with poor prognosis in AML?,Yes,Idk,AML prognosis not covered.
+7,NOTCH1 signaling is involved in the regulation of cell cycle progression in AML cells.,[2],Is NOTCH1 signaling involved in regulating cell cycle progression in AML cells?,Yes,Idk,Only CML discussed; AML cell cycle role not described.
+8,NOTCH1 signaling is involved in the regulation of apoptosis in AML cells.,[2],Is NOTCH1 signaling involved in regulating apoptosis in AML cells?,Yes,Idk,Apoptosis effects reported in CML cells; AML not discussed.
+9,NOTCH1 signaling is involved in the regulation of differentiation in AML cells.,[2],Is NOTCH1 signaling involved in regulating differentiation in AML cells?,Yes,Idk,No information on NOTCH1 regulating differentiation in AML.
+10,Inhibitors of gamma-secretase have been shown to reduce AML cell growth.,[3],Have gamma-secretase inhibitors been shown to reduce AML cell growth?,Yes,Idk,Passage doesn't discuss gamma-secretase inhibitors in AML.
+11,Inhibitors of gamma-secretase have been shown to induce apoptosis in AML cells through the downregulation of HIF1α.,[3],Have gamma-secretase inhibitors been shown to induce AML cell apoptosis via HIF1α downregulation?,Yes,Idk,No mention of HIF1α or GSI-induced apoptosis in AML.
+12,Inhibitors of gamma-secretase have been shown to induce apoptosis in AML cells through the induction of metabolic shut-down.,[3],Have gamma-secretase inhibitors been shown to induce AML cell apoptosis through metabolic shut-down?,Yes,Idk,No data on GSI causing metabolic shutdown in AML.
+13,Inhibitors of gamma-secretase have been shown to induce apoptosis in AML cells through the induction of redox imbalance.,[3],Have gamma-secretase inhibitors been shown to induce AML cell apoptosis through redox imbalance?,Yes,Idk,No data on GSI causing redox imbalance in AML.
+14,The NOTCH1 pathway in AML can be targeted by inhibiting mitochondrial complex I.,[3],Can the NOTCH1 pathway in AML be targeted by inhibiting mitochondrial complex I?,Yes,Idk,NOTCH1 in AML and complex I targeting not addressed.
+15,Inhibiting mitochondrial complex I causes potent growth inhibition in AML cells.,[3],Does inhibiting mitochondrial complex I cause potent growth inhibition in AML cells?,Yes,Idk,AML growth inhibition by complex I inhibition not shown here.
+16,Inhibiting mitochondrial complex I induces metabolic shut-down in AML cells.,[3],Does inhibiting mitochondrial complex I induce metabolic shut-down in AML cells?,Yes,Idk,"Metabolic shutdown upon complex I inhibition shown for T-ALL, not AML."
+17,Inhibiting mitochondrial complex I induces redox imbalance in AML cells.,[3],Does inhibiting mitochondrial complex I induce redox imbalance in AML cells?,Yes,Idk,"Redox imbalance upon complex I inhibition shown for T-ALL, not AML."
+18,Inhibitors of gamma-secretase activate NOTCH1 in AML.,,Do gamma-secretase inhibitors activate NOTCH1 in AML?,Yes,,
+19,NOTCH1 is frequently activated in T-ALL.,[3],Is NOTCH1 frequently activated in T-ALL?,Yes,Yes,
+20,NOTCH1 plays a crucial role in the pathogenesis of T-ALL.,[3],Does NOTCH1 play a crucial role in T-ALL pathogenesis?,Yes,Yes,
+21,NOTCH1 mutations are found in approximately 50% of T-ALL patients.,[3],Are NOTCH1 mutations found in approximately 50% of T-ALL patients?,Yes,Idk,No prevalence percentage provided for NOTCH1 mutations.
+22,NOTCH1 mutations are associated with a poorer prognosis in T-ALL.,[3],Are NOTCH1 mutations associated with poorer prognosis in T-ALL?,Yes,Idk,Prognostic impact of NOTCH1 mutations in T-ALL not discussed.
+23,NOTCH1 signaling is involved in the regulation of cell cycle progression in T-ALL cells.,[3],Is NOTCH1 signaling involved in regulating cell cycle progression in T-ALL cells?,Yes,Yes,
+24,NOTCH1 signaling is involved in the regulation of apoptosis in T-ALL cells.,[3],Is NOTCH1 signaling involved in regulating apoptosis in T-ALL cells?,Yes,Yes,
+25,NOTCH1 signaling is involved in the regulation of differentiation in T-ALL cells.,[3],Is NOTCH1 signaling involved in regulating differentiation in T-ALL cells?,Yes,Idk,"Differentiation regulation mentioned for normal thymocytes, not T-ALL cells."
+26,Inhibitors of gamma-secretase have been shown to reduce T-ALL cell growth.,[3],Have gamma-secretase inhibitors been shown to reduce T-ALL cell growth?,Yes,Idk,GSI effects on T-ALL growth not detailed.
+27,Inhibitors of gamma-secretase have been shown to induce apoptosis in T-ALL cells by promoting the degradation of HIF1α.,[3],Have gamma-secretase inhibitors been shown to induce T-ALL cell apoptosis by promoting HIF1α degradation?,Yes,Idk,No mention of HIF1α degradation by GSI in T-ALL.
+28,The NOTCH1 pathway in T-ALL can be targeted by inhibiting mitochondrial complex I.,[3],Can the NOTCH1 pathway in T-ALL be targeted by inhibiting mitochondrial complex I?,Yes,Yes,
+29,Inhibiting mitochondrial complex I causes potent growth inhibition in T-ALL cells.,[3],Does inhibiting mitochondrial complex I cause potent growth inhibition in T-ALL cells?,Yes,Yes,
+30,Inhibiting mitochondrial complex I induces metabolic shut-down in T-ALL cells.,[3],Does inhibiting mitochondrial complex I induce metabolic shut-down in T-ALL cells?,Yes,Yes,
+31,Inhibiting mitochondrial complex I induces redox imbalance in T-ALL cells.,[3],Does inhibiting mitochondrial complex I induce redox imbalance in T-ALL cells?,Yes,Yes,
+32,Inhibitors of gamma-secretase activate NOTCH1 in T-ALL.,,Do gamma-secretase inhibitors activate NOTCH1 in T-ALL?,Yes,,
+33,NOTCH1 signaling is dysregulated in CML.,[0],Is NOTCH1 signaling dysregulated in CML?,Yes,Yes,
+34,NOTCH1 plays a crucial role in the pathogenesis of CML.,[0],Does NOTCH1 play a crucial role in CML pathogenesis?,Yes,Idk,Notch1 specific crucial role in CML pathogenesis not explicitly stated.
+35,NOTCH1 mutations are found in approximately 10% of CML patients.,[7],Are NOTCH1 mutations found in approximately 10% of CML patients?,Yes,Idk,CML not discussed.
+36,NOTCH1 mutations are associated with a poorer prognosis in CML.,[7],Are NOTCH1 mutations associated with poorer prognosis in CML?,Yes,Idk,CML prognosis not covered.
+37,NOTCH1 signaling is involved in the regulation of cell cycle progression in CML cells.,[0],Is NOTCH1 signaling involved in regulating cell cycle progression in CML cells?,Yes,Idk,No explicit link between Notch1 and cell cycle in CML cells.
+38,NOTCH1 signaling is involved in the regulation of apoptosis in CML cells.,[0],Is NOTCH1 signaling involved in regulating apoptosis in CML cells?,Yes,Idk,"Passage links Notch signaling to survival, not Notch1-specific apoptosis regulation."
+39,NOTCH1 signaling is involved in the regulation of differentiation in CML cells.,[0],Is NOTCH1 signaling involved in regulating differentiation in CML cells?,Yes,Idk,"Differentiation regulation shown for Notch signaling overall, not specifically Notch1."
+40,Inhibitors of gamma-secretase have been shown to reduce CML cell growth.,[0],Have gamma-secretase inhibitors been shown to reduce CML cell growth?,Yes,Idk,No report of GSI reducing CML cell growth in passage.
+41,Inhibitors of gamma-secretase have been shown to induce apoptosis in CML cells by promoting the degradation of HIF1α.,[0],Have gamma-secretase inhibitors been shown to induce CML cell apoptosis by promoting HIF1α degradation?,Yes,Idk,HIF1α and GSI-induced apoptosis in CML not discussed.
+42,The NOTCH1 pathway in CML can be targeted by inhibiting mitochondrial complex I.,[3],Can the NOTCH1 pathway in CML be targeted by inhibiting mitochondrial complex I?,Yes,Idk,CML and complex I targeting of NOTCH1 not covered.
+43,Inhibiting mitochondrial complex I causes potent growth inhibition in CML cells.,[3],Does inhibiting mitochondrial complex I cause potent growth inhibition in CML cells?,Yes,Idk,CML growth inhibition by complex I inhibition not shown.
+44,Inhibiting mitochondrial complex I induces metabolic shut-down in CML cells.,[3],Does inhibiting mitochondrial complex I induce metabolic shut-down in CML cells?,Yes,Idk,Metabolic shutdown upon complex I inhibition in CML not shown.
+45,Inhibiting mitochondrial complex I induces redox imbalance in CML cells.,[3],Does inhibiting mitochondrial complex I induce redox imbalance in CML cells?,Yes,Idk,Redox imbalance upon complex I inhibition in CML not shown.
+46,Inhibitors of gamma-secretase activate NOTCH1 in CML.,,Do gamma-secretase inhibitors activate NOTCH1 in CML?,Yes,,
+47,NOTCH1 is activated in approximately 50% of CLL patients.,[7],Is NOTCH1 activated in approximately 50% of CLL patients?,Yes,Yes,
+48,NOTCH1 plays a crucial role in the pathogenesis of CLL.,[7],Does NOTCH1 play a crucial role in CLL pathogenesis?,Yes,Idk,Passage does not state a “crucial” role explicitly.
+49,NOTCH1 mutations are found in approximately 10% of CLL patients.,[7],Are NOTCH1 mutations found in approximately 10% of CLL patients?,Yes,No,"Passage reports up to 20% in CLL, not ~10%."
+50,NOTCH1 mutations are associated with a poorer prognosis in CLL.,[7],Are NOTCH1 mutations associated with poorer prognosis in CLL?,Yes,Yes,
+51,NOTCH1 signaling is involved in the regulation of cell cycle progression in CLL cells.,[7],Is NOTCH1 signaling involved in regulating cell cycle progression in CLL cells?,Yes,Idk,Cell cycle progression not mentioned.
+52,NOTCH1 signaling is involved in the regulation of apoptosis in CLL cells.,[7],Is NOTCH1 signaling involved in regulating apoptosis in CLL cells?,Yes,Yes,
+53,NOTCH1 signaling is involved in the regulation of differentiation in CLL cells.,[7],Is NOTCH1 signaling involved in regulating differentiation in CLL cells?,Yes,Idk,Differentiation not mentioned.
+54,Inhibitors of gamma-secretase have been shown to reduce CLL cell growth.,[7],Have gamma-secretase inhibitors been shown to reduce CLL cell growth?,Yes,Idk,Gamma-secretase inhibitors not discussed.
+55,Inhibitors of gamma-secretase have been shown to induce apoptosis in CLL cells by promoting the degradation of HIF1α.,[7],Have gamma-secretase inhibitors been shown to induce CLL cell apoptosis by promoting HIF1α degradation?,Yes,Idk,No mention of HIF1α or such mechanism.
+56,The NOTCH1 pathway in CLL can be targeted by inhibiting mitochondrial complex I.,[3],Can the NOTCH1 pathway in CLL be targeted by inhibiting mitochondrial complex I?,Yes,Idk,CLL and complex I targeting of NOTCH1 not covered.
+57,Inhibiting mitochondrial complex I causes potent growth inhibition in CLL cells.,[3],Does inhibiting mitochondrial complex I cause potent growth inhibition in CLL cells?,Yes,Idk,CLL growth inhibition by complex I inhibition not shown.
+58,Inhibiting mitochondrial complex I induces metabolic shut-down in CLL cells.,[3],Does inhibiting mitochondrial complex I induce metabolic shut-down in CLL cells?,Yes,Idk,Metabolic shutdown upon complex I inhibition in CLL not shown.
+59,Inhibiting mitochondrial complex I induces redox imbalance in CLL cells.,[3],Does inhibiting mitochondrial complex I induce redox imbalance in CLL cells?,Yes,Idk,Redox imbalance upon complex I inhibition in CLL not shown.
+60,Inhibitors of gamma-secretase activate NOTCH1 in CLL.,,Do gamma-secretase inhibitors activate NOTCH1 in CLL?,Yes,,

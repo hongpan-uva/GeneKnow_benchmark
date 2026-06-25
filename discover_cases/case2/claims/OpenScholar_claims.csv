@@ -1,0 +1,22 @@
+id,claim,citation,question,claim_answer
+1,PU.1 (Spi1) plays a crucial role in regulating macrophage development.,[0];[2];[4],Does PU.1 (Spi1) play a crucial role in regulating macrophage development?,Yes
+2,PU.1 (Spi1) plays a crucial role in regulating macrophage function.,[0];[2];[4],Does PU.1 (Spi1) play a crucial role in regulating macrophage function?,Yes
+3,PU.1 (Spi1) plays a crucial role in regulating the macrophage inflammatory response.,[0];[2];[4],Does PU.1 (Spi1) play a crucial role in regulating the macrophage inflammatory response?,Yes
+4,PU.1 is a transcription factor.,[2];[6],Is PU.1 a transcription factor?,Yes
+5,PU.1 is essential for myeloid cell development.,[2];[6],Is PU.1 essential for myeloid cell development?,Yes
+6,PU.1 is involved in the regulation of various macrophage-specific genes.,[2];[6],Is PU.1 involved in regulating various macrophage-specific genes?,Yes
+7,PU.1 is involved in regulating the microglial/macrophage inflammatory response via the PI3K/AKT/mTOR signaling pathway.,[1],Is PU.1 involved in regulating the microglial/macrophage inflammatory response via PI3K/AKT/mTOR signaling?,Yes
+8,PU.1 expression levels can modulate the microglial/macrophage transcriptome.,[1],Can PU.1 expression levels modulate the microglial/macrophage transcriptome?,Yes
+9,PU.1 can regulate the expression of pro-inflammatory cytokines.,[0];[4];[7],Can PU.1 regulate the expression of pro-inflammatory cytokines?,Yes
+10,PU.1 can regulate the phagocytic uptake of macrophages.,[0];[4];[7],Can PU.1 regulate macrophage phagocytic uptake?,Yes
+11,"PU.1 has been shown to interact with other transcription factors, such as Ets-2 and Elf-1, to regulate the transcription of macrophage-specific genes.",[6],Has PU.1 been shown to interact with Ets-2 and Elf-1 to regulate macrophage-specific genes?,Yes
+12,PU.1 can bind to the promoter of Ccl22 to regulate Ccl22 expression in dendritic cells and macrophages.,[8],Can PU.1 bind the Ccl22 promoter to regulate Ccl22 expression in dendritic cells and macrophages?,Yes
+13,PU.1 can bind to the promoter of Ccl7 to regulate Ccl7 expression in dendritic cells and macrophages.,[7],Can PU.1 bind the Ccl7 promoter to regulate Ccl7 expression in dendritic cells and macrophages?,Yes
+14,PU.1 can bind to the promoter of vascular endothelial growth factor A.,[9],Can PU.1 bind the vascular endothelial growth factor A promoter?,Yes
+15,PU.1 can facilitate angiogenesis.,[9],Can PU.1 facilitate angiogenesis?,Yes
+16,PU.1 can regulate macrophage polarization.,[9],Can PU.1 regulate macrophage polarization?,Yes
+17,PU.1+CD68+ macrophages have been identified as a biomarker for gastric cancer metastasis.,[9],Have PU.1+CD68+ macrophages been identified as a biomarker for gastric cancer metastasis?,Yes
+18,"The level of SPI1+CD68+ TAMs infiltration has been shown to be closely related to the efficacy of immunotherapy, especially when combined with antiangiogenic therapy.",[9],"Is SPI1+CD68+ TAM infiltration closely related to immunotherapy efficacy, especially when combined with antiangiogenic therapy?",Yes
+19,Dysregulation of PU.1 has been implicated in Alzheimer's disease.,[0],Has PU.1 dysregulation been implicated in Alzheimer's disease?,Yes
+20,Dysregulation of PU.1 has been implicated in intracerebral hemorrhage.,[1],Has PU.1 dysregulation been implicated in intracerebral hemorrhage?,Yes
+21,Dysregulation of PU.1 has been implicated in cancer.,[7];[9],Has PU.1 dysregulation been implicated in cancer?,Yes

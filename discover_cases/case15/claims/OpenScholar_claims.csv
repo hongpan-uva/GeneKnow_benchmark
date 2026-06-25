@@ -1,0 +1,34 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,FOXA1 is a transcription factor that plays a crucial role in prostate cancer development and progression.,[1],Is FOXA1 a transcription factor crucial for prostate cancer development and progression?,Yes,Yes,
+2,"Research has revealed several functional relationships between FOXA1 and prostate cancer, highlighting FOXA1's diverse roles in different stages of the disease.",[2],Has research identified multiple functional relationships between FOXA1 and prostate cancer across disease stages?,Yes,Idk,Passage only shows FOXA1 regulating PUS1; no stages or multiple relationships described.
+3,FOXA1 has been shown to regulate alternative splicing in prostate cancer.,[4],Has FOXA1 been shown to regulate alternative splicing in prostate cancer?,Yes,Yes,
+4,"FOXA1 has a role in rewiring the alternative splicing landscape in prostate cancer through a cascade from chromatin access, to splicing factor regulation, and to alternative splicing of exons influencing patient survival.",[4],Does FOXA1 rewire prostate cancer alternative splicing via chromatin access and splicing factor regulation?,Yes,Yes,
+5,The FOXA1 transcription factor pioneers androgen receptor (AR) chromatin binding in the prostate epithelium.,[6],Does FOXA1 pioneer androgen receptor chromatin binding in prostate epithelium?,Yes,Idk,Mentions FOXA1 modulates AR in prostate cancer cells; not specific to prostate epithelium.
+6,FOXA1 is reprogrammed to neuroendocrine-specific regulatory elements in neuroendocrine prostate cancer (NEPC).,[7],"In NEPC, is FOXA1 reprogrammed to neuroendocrine-specific regulatory elements?",Yes,Yes,
+7,FOXA1 regulates the expression of NSUN2.,[8],Does FOXA1 regulate NSUN2 expression?,Yes,Yes,
+8,"NSUN2 enhances the stability of TRIM28 mRNA by adding m5C modification, promoting the expression of TRIM28.",[8],"Does NSUN2 enhance TRIM28 mRNA stability via m5C, promoting TRIM28 expression?",Yes,Yes,
+9,FOXA1 can be repressed by SETD7.,[9],Can SETD7 repress FOXA1?,Yes,Yes,
+10,SETD7 negatively regulates the FOXA1-LSD1 axis.,[9],Does SETD7 negatively regulate the FOXA1-LSD1 axis?,Yes,Yes,
+11,FOXA1 has been shown to regulate the expression of HNRNPK.,[4],Does FOXA1 regulate HNRNPK expression?,Yes,Yes,
+12,FOXA1 has been shown to regulate the expression of SRSF1.,[4],Does FOXA1 regulate SRSF1 expression?,Yes,Yes,
+13,FOXA1 has been identified as a tumor suppressor in early prostate cancer.,[1],Is FOXA1 a tumor suppressor in early prostate cancer?,Yes,No,"In localized cancer, FOXA1 is upregulated and promotes proliferation, not suppression."
+14,"In advanced stages of prostate cancer, FOXA1 acts as an oncogene.",[0],"In advanced prostate cancer, does FOXA1 act as an oncogene?",Yes,Yes,
+15,FOXA1 promotes the development and progression of prostate cancer through activation of the androgen receptor (AR) pathway.,[0];[1],Does FOXA1 promote prostate cancer by activating the androgen receptor pathway?,Yes,Yes,
+16,FOXA1 promotes the development and progression of prostate cancer through the regulation of alternative splicing.,[4],Does FOXA1 promote prostate cancer through regulating alternative splicing?,Yes,Yes,
+17,FOXA1 promotes the development and progression of prostate cancer through the inhibition of cell motility and epithelial-to-mesenchymal transition (EMT).,[1],Does FOXA1 promote prostate cancer by inhibiting cell motility and EMT?,Yes,No,"FOXA1 inhibits motility/EMT, thereby suppressing metastasis, not promoting cancer."
+18,FOXA1 has been linked to the regulation of cell growth in prostate cancer cells.,[0];[1],Is FOXA1 linked to regulation of cell growth in prostate cancer cells?,Yes,Yes,
+19,FOXA1 has been linked to the regulation of proliferation in prostate cancer cells.,[0];[1],Is FOXA1 linked to regulation of proliferation in prostate cancer cells?,Yes,Yes,
+20,FOXA1 has been linked to the regulation of apoptosis in prostate cancer cells.,[0];[1],Is FOXA1 linked to regulation of apoptosis in prostate cancer cells?,Yes,Yes,
+21,FOXA1 plays a role in the development of hormone-independent prostate cancer.,[1],Does FOXA1 play a role in developing hormone-independent prostate cancer?,Yes,Idk,"Passage shows AR-independent functions, not explicit role in developing hormone independence."
+22,"In hormone-independent prostate cancer, FOXA1 promotes cell growth and survival through androgen receptor-independent mechanisms.",[1],"In hormone-independent prostate cancer, does FOXA1 promote growth and survival via AR-independent mechanisms?",Yes,No,"FOXA1-driven growth requires AR; AR-independent role inhibits motility, not growth/survival."
+23,"FOXA1 has been shown to regulate the expression of genes involved in prostate cancer progression, such as the WNT pathway.",[0],Does FOXA1 regulate expression of genes in pathways like WNT during prostate cancer progression?,Yes,Yes,
+24,FOXA1 has been shown to regulate the epigenetic regulation of gene expression.,[8],Has FOXA1 been shown to regulate epigenetic control of gene expression?,Yes,Yes,
+25,FOXA1 has been implicated in the development of neuroendocrine prostate cancer (NEPC).,[7],Has FOXA1 been implicated in the development of neuroendocrine prostate cancer?,Yes,Yes,
+26,"In neuroendocrine prostate cancer (NEPC), FOXA1 is required for proliferation.",[7],"In NEPC, is FOXA1 required for proliferation?",Yes,Yes,
+27,"In neuroendocrine prostate cancer (NEPC), FOXA1 is required for expression of neuroendocrine lineage-defining genes.",[7],"In NEPC, is FOXA1 required for neuroendocrine lineage-defining gene expression?",Yes,Yes,
+28,FOXA1-dependent NSUN2 facilitates the advancement of prostate cancer by preserving TRIM28 mRNA stability in a m5C-dependent manner.,[8],Does FOXA1-dependent NSUN2 promote prostate cancer by preserving TRIM28 mRNA stability via m5C?,Yes,Yes,
+29,SETD7 functions as a transcription repressor in prostate cancer via methylating FOXA1.,[9],Does SETD7 act as a transcriptional repressor in prostate cancer by methylating FOXA1?,Yes,Yes,
+30,FOXA1 dysregulation can lead to cancer progression.,[3],Can FOXA1 dysregulation lead to cancer progression?,Yes,Yes,
+31,"In neuroendocrine prostate cancer (NEPC), FOXA1 maintains FOXA1 expression.",,"In NEPC, does FOXA1 maintain its own expression?",Yes,,
+32,"In neuroendocrine prostate cancer (NEPC), FOXA1 contributes to the disease's aggressiveness.",,"In NEPC, does FOXA1 contribute to disease aggressiveness?",Yes,,
+33,The regulation of FOXA1 is crucial for the development and progression of prostate cancer.,[0],Is FOXA1 regulation crucial for prostate cancer development and progression?,Yes,Yes,

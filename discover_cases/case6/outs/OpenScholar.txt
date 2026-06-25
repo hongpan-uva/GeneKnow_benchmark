@@ -1,0 +1,19 @@
+## NEUROD1 — neurons or neuronal differentiation
+
+**Query:** What functional relationships between NEUROD1 (NEUROD) and neurons or neuronal differentiation have been directly reported in peer-reviewed research articles?
+
+[Response_Start] NEUROD1 (NEUROD) has been directly linked to various aspects of neuronal development and differentiation. Key findings include its role in initiating differentiation of induced pluripotent stem cells into neural progenitor cells [1], promoting axonal regeneration in adult spinal neurons [2], and reprogramming Müller cells into retinal neurons in adult mice [3]. Additionally, NeuroD1 administration has been found to promote neurogenesis and alleviate neurocognitive dysfunction in a mouse model of subarachnoid hemorrhage [4]. Furthermore, NeuroD1 has been implicated in the regulation of microRNA-124, which plays a crucial role in the transition states of neuronal development [6]. In vivo neuronal reprogramming using NeuroD1 has also been shown to regenerate spinal cord neurons from reactive astrocytes after spinal cord injury [7]. Moreover, NeuroD1 has been identified as an intrinsic factor for neuronal differentiation through induction of proneural genes, including POU3F2 and NEUROD1 [8]. Lastly, miR-30a-5p and miR-153-3p have been found to regulate NeuroD1 and reduce LPS-induced neuroinflammatory response and neuronal apoptosis [9]. These findings demonstrate the importance of NeuroD1 in neuronal development and differentiation, and highlight its potential as a therapeutic target for neurological disorders.
+
+**References**
+
+- [1] W. Choi, Ji-Hyun Hwang, Ann-Na Cho, Andrew J. Lee, Inkyung Jung, Seung‐Woo Cho et al.. NEUROD1 Intrinsically Initiates Differentiation of Induced Pluripotent Stem Cells into Neural Progenitor Cells. n.d.. Citations: 16. https://www.semanticscholar.org/paper/a224d5718c2b503e3b66bcfb1de9501387ecb4be
+- [2] Muhua Lai, Mengjie Pan, Longjiao Ge, Jingmin Liu, Junyao Deng, Xianghai Wang et al.. NeuroD1 overexpression in spinal neurons accelerates axonal regeneration after sciatic nerve injury.. n.d.. Citations: 23. https://www.semanticscholar.org/paper/798229796fa846a88c54e24dbafe1ebcbe3ec41f
+- [3] Di Xu, L. Zhong, Haiyang Cheng, Zeng-Qiang Wang, Xiong-Min Chen, Ai-Ying Feng et al.. Overexpressing NeuroD1 reprograms Müller cells into various types of retinal neurons. n.d.. Citations: 25. https://www.semanticscholar.org/paper/5f17e8bd2d724529fc5e0b25e127bc789cfa3788
+- [4] Ping Chen, Xue-Yan Liu, Mou-Hui Lin, Yu-xi Li, De-zhi Kang, Zu-Cheng Ye et al.. NeuroD1 administration ameliorated neuroinflammation and boosted neurogenesis in a mouse model of subarachnoid hemorrhage. n.d.. Citations: 24. https://www.semanticscholar.org/paper/cc2613df6266b90fc5810a200f54d528a95bdf40
+- [6] K. Konrad, Jia L. Song. microRNA-124 regulates Notch and NeuroD1 to mediate transition states of neuronal development. n.d.. Citations: 10. https://www.semanticscholar.org/paper/e89058a1ed05a1b25d50f30f4354f24cbcf99fdd
+- [7] B. Puls, Yan Ding, Fengyu Zhang, Mengjie Pan, Zhuofan Lei, Zifei Pei et al.. Regeneration of Functional Neurons After Spinal Cord Injury via in situ NeuroD1-Mediated Astrocyte-to-Neuron Conversion. n.d.. Citations: 98. https://www.semanticscholar.org/paper/c0817caba8780a1488a298567b59f35843b74f2b
+- [8] Wonyoung Choi, M. Choe, Su Min Kim, So Jin Kim, Jiyeon Lee, Yeongun Lee et al.. RFX4 is an intrinsic factor for neuronal differentiation through induction of proneural genes POU3F2 and NEUROD1. n.d.. Citations: 17. https://www.semanticscholar.org/paper/adddc1d5b885ea518b6d0e06d53b3db8d792ebeb
+- [9] Hye-Rim Choi, Ji-Sun Ha, Eun-A Kim, Sung-Woo Cho, S. Yang. MiR-30a-5p and miR-153-3p regulate LPS-induced neuroinflammatory response and neuronal apoptosis by targeting NeuroD1. n.d.. Citations: 15. https://www.semanticscholar.org/paper/4929b557bb0484aa94772fdcc4fcac9362ef89a3
+
+---
+

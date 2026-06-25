@@ -1,0 +1,12 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,NEUROD1 has a role in initiating differentiation of induced pluripotent stem cells into neural progenitor cells.,[1],Does NEUROD1 play a role in initiating iPSC differentiation into neural progenitor cells?,Yes,Yes,
+2,NEUROD1 promotes axonal regeneration in adult spinal neurons.,[2],Does NEUROD1 promote axonal regeneration in adult spinal neurons?,Yes,Yes,
+3,NEUROD1 reprograms Müller cells into retinal neurons in adult mice.,[3],Does NEUROD1 reprogram Müller cells into retinal neurons in adult mice?,Yes,Yes,
+4,NeuroD1 administration has been found to promote neurogenesis in a mouse model of subarachnoid hemorrhage.,[4],Does NeuroD1 administration promote neurogenesis in a mouse model of subarachnoid hemorrhage?,Yes,Yes,
+5,NeuroD1 administration has been found to alleviate neurocognitive dysfunction in a mouse model of subarachnoid hemorrhage.,[4],Does NeuroD1 administration alleviate neurocognitive dysfunction in a mouse model of subarachnoid hemorrhage?,Yes,Yes,
+6,NeuroD1 has been implicated in the regulation of microRNA-124.,[6],Is NeuroD1 implicated in the regulation of microRNA-124?,Yes,Idk,"Passage shows miR-124 regulates NeuroD1, not vice versa."
+7,microRNA-124 plays a crucial role in the transition states of neuronal development.,[6],Does microRNA-124 play a crucial role in neuronal developmental transition states?,Yes,Yes,
+8,In vivo neuronal reprogramming using NeuroD1 has been shown to regenerate spinal cord neurons from reactive astrocytes after spinal cord injury.,[7],Has in vivo NeuroD1 reprogramming regenerated spinal cord neurons from reactive astrocytes after spinal cord injury?,Yes,Yes,
+9,"NeuroD1 has been identified as an intrinsic factor for neuronal differentiation through induction of proneural genes, including POU3F2 and NEUROD1.",[8],Has NeuroD1 been identified as an intrinsic factor for neuronal differentiation by inducing proneural genes like POU3F2 and NEUROD1?,Yes,No,The passage identifies RFX4—not NEUROD1—as the intrinsic upstream regulator of POU3F2/NEUROD1.
+10,miR-30a-5p and miR-153-3p have been found to regulate NeuroD1.,[9],Do miR-30a-5p and miR-153-3p regulate NeuroD1?,Yes,Yes,
+11,miR-30a-5p and miR-153-3p have been found to reduce LPS-induced neuroinflammatory response and neuronal apoptosis.,[9],Do miR-30a-5p and miR-153-3p reduce LPS-induced neuroinflammation and neuronal apoptosis?,Yes,Yes,

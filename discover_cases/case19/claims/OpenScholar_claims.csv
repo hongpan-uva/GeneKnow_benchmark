@@ -1,0 +1,18 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,FOXR2 promotes the formation of CNS-embryonal tumors in a Trp53-deficient background,[1],Does FOXR2 promote CNS-embryonal tumor formation in a Trp53-deficient background?,Yes,Yes,
+2,FOXR2 stabilizes MYCN protein,[0],Does FOXR2 stabilize MYCN protein?,Yes,Yes,
+3,FOXR2 increases MYCN protein levels,[0],Does FOXR2 increase MYCN protein levels?,Yes,Yes,
+4,FOXR2 is an alternative mechanism to MYCN amplification for tumor initiation,[0],Is FOXR2 an alternative to MYCN amplification for tumor initiation?,Yes,Idk,"Passage says alternative for protein levels, not explicitly tumor initiation."
+5,The study by [0] demonstrated that FOXR2-expressing tumors are very similar to MYCN-amplified tumors,[0],Did the study by [0] show FOXR2-expressing tumors resemble MYCN-amplified tumors?,Yes,Yes,
+6,The study by [0] suggested a common mechanism of tumor initiation for FOXR2-expressing tumors and MYCN-amplified tumors,[0],Did the study by [0] suggest a common initiation mechanism for FOXR2-expressing and MYCN-amplified tumors?,Yes,Yes,
+7,FOXR2 interacts with N-MYC,[2],Does FOXR2 interact with N-MYC?,Yes,Yes,
+8,FOXR2 increases C-MYC protein stability,[2],Does FOXR2 increase C-MYC protein stability?,Yes,Yes,
+9,FOXR2 activates FAK/SRC signaling,[2],Does FOXR2 activate FAK/SRC signaling?,Yes,Yes,
+10,FOXR2 is a putative proto-oncogene for medulloblastoma,[2],Is FOXR2 a putative proto-oncogene for medulloblastoma?,Yes,Yes,
+11,FOXR2 is a putative proto-oncogene for CNS-PNET,[2],Is FOXR2 a putative proto-oncogene for CNS-PNET?,Yes,Yes,
+12,"FOXR2 is associated with a subset of human embryonal tumors of the CNS, designated as CNS neuroblastoma with FOXR2 activation (CNS NB-FOXR2)",[1],Is FOXR2 associated with a subset of CNS embryonal tumors designated CNS NB-FOXR2?,Yes,Yes,
+13,FOXR2 is a diagnostic marker for CNS neuroblastoma with FOXR2 activation (CNS NB-FOXR2),[5],Is FOXR2 a diagnostic marker for CNS NB-FOXR2?,Yes,Yes,
+14,"FOXR2 expression identifies a group of patients with unfavorable clinical outcome, distinct from MYCN-amplified tumors",[0],Does FOXR2 expression identify a poor-outcome group distinct from MYCN-amplified tumors?,Yes,Yes,
+15,SOX10 expression discriminates CNS NB-FOXR2 from other tumors exhibiting CNS-PNET-like microscopic appearance,[7],Does SOX10 expression discriminate CNS NB-FOXR2 from other CNS-PNET-like tumors?,Yes,Yes,
+16,ANKRD55 expression discriminates CNS NB-FOXR2 from other tumors exhibiting CNS-PNET-like microscopic appearance,[7],Does ANKRD55 expression discriminate CNS NB-FOXR2 from other CNS-PNET-like tumors?,Yes,Yes,
+17,"FOXR2 is a critical factor in the development and progression of neuroblastoma, including CNS neuroblastoma with FOXR2 activation (CNS NB-FOXR2)",[0],"Is FOXR2 critical for neuroblastoma development and progression, including CNS NB-FOXR2?",Yes,Idk,"Essential in cell lines; not explicit about development, progression, or CNS NB-FOXR2."

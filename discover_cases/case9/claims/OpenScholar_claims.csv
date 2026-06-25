@@ -1,0 +1,30 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,OLIG2 is expressed throughout the oligodendrocyte lineage.,[0],Is OLIG2 expressed throughout the oligodendrocyte lineage?,Yes,Yes,
+2,OLIG2 is necessary for oligodendrocyte specification.,[0],Is OLIG2 necessary for oligodendrocyte specification?,Yes,Yes,
+3,OLIG2 is necessary for oligodendrocyte differentiation.,[0],Is OLIG2 necessary for oligodendrocyte differentiation?,Yes,Yes,
+4,OLIG2 promotes the differentiation of oligodendrocyte progenitor cells (OPCs) into oligodendrocytes.,[0],Does OLIG2 promote differentiation of OPCs into oligodendrocytes?,Yes,Yes,
+5,OLIG2 regulates the expression of myelin-associated genes in oligodendrocytes.,[2],Does OLIG2 regulate myelin-associated gene expression in oligodendrocytes?,Yes,Yes,
+6,OLIG2 can recruit the tri-methyltransferase SETDB1 to the Sox11 gene.,[2],Can OLIG2 recruit the tri-methyltransferase SETDB1 to the Sox11 gene?,Yes,Yes,
+7,Recruitment of the tri-methyltransferase SETDB1 to the Sox11 gene by OLIG2 leads to repression of Sox11 during the differentiation of oligodendrocyte progenitor cells into immature oligodendrocytes.,[2],Does OLIG2-mediated SETDB1 recruitment to Sox11 repress Sox11 during OPC differentiation into immature oligodendrocytes?,Yes,Yes,
+8,Deletion of OLIG2 in immature oligodendrocytes can enhance oligodendrocyte maturation.,[5],Can deleting OLIG2 in immature oligodendrocytes enhance maturation?,Yes,No,Deletion impairs maturation; no enhancement observed in immature OLs.
+9,Deletion of OLIG2 in immature oligodendrocytes can enhance myelination.,[5],Can deleting OLIG2 in immature oligodendrocytes enhance myelination?,Yes,No,Deletion reduced myelination; did not enhance CNS myelination.
+10,OLIG2 is not required for the maturation of mature oligodendrocytes.,[5],Is OLIG2 not required for the maturation of mature oligodendrocytes?,Yes,Idk,Maturation of mature OLs isn’t addressed; only maintenance is discussed.
+11,OLIG2 regulates the expression of long non-coding RNAs (lncRNAs) in oligodendrocytes.,[3],Does OLIG2 regulate lncRNA expression in oligodendrocytes?,Yes,Yes,
+12,Long non-coding RNAs regulated by OLIG2 play a role in oligodendrocyte development.,,Do OLIG2-regulated lncRNAs play a role in oligodendrocyte development?,Yes,,
+13,Long non-coding RNAs regulated by OLIG2 play a role in oligodendrocyte differentiation.,,Do OLIG2-regulated lncRNAs contribute to oligodendrocyte differentiation?,Yes,,
+14,OLIG2 can also regulate its own expression through its 3' untranslated region (UTR).,[3],Can OLIG2 regulate its own expression via its 3' UTR?,Yes,Yes,
+15,OLIG2 can regulate the survival of oligodendrocyte progenitor cells (OPCs) through the DDX20-p53 axis.,[4],Can OLIG2 regulate OPC survival through the DDX20-p53 axis?,Yes,Idk,Not established; OPC Ddx20–p53 axis may function independently of Olig2.
+16,DDX20 is indispensable for the survival of neural progenitor cells (NPCs) and oligodendrocyte progenitor cells (OPCs).,[4],Is DDX20 indispensable for the survival of NPCs and OPCs?,Yes,Yes,
+17,OLIG2 contributes to NPC proliferation through DDX20 protein stabilization.,[4],Does OLIG2 promote NPC proliferation by stabilizing DDX20 protein?,Yes,Yes,
+18,Dysregulation of OLIG2 can lead to myelination defects.,[5],Can OLIG2 dysregulation lead to myelination defects?,Yes,Yes,
+19,Dysregulation of OLIG2 can lead to demyelinating diseases.,[5],Can OLIG2 dysregulation lead to demyelinating diseases?,Yes,Idk,No evidence that OLIG2 dysregulation causes demyelinating diseases.
+20,OLIG2 plays a critical role in oligodendrocyte development.,[5],Does OLIG2 play a critical role in oligodendrocyte development?,Yes,Yes,
+21,OLIG2 plays a critical role in oligodendrocyte differentiation.,[5],Does OLIG2 play a critical role in oligodendrocyte differentiation?,Yes,Yes,
+22,OLIG2 plays a critical role in oligodendrocyte function.,[5],Does OLIG2 play a critical role in oligodendrocyte function?,Yes,Yes,
+23,OLIG2 is involved in the regulation of myelin gene expression during myelination.,[2],Is OLIG2 involved in regulating myelin gene expression during myelination?,Yes,Yes,
+24,The development of OLIG2-OPCs has been explored for the treatment of ischemic stroke.,[6],Has OLIG2-OPC development been explored as a treatment for ischemic stroke?,Yes,Yes,
+25,"A stable, chemically defined protocol has been developed to generate OPCs/OLs from hiPSCs.",[6],"Has a stable, chemically defined protocol been developed to generate OPCs/OLs from hiPSCs?",Yes,Yes,
+26,"The stable, chemically defined protocol uses partial inhibition of Shh activity by GANT61.",[6],Does the protocol use partial inhibition of Shh activity by GANT61?,Yes,Yes,
+27,"The stable, chemically defined protocol sequentially induced the expression of the single TF Olig2.",[6],Does the protocol sequentially induce expression of the single transcription factor Olig2?,Yes,Yes,
+28,Olig2-OPC transplantation may be an ideal alternative approach for ischemic stroke rehabilitation therapy.,[6],May Olig2-OPC transplantation be an ideal alternative approach for ischemic stroke rehabilitation?,Yes,Yes,
+29,Regulation of myelin gene expression by OLIG2 is essential for proper myelination.,,Is OLIG2-mediated regulation of myelin gene expression essential for proper myelination?,Yes,,

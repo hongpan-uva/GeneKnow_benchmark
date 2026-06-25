@@ -1,0 +1,25 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,KLF4 inhibits epithelial-to-mesenchymal transition (EMT) in colorectal cancer (CRC).,[2];[3];[8],Does KLF4 inhibit EMT in colorectal cancer?,Yes,Yes,
+2,KLF4 promotes differentiation in colorectal cancer (CRC).,[2];[3];[8],Does KLF4 promote differentiation in colorectal cancer?,Yes,Idk,Differentiation in colorectal cancer not discussed.
+3,KLF4 suppresses cancer stem cell properties in colorectal cancer (CRC).,[2];[3];[8],Does KLF4 suppress cancer stem cell properties in colorectal cancer?,Yes,Idk,Cancer stem cell properties not mentioned.
+4,"KLF4 targets various genes involved in epithelial-to-mesenchymal transition, differentiation, and cancer stem cell properties in colorectal cancer (CRC), including SOX2, RAB26, and MMP2.",[4];[5];[8],"Does KLF4 target SOX2, RAB26, and MMP2 in colorectal cancer?",Yes,Idk,"Passage doesn't mention SOX2, RAB26, or MMP2 regulation by KLF4."
+5,"KLF4 regulates various genes involved in epithelial-to-mesenchymal transition, differentiation, and cancer stem cell properties in colorectal cancer (CRC), including SOX2, RAB26, and MMP2.",[4];[5];[8],"Does KLF4 regulate SOX2, RAB26, and MMP2 in colorectal cancer?",Yes,Idk,"No information on KLF4 regulating SOX2, RAB26, or MMP2 in CRC."
+6,KLF4 has been found to be downregulated in colorectal cancer (CRC) tissues.,[1];[4],Is KLF4 downregulated in colorectal cancer tissues?,Yes,Yes,
+7,KLF4 has been found to be downregulated in colorectal cancer (CRC) cell lines.,[1];[4],Is KLF4 downregulated in colorectal cancer cell lines?,Yes,Idk,"Passage shows KLF4 downregulated by miR-7-5p, not generally in CRC cell lines."
+8,KLF4 expression is negatively correlated with cancer stem cell properties in colorectal cancer (CRC).,[1];[4],Is KLF4 expression negatively correlated with cancer stem cell properties in colorectal cancer?,Yes,No,"KLF4 promotes CSC properties; restoring KLF4 increases stemness, indicating a positive correlation."
+9,KLF4 expression is negatively correlated with metastasis in colorectal cancer (CRC).,[1];[4],Is KLF4 expression negatively correlated with metastasis in colorectal cancer?,Yes,Yes,
+10,KLF4 overexpression inhibits cell proliferation in colorectal cancer (CRC) cells.,[5];[8],Does KLF4 overexpression inhibit proliferation in colorectal cancer cells?,Yes,Yes,
+11,KLF4 overexpression inhibits cell migration in colorectal cancer (CRC) cells.,[5];[8],Does KLF4 overexpression inhibit migration in colorectal cancer cells?,Yes,Yes,
+12,KLF4 overexpression inhibits cell invasion in colorectal cancer (CRC) cells.,[5];[8],Does KLF4 overexpression inhibit invasion in colorectal cancer cells?,Yes,Yes,
+13,KLF4 downregulation promotes cell proliferation in colorectal cancer (CRC) cells.,[5];[8],Does KLF4 downregulation promote proliferation in colorectal cancer cells?,Yes,Yes,
+14,KLF4 downregulation promotes cell migration in colorectal cancer (CRC) cells.,[5];[8],Does KLF4 downregulation promote migration in colorectal cancer cells?,Yes,Yes,
+15,KLF4 downregulation promotes cell invasion in colorectal cancer (CRC) cells.,[5];[8],Does KLF4 downregulation promote invasion in colorectal cancer cells?,Yes,Yes,
+16,KLF4 is a direct target of miR-29a in colorectal cancer (CRC).,[4];[5];[9],Is KLF4 a direct target of miR-29a in colorectal cancer?,Yes,Yes,
+17,KLF4 is a direct target of miR-543 in colorectal cancer (CRC).,[4];[5];[9],Is KLF4 a direct target of miR-543 in colorectal cancer?,Yes,Yes,
+18,KLF4 is a direct target of other microRNAs in colorectal cancer (CRC).,[4];[5];[9],Is KLF4 a direct target of other microRNAs in colorectal cancer?,Yes,Idk,Passage does not mention microRNAs targeting KLF4 in CRC.
+19,KLF4 downregulation promotes cancer stem cell-like properties in colorectal cancer (CRC).,[4];[5],Does KLF4 downregulation promote cancer stem cell-like properties in colorectal cancer?,Yes,Idk,Cancer stem cell-like properties are not examined in this study.
+20,KLF4 overexpression inhibits cancer stem cell-like properties in colorectal cancer (CRC).,[4];[5],Does KLF4 overexpression inhibit cancer stem cell-like properties in colorectal cancer?,Yes,Idk,No data on KLF4 overexpression affecting cancer stem cell-like properties.
+21,KLF4 is downregulated in oxaliplatin-resistant colorectal cancer (CRC) cells.,[3],Is KLF4 downregulated in oxaliplatin-resistant colorectal cancer cells?,Yes,Yes,
+22,KLF4 overexpression can restore oxaliplatin sensitivity in colorectal cancer (CRC) cells.,[3],Can KLF4 overexpression restore oxaliplatin sensitivity in colorectal cancer cells?,Yes,Idk,Passage shows KLF4 represses PiHL but not oxaliplatin sensitivity restoration.
+23,KLF4 targets RAB26 to inhibit autophagy in CC cells.,[8],Does KLF4 target RAB26 to inhibit autophagy in CC cells?,Yes,Yes,
+24,KLF4 targets RAB26 to decrease 5-FU resistance in CC cells.,[8],Does KLF4 target RAB26 to decrease 5-FU resistance in CC cells?,Yes,Yes,

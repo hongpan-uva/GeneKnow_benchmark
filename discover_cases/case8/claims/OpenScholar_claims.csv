@@ -1,0 +1,27 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,RUNX2 is a crucial transcription factor for osteoblast differentiation.,[0],Is RUNX2 a crucial transcription factor for osteoblast differentiation?,Yes,Yes,
+2,"RUNX2 regulates the expression of major bone matrix protein genes, including Col1a1, Spp1, Ibsp, Bglap2, and Fn1.",[0],"Does RUNX2 regulate expression of Col1a1, Spp1, Ibsp, Bglap2, and Fn1?",Yes,Yes,
+3,RUNX2 is essential for osteoblast differentiation.,[0],Is RUNX2 essential for osteoblast differentiation?,Yes,Yes,
+4,RUNX2 is essential for chondrocyte maturation.,[0],Is RUNX2 essential for chondrocyte maturation?,Yes,Yes,
+5,RUNX2 regulates the proliferation of osteoblast progenitors by directly regulating Fgfr2 and Fgfr3.,[0],Does RUNX2 regulate osteoblast progenitor proliferation by directly regulating Fgfr2 and Fgfr3?,Yes,Yes,
+6,"In vitro, RUNX2 induces the expression of major bone matrix protein genes, including Col1a1, Spp1, Ibsp, Bglap2, and Fn1.",[0],"In vitro, does RUNX2 induce expression of Col1a1, Spp1, Ibsp, Bglap2, and Fn1?",Yes,Yes,
+7,"In vivo, RUNX2 regulates the expression of Col1a1, Spp1, Ibsp, Bglap2, and Fn1 in osteoblasts.",[8],"In vivo, does RUNX2 regulate expression of Col1a1, Spp1, Ibsp, Bglap2, and Fn1 in osteoblasts?",Yes,Idk,Fn1 regulation by RUNX2 in osteoblasts is not described in the passage.
+8,"In vivo, RUNX2 deficiency leads to impaired bone formation.",[8],"In vivo, does RUNX2 deficiency impair bone formation?",Yes,Yes,
+9,The CK2/HAUSP pathway stabilizes RUNX2.,[5],Does the CK2/HAUSP pathway stabilize RUNX2?,Yes,Yes,
+10,The CK2/HAUSP pathway regulates the commitment of skeletal stem cells to osteoprogenitors.,[5],Does the CK2/HAUSP pathway regulate skeletal stem cell commitment to osteoprogenitors?,Yes,Yes,
+11,The CK2/HAUSP pathway regulates the subsequent maturation of osteoprogenitors.,[5],Does the CK2/HAUSP pathway regulate maturation of osteoprogenitors?,Yes,Yes,
+12,"After commitment into osteoblasts, RUNX2 is required for the expression of major bone matrix protein genes.",[8],"After osteoblast commitment, is RUNX2 required for expression of major bone matrix protein genes?",Yes,Yes,
+13,"After commitment into osteoblasts, RUNX2 is required for the expression of Tnfsf11.",[8],"After osteoblast commitment, is RUNX2 required for Tnfsf11 expression?",Yes,Yes,
+14,RUNX2 is a molecular sensor of the osteoblast REDOX environment.,[3],Is RUNX2 a molecular sensor of the osteoblast redox environment?,Yes,Yes,
+15,RUNX2 mechanistically clarifies how ROS negatively impacts osteoblast differentiation and bone formation.,[3],Does RUNX2 mechanistically clarify how ROS negatively impacts osteoblast differentiation and bone formation?,Yes,Yes,
+16,VGLL4 relieves TEADs-mediated transcriptional inhibition of RUNX2.,[4],Does VGLL4 relieve TEADs-mediated transcriptional inhibition of RUNX2?,Yes,Yes,
+17,VGLL4 promotes osteoblast differentiation.,[4],Does VGLL4 promote osteoblast differentiation?,Yes,Yes,
+18,VGLL4 promotes bone development.,[4],Does VGLL4 promote bone development?,Yes,Yes,
+19,RUNX2 regulates the BMP4 pathway by inhibiting CHRDL1 transcription.,[2],Does RUNX2 regulate the BMP4 pathway by inhibiting CHRDL1 transcription?,Yes,Yes,
+20,The FXR receptor stabilizes RUNX2 by inhibiting Thoc6-mediated ubiquitination.,[6],Does the FXR receptor stabilize RUNX2 by inhibiting Thoc6-mediated ubiquitination?,Yes,Yes,
+21,The FXR receptor promotes osteogenic activity in BMSCs.,[6],Does the FXR receptor promote osteogenic activity in BMSCs?,Yes,Yes,
+22,Tripeptide IRW initiates differentiation in osteoblasts via the RUNX2 pathway.,[9],Does tripeptide IRW initiate osteoblast differentiation via the RUNX2 pathway?,Yes,Yes,
+23,Regulation of RUNX2 by post-translational modifications plays a crucial role in controlling bone homeostasis.,[7],Does regulation of RUNX2 by post-translational modifications play a crucial role in bone homeostasis?,Yes,Idk,Homeostasis not explicitly stated; PTMs discussed for osteogenesis and bone formation.
+24,"Post-translational modifications such as phosphorylation, acetylation, and ubiquitination regulate RUNX2.",[7],"Do post-translational modifications like phosphorylation, acetylation, and ubiquitination regulate RUNX2?",Yes,Yes,
+25,Dysregulation of RUNX2 can lead to various bone disorders.,[9],Can dysregulation of RUNX2 lead to various bone disorders?,Yes,Idk,Passage doesn't mention RUNX2 dysregulation causing bone disorders.
+26,Understanding the functional relationships between RUNX2 and osteoblasts is crucial for the development of novel therapeutic strategies for bone diseases.,,Is understanding RUNX2-osteoblast relationships crucial for developing new therapies for bone diseases?,Yes,,

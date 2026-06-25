@@ -1,0 +1,34 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,PAX5 is a transcription factor.,[0],Is PAX5 a transcription factor?,Yes,Yes,
+2,PAX5 plays an essential role in B cell development and function.,[0],Does PAX5 play an essential role in B cell development and function?,Yes,Idk,Essential for development; essential role in function not established here.
+3,Functional relationships between PAX5 and B cells have been extensively studied.,[2],Have functional relationships between PAX5 and B cells been extensively studied?,Yes,Yes,
+4,Several key interactions between PAX5 and B cells have been identified.,[2],Have several key interactions between PAX5 and B cells been identified?,Yes,Yes,
+5,PAX5 regulates B cell lineage commitment.,[3],Does PAX5 regulate B cell lineage commitment?,Yes,Yes,
+6,PAX5 regulates B cell differentiation.,[3],Does PAX5 regulate B cell differentiation?,Yes,Yes,
+7,PAX5 regulates terminal differentiation of B cells into plasma cells.,[3],Does PAX5 regulate terminal differentiation of B cells into plasma cells?,Yes,Yes,
+8,PAX5 interacts with PU.1.,[6],Does PAX5 interact with PU.1?,Yes,Idk,"The text shows PU.1 binds Pax5 enhancer, not PAX5-PU.1 protein interaction."
+9,PAX5 dysregulation has been linked to B cell acute lymphoblastic leukemia.,[0];[4],Has PAX5 dysregulation been linked to B cell acute lymphoblastic leukemia?,Yes,Yes,
+10,PAX5 is involved in the regulation of B cell-specific expression through the recruitment of Thy28 and Myosin-9 (MYH9) to the Pax5 locus.,[2],Is PAX5 involved in regulating B cell-specific expression by recruiting Thy28 and MYH9 to the Pax5 locus?,Yes,No,Thy28 recruits MYH9 to Pax5; Pax5 does not recruit them.
+11,PAX5 is essential for the developmental pathway controlling V-to-DJ recombination at the immunoglobulin heavy-chain locus.,[0],Is PAX5 essential for the developmental pathway controlling V-to-DJ recombination at the immunoglobulin heavy-chain locus?,Yes,No,"Rearrangement is greatly reduced but present; passage suggests involvement, not essentiality."
+12,PAX5 has been implicated in the balance between immunoregulatory B cells and plasma cells.,[3],Has PAX5 been implicated in the balance between immunoregulatory B cells and plasma cells?,Yes,Yes,
+13,PAX5 dysregulation contributes to the dysfunction of B cell differentiation.,[3],Does PAX5 dysregulation contribute to dysfunctional B cell differentiation?,Yes,Yes,
+14,PAX5 dysregulation promotes tumor progression.,[3],Does PAX5 dysregulation promote tumor progression?,Yes,Idk,Not explicitly shown that PAX5 dysregulation promotes tumor growth.
+15,PON2 interacts with PAX5.,[5],Does PON2 interact with PAX5?,Yes,Idk,Passage does not mention PON2-PAX5 interaction.
+16,PON2 subverts metabolic gatekeeper functions in B cells.,[5],Does PON2 subvert metabolic gatekeeper functions in B cells?,Yes,Yes,
+17,PON2 promotes leukemogenesis.,[5],Does PON2 promote leukemogenesis?,Yes,Yes,
+18,PAX5 expression is upregulated in mycosis fungoides.,[7],Is PAX5 expression upregulated in mycosis fungoides?,Yes,Idk,No explicit upregulation of PAX5; only increased PAX5+/CD20+ cell fraction.
+19,B cells play a role in mycosis fungoides disease progression.,[7],Do B cells play a role in mycosis fungoides disease progression?,Yes,Idk,States B cells could potentially play a role; not definitively established.
+20,CD74 interacts with PAX5 to regulate transcription in normal B cells.,[8],Does CD74 interact with PAX5 to regulate transcription in normal B cells?,Yes,Yes,
+21,CD74 may be a target for future treatments.,[8],May CD74 be a target for future treatments?,Yes,Idk,"Passage mentions targeting pathways, not CD74 specifically."
+22,Dysregulation of innate immunity plays a driving role in the clonal evolution of pre-malignant Pax5+/− B-cell precursors toward leukemia.,[4],Does dysregulated innate immunity drive clonal evolution of pre-malignant Pax5+/- B-cell precursors toward leukemia?,Yes,Yes,
+23,The PON2 lactonase moiety hydrolyzes the lactone-prodrug 3OC12 to form a cytotoxic intermediate.,[5],Does the PON2 lactonase moiety hydrolyze the lactone-prodrug 3OC12 to form a cytotoxic intermediate?,Yes,Yes,
+24,The cytotoxic intermediate formed by the PON2 lactonase moiety selectively kills patient-derived B-ALL cells.,[5],Does the cytotoxic intermediate formed by the PON2 lactonase moiety selectively kill patient-derived B-ALL cells?,Yes,Yes,
+25,The cytotoxic intermediate formed by the PON2 lactonase moiety may be leveraged as synthetic lethality to overcome drug resistance in refractory B-ALL.,[5],Can the cytotoxic intermediate formed by PON2 lactonase be leveraged as synthetic lethality to overcome drug resistance in refractory B-ALL?,Yes,Yes,
+26,The miR-155–PU.1 axis acts on Pax5 to enable efficient terminal B cell differentiation.,[6],Does the miR-155–PU.1 axis act on Pax5 to enable efficient terminal B cell differentiation?,Yes,Yes,
+27,The initial steps of B-cell acute lymphoblastic leukemia development usually pass unnoticed in children.,[4],Do the initial steps of B-cell acute lymphoblastic leukemia development usually pass unnoticed in children?,Yes,Yes,
+28,Exposure to immune stressors triggers the transformation of preleukemic B cells to full-blown B-cell acute lymphoblastic leukemia.,[4],Does exposure to immune stressors trigger transformation of preleukemic B cells to full-blown B-cell acute lymphoblastic leukemia?,Yes,Yes,
+29,Deacetylation of PAX5 by SIRT7 promotes PAX5 protein stability.,[1],Does SIRT7-mediated deacetylation of PAX5 promote PAX5 protein stability?,Yes,Yes,
+30,Deacetylation of PAX5 by SIRT7 promotes PAX5 transcriptional activity.,[1],Does SIRT7-mediated deacetylation of PAX5 promote PAX5 transcriptional activity?,Yes,Yes,
+31,PAX5 has been used as a biomarker for B cell acute lymphoblastic leukemia.,[5],Has PAX5 been used as a biomarker for B cell acute lymphoblastic leukemia?,Yes,Idk,Passage does not state PAX5 used as a biomarker.
+32,PAX5 expression is influenced by its acetylation status.,[1],Is PAX5 expression influenced by its acetylation status?,Yes,Yes,
+33,"PAX5 expression is influenced by interaction with other transcription factors, such as PU.1.",[6],"Is PAX5 expression influenced by interactions with other transcription factors, such as PU.1?",Yes,Yes,

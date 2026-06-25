@@ -1,0 +1,22 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,ESR1 mutations are a common mechanism of acquired resistance to endocrine therapy in hormone receptor-positive (HR+) breast cancer.,,Are ESR1 mutations a common mechanism of acquired resistance to endocrine therapy in HR+ breast cancer?,Yes,,
+2,ESR1 mutations can preexist in primary tumors.,[3],Can ESR1 mutations preexist in primary tumors?,Yes,Yes,
+3,ESR1 mutations can be enriched during metastasis.,[3],Can ESR1 mutations become enriched during metastasis?,Yes,Yes,
+4,ESR1 mutations can disrupt the ESR1 gene.,[0],Can ESR1 mutations disrupt the ESR1 gene?,Yes,Idk,Passage describes missense ESR1 mutations; gene disruption not addressed.
+5,ESR1 mutations can lead to a reprogrammed cell adhesive gene network.,[0],Can ESR1 mutations lead to a reprogrammed cell-adhesive gene network?,Yes,Yes,
+6,ESR1 mutations can lead to enhanced cell-cell contacts.,[0],Can ESR1 mutations lead to enhanced cell-cell contacts?,Yes,Yes,
+7,ESR1 mutations can lead to decreased cell-extracellular matrix (ECM) adhesion.,[0],Can ESR1 mutations decrease cell-extracellular matrix adhesion?,Yes,Yes,
+8,"ESR1 mutations can result in the formation of larger, more compact circulating tumor cell (CTC) clusters.",[0],"Can ESR1 mutations cause formation of larger, more compact CTC clusters?",Yes,Yes,
+9,"Larger, more compact circulating tumor cell (CTC) clusters are enriched in patients with ESR1-mutated metastatic breast cancer.",[0],"Are larger, more compact CTC clusters enriched in patients with ESR1-mutated metastatic breast cancer?",Yes,Idk,Clusters enriched clinically; compactness in patients not reported.
+10,"ESR1 mutations can lead to the upregulation of genes involved in cell adhesion and migration, such as SLC7A11.",[0],Can ESR1 mutations upregulate adhesion and migration genes such as SLC7A11?,Yes,Idk,SLC7A11 not mentioned; no evidence of its regulation.
+11,"ESR1 mutations can lead to the downregulation of genes involved in cell adhesion and migration, such as TIMP3.",[0],Can ESR1 mutations downregulate adhesion and migration genes such as TIMP3?,Yes,Yes,
+12,ESR1 mutations are associated with poor clinical outcomes in hormone receptor-positive (HR+) breast cancer.,[2];[3],Are ESR1 mutations associated with poor clinical outcomes in HR+ breast cancer?,Yes,Yes,
+13,Patients with ESR1 mutations can benefit from treatment with fulvestrant and CDK4/6-targeted therapies.,[3],Can patients with ESR1 mutations benefit from fulvestrant and CDK4/6-targeted therapies?,Yes,Yes,
+14,ESR1 mutations can lead to the activation of the PI3K/AKT pathway.,[8],Can ESR1 mutations activate the PI3K/AKT pathway?,Yes,Idk,Passage doesn't state ESR1 activates PI3K/AKT signaling.
+15,The PI3K/AKT pathway is a common mechanism of resistance to endocrine therapy.,[8],Is the PI3K/AKT pathway a common mechanism of resistance to endocrine therapy?,Yes,Idk,"Listed as a mechanism, but not stated to be common."
+16,ESR1 mutations can disrupt immune surveillance in hormone receptor-positive (HR+) breast cancer.,[2],Can ESR1 mutations disrupt immune surveillance in HR+ breast cancer?,Yes,Yes,
+17,ESR1 mutations can lead to the downregulation of molecules involved in antigen presentation in hormone receptor-positive (HR+) breast cancer.,[2],Can ESR1 mutations downregulate antigen presentation molecules in HR+ breast cancer?,Yes,Yes,
+18,ESR1 mutations can lead to loss of HLA Class I gene expression in hormone receptor-positive (HR+) breast cancer.,[2],Can ESR1 mutations lead to loss of HLA Class I expression in HR+ breast cancer?,Yes,Yes,
+19,ESR1 mutations can be associated with the development of metastasis.,[3],Are ESR1 mutations associated with the development of metastasis?,Yes,Yes,
+20,The presence of ESR1 mutations in circulating tumor DNA (ctDNA) can be used as a biomarker for metastatic disease.,[3],Can ESR1 mutations in ctDNA serve as a biomarker for metastatic disease?,Yes,Yes,
+21,ESR1 mutations can be used to guide treatment decisions.,[3],Can ESR1 mutations guide treatment decisions?,Yes,Yes,

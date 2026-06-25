@@ -1,0 +1,28 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,MYOD1 is a transcription factor.,[0];[1];[2];[4];[6];[9],Is MYOD1 a transcription factor?,Yes,Yes,
+2,MYOD1 promotes the expression of muscle-specific genes.,[0];[1];[2];[4];[6];[9],Does MYOD1 promote the expression of muscle-specific genes?,Yes,Yes,
+3,MYOD1 is involved in the regulation of myogenesis.,[0];[1];[2];[4];[6];[9],Is MYOD1 involved in regulating myogenesis?,Yes,Yes,
+4,MYOD1 is involved in the regulation of myoblast differentiation.,[0];[1];[2];[4];[6];[9],Is MYOD1 involved in regulating myoblast differentiation?,Yes,Yes,
+5,MYOD1 is involved in the regulation of muscle fiber formation.,[0];[1];[2];[4];[6];[9],Is MYOD1 involved in regulating muscle fiber formation?,Yes,Yes,
+6,MYOD1 is sufficient to activate the muscle differentiation program.,[0];[1];[2],Is MYOD1 sufficient to activate the muscle differentiation program?,Yes,No,"In hPSCs, MYOD1 alone fails; needs POU5F1 knockdown or other factors."
+7,MYOD1 induces myosin heavy-chain expression.,[0];[1];[2],Does MYOD1 induce myosin heavy-chain expression?,Yes,Yes,
+8,MYOD1 inhibits the expression of FUT4.,[3],Does MYOD1 inhibit FUT4 expression?,Yes,Yes,
+9,Inhibition of FUT4 expression by MYOD1 suppresses cell migration.,[3],Does inhibition of FUT4 expression by MYOD1 suppress cell migration?,Yes,Yes,
+10,Inhibition of FUT4 expression by MYOD1 suppresses cell invasion.,[3],Does inhibition of FUT4 expression by MYOD1 suppress cell invasion?,Yes,Yes,
+11,MYOD1 is repressed in cells with cardiolipin deficiency.,[4],Is MYOD1 repressed in cells with cardiolipin deficiency?,Yes,Yes,
+12,Repression of MYOD1 in cells with cardiolipin deficiency leads to impaired muscle differentiation.,[4],Does repression of MYOD1 in cardiolipin-deficient cells impair muscle differentiation?,Yes,Yes,
+13,MYOD1 has a role in regulating CCND2 expression.,[8],Does MYOD1 play a role in regulating CCND2 expression?,Yes,Yes,
+14,CCND2 is involved in muscle formation and differentiation in cattle.,[8],Is CCND2 involved in muscle formation and differentiation in cattle?,Yes,Yes,
+15,Foxo3 knockdown reduces MYOD1 expression.,[9],Does Foxo3 knockdown reduce MYOD1 expression?,Yes,Yes,
+16,Foxo3 knockdown leads to impaired myotube formation.,[9],Does Foxo3 knockdown impair myotube formation?,Yes,Yes,
+17,Foxo3 knockdown leads to altered muscle fiber properties.,[9],Does Foxo3 knockdown alter muscle fiber properties?,Yes,Yes,
+18,MYOD1 has a role in regulating the expression of PDE1B.,[8],Does MYOD1 play a role in regulating PDE1B expression?,Yes,Yes,
+19,MYOD1 has a role in regulating the expression of ADAMTS1.,[8],Does MYOD1 play a role in regulating ADAMTS1 expression?,Yes,Yes,
+20,MYOD1 has a role in regulating the expression of DPT.,[8],Does MYOD1 play a role in regulating DPT expression?,Yes,Yes,
+21,Fibroblast growth factor (FGF) inhibits MYOD1 expression.,[5],Does fibroblast growth factor inhibit MYOD1 expression?,Yes,Idk,FGF effect on MYOD1 expression not described.
+22,Fibroblast growth factor (FGF) prevents myogenic differentiation.,[5],Does fibroblast growth factor prevent myogenic differentiation?,Yes,Yes,
+23,MYOD1 interacts with CCND2 to regulate muscle formation and differentiation.,[8],Does MYOD1 interact with CCND2 to regulate muscle formation and differentiation?,Yes,Yes,
+24,MYOD1 has a role in regulating the expression of genes involved in muscle fiber formation and function.,[9],Does MYOD1 play a role in regulating expression of genes for muscle fiber formation and function?,Yes,Idk,MYOD1 promotes Myog; role in functional gene regulation not addressed.
+25,PDE1B is involved in muscle development.,[8],Is PDE1B involved in muscle development?,Yes,Idk,Only associations and possible compensatory role are mentioned.
+26,ADAMTS1 is involved in muscle development.,[8],Is ADAMTS1 involved in muscle development?,Yes,Idk,"Stated role is in regeneration after injury, not general development."
+27,DPT is involved in muscle development.,[8],Is DPT involved in muscle development?,Yes,Yes,

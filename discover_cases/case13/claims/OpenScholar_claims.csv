@@ -1,0 +1,26 @@
+id,claim,citation,question,claim_answer,paper_answer,answer_note
+1,PD-L1 expression is associated with increased tumor proliferation,[0],Is PD-L1 expression associated with increased tumor proliferation?,Yes,Yes,
+2,PD-L1 expression is associated with increased tumor aggressiveness,[0],Is PD-L1 expression associated with increased tumor aggressiveness?,Yes,Yes,
+3,PD-L1 expression is associated with shorter patient survival,[0],Is PD-L1 expression associated with shorter patient survival?,Yes,Yes,
+4,PD-L1 protein expression is observed in approximately 25-36% of NSCLC cases,[1];[2],Is PD-L1 protein expression observed in about 25-36% of NSCLC cases?,Yes,Yes,
+5,PD-L1 protein expression is significantly associated with tumor-infiltrating lymphocytes in both cohorts,[1],Is PD-L1 protein expression significantly associated with tumor-infiltrating lymphocytes in both cohorts?,Yes,Yes,
+6,Elevated levels of PD-L1 expression were observed in higher malignancy grades,[0],Were elevated PD-L1 levels observed in higher malignancy grades?,Yes,Yes,
+7,Elevated levels of PD-L1 expression were observed in higher lymph node status,[0],Were elevated PD-L1 levels observed with higher lymph node status?,Yes,Yes,
+8,Patients with low PD-L1 expression had longer overall survival compared to the group with high expression,[0],Did patients with low PD-L1 expression have longer overall survival than those with high expression?,Yes,Yes,
+9,PD-L1 gene expression is increased in higher malignancy grades,[0],Is PD-L1 gene expression increased in higher malignancy grades?,Yes,Idk,No data on PD-L1 mRNA levels across malignancy grades in passage.
+10,PD-L1 gene expression is increased in higher lymph node status,[0],Is PD-L1 gene expression increased with higher lymph node status?,Yes,Idk,No data on PD-L1 mRNA levels by lymph node status.
+11,PD-L1 expression is associated with better outcome,[1],Is PD-L1 expression associated with better outcome?,Yes,Yes,
+12,Circulating PD-L1 (cPD-L1) levels increased in patients treated with first-line chemotherapy,[2],Do circulating PD-L1 levels increase in patients treated with first-line chemotherapy?,Yes,Yes,
+13,PD-L1 expression in exosomes is associated with better outcome,[4];[5],Is exosomal PD-L1 expression associated with better outcome?,Yes,Yes,
+14,PD-L1 expression is upregulated in exosomes separated from patient blood,[3];[5],Is PD-L1 expression upregulated in exosomes isolated from patient blood?,Yes,Yes,
+15,Targeting USP5 is a promising strategy for cancer therapy,[6],,Yes,,
+16,PD-L1 expression is associated with shorter overall survival,[6],Is PD-L1 expression associated with shorter overall survival?,Yes,Idk,Passage doesn't state PD-L1 links to shorter overall survival.
+17,The disease control rate of patients with exosomal PD-L1 ≥166 pg/mL was 100%,[5],Was the disease control rate 100% for patients with exosomal PD-L1 ≥166 pg/mL?,Yes,Idk,No data on 166 pg/mL threshold or 100% DCR.
+18,Exosomal PD-L1 is associated with the treatment response of patients using ICIs,[5],Is exosomal PD-L1 associated with treatment response in patients using ICIs?,Yes,Yes,
+19,PD-L1 is a well-known immunosuppressive molecule,[6],Is PD-L1 a well-known immunosuppressive molecule?,Yes,Yes,
+20,PD-L1 expression in NSCLC is associated with poorer prognosis,[6],Is PD-L1 expression in NSCLC associated with poorer prognosis?,Yes,Idk,No explicit association between PD-L1 expression and poorer prognosis in NSCLC.
+21,PD-L1 expression is associated with shorter overall survival,[7],Is PD-L1 expression associated with shorter overall survival?,Yes,No,"PD-L1 positivity showed numerically longer OS, not shorter."
+22,PD-L1 expression is associated with poorer prognosis,[8],Is PD-L1 expression associated with poorer prognosis?,Yes,Yes,
+23,PD-L1 expression is associated with improved objective response rate,[7],Is PD-L1 expression associated with improved objective response rate?,Yes,Yes,
+24,PD-L1 expression is associated with improved progression-free survival,[7],Is PD-L1 expression associated with improved progression-free survival?,Yes,Yes,
+25,PD-L1 expression is associated with poorer prognosis,[9],Is PD-L1 expression associated with poorer prognosis?,Yes,Idk,Passage doesn’t address PD-L1’s association with prognosis.
