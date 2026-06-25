@@ -1,0 +1,1 @@
+What functional relationships between {gene} and {cell type} have been directly reported in peer-reviewed research articles?
